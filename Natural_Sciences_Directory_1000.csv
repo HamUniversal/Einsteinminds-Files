@@ -1,0 +1,1001 @@
+name,url,description,primary_category,all_categories,access,level
+American Museum of Natural History,https://www.amnh.org/,"Exhibitions, OLogy kids' site and distance-learning programmes from the world's largest natural-history museum.",KIDS,KIDS|ECOL,paid,all
+California Academy of Sciences,https://www.calacademy.org/,"Aquarium, planetarium, rainforest and natural-history museum with free educator materials.",KIDS,KIDS|ECOL,paid,all
+Celestia,https://celestia.space/,Real-time 3-D space simulation you can fly through.,KIDS,KIDS|ASTRO,open,all
+Chemtube3D,https://www.chemtube3d.com/,"Interactive 3-D orbital, vibration and reaction animations for teaching chemistry.",KIDS,KIDS|CHEM,free,all
+Enchanted Learning Science,https://www.enchantedlearning.com/,Printable science diagrams and worksheets for early-years and primary teachers.,KIDS,KIDS,freemium,all
+Encyclopedia of Life,https://eol.org/,"Aggregated species pages with traits, images and literature.",KIDS,KIDS|ECOL|DATA,open,all
+Field Museum,https://www.fieldmuseum.org/,"Sue the T. rex, dioramas and online collections plus classroom resources.",KIDS,KIDS|ECOL,paid,all
+GLOBE Program,https://www.globe.gov/,NASA-led school programme collecting standardised environmental observations.,KIDS,KIDS|CITIZ|EARTH,free,all
+In-The-Sky.org,https://in-the-sky.org/,"Personalised sky charts, rise/set tables and planetarium views.",KIDS,KIDS|ASTRO,free,all
+John Muir Laws,https://johnmuirlaws.com/,Nature journaling curriculum and drawing guides for all ages.,KIDS,KIDS|ECOL,freemium,all
+Little Scientists,https://www.littlescientists.org/,Early-childhood inquiry-science programme with play-based activity cards for ages 3-6.,KIDS,KIDS,free,all
+MEL Science,https://melscience.com/,Subscription experiment kits paired with an AR chemistry and physics app.,KIDS,KIDS,paid,all
+MolView,https://molview.org/,Browser sketcher that pulls 3-D structures and spectra from public databases.,KIDS,KIDS|CHEM,free,all
+Monterey Bay Aquarium,https://www.montereybayaquarium.org/,"Live sea-otter and jelly cams, classroom activities and seafood-watch conservation tools.",KIDS,KIDS|EARTH,paid,all
+Mystery Science,https://www.mysteryscience.com/,Award-winning elementary science lessons built around a question of the week.,KIDS,KIDS,freemium,all
+NASA Climate Kids,https://climate.nasa.gov/nasa-climate-kids/,"Kid-facing explanation of climate change with games, news and experiments.",KIDS,KIDS|EARTH,free,all
+NASA Jet Propulsion Laboratory Education,https://www.jpl.nasa.gov/edu/,Robotics and space-engineering classroom activities plus student robotics competitions.,KIDS,KIDS|ASTRO,free,all
+NASA Space Place,https://spaceplace.nasa.gov/,"NASA's own science-for-kids site: moon phases, skywatching tips and space games.",KIDS,KIDS|ASTRO,free,all
+National Geographic Education,https://www.nationalgeographic.org/education/,"Free geography, environment and life-science lesson plans and map resources for teachers.",KIDS,KIDS|EARTH,free,all
+National Geographic Kids,https://kids.nationalgeographic.com/,"Animals, habitats, games and homework help aimed at primary-school naturalists.",KIDS,KIDS,freemium,all
+NOAA Ocean Exploration,https://oceanexplorer.noaa.gov/,Ship and ROV expeditions with live video and educator material.,KIDS,KIDS|EARTH,free,all
+NOAA SciJinks,https://scijinks.gov/,"Weather, climate and space science written for children by NOAA and NASA.",KIDS,KIDS|EARTH,free,all
+Planetary Society,https://www.planetary.org/,"Advocacy and education for planetary exploration, with a guide to space careers.",KIDS,KIDS|ASTRO|SOC,paid,all
+PlantVillage,https://plantvillage.psu.edu/,Penn State project with AI disease diagnosis for cassava and other crops.,KIDS,KIDS|AGRI|SCIAI,free,all
+RSC Teaching Resources,https://www.rsc.org/education,"Royal Society of Chemistry classroom activities, practical experiments and careers material.",KIDS,KIDS|CHEM,freemium,all
+San Diego Zoo Wildlife Alliance,https://sandiegozoowildlifealliance.org/,Zoo and wildlife-conservation organisation with kid-friendly animal cams and lesson materials.,KIDS,KIDS|ECOL,paid,all
+Saskatchewan Science Centre,https://www.sasksciencecentre.com/,"Digital science centre with virtual camps, experiments and a STEM-at-home programme.",KIDS,KIDS,freemium,all
+Science Buddies,https://www.sciencebuddies.org/,Project-idea wizard and step-by-step science-fair guidance from elementary to high school.,KIDS,KIDS,free,all
+Science Journal for Kids,https://www.sciencejournalforkids.org/,"Peer-reviewed papers rewritten in student-friendly language, with matched hands-on lesson plans.",KIDS,KIDS|LIT,free,int
+Stellarium,https://stellarium.org/,Open-source planetarium rendering the sky for any time and place.,KIDS,KIDS|ASTRO,open,all
+The Franklin Institute,https://www.fi.edu/,Physics-heavy museum learning site with interactive exhibits and at-home engineering challenges.,KIDS,KIDS,paid,all
+TheSkyLive,https://theskylive.com/,"Live positions of planets, satellites and the ISS for planning observations.",KIDS,KIDS|ASTRO,free,all
+USGS Science Education,https://www.usgs.gov/education,"Ready-to-use earth-science activities, maps and data investigations for classrooms.",KIDS,KIDS|OER|EARTH,free,all
+Wolfram Alpha,https://www.wolframalpha.com/,"Computational answer engine for unit conversions, formulae and physical data.",KIDS,KIDS|CODE,freemium,all
+Zoology Online,https://animaldiversity.org/,University of Michigan's Animal Diversity Web: natural history and taxonomy for students.,KIDS,KIDS|ECOL|DATA,open,all
+Anatomy & Physiology OpenStax,https://openstax.org/details/books/anatomy-and-physiology-2e,"Freely downloadable, peer-reviewed anatomy and physiology text used across health-science programmes.",OER,OER|HEALTH,free,all
+Biology for Majors,https://openstax.org/details/books/biology-2e,OpenStax's two-semester majors biology text with built-in animations and review questions.,OER,OER|BIO,free,int
+Biology LibreTexts,https://bio.libretexts.org/,Open biology texts from cell biology to ecology and evolution.,OER,OER|BIO,free,all
+Chemistry LibreTexts,https://chem.libretexts.org/,"The largest open chemistry textbook collection, from high school to graduate level.",OER,OER|CHEM,free,all
+CK-12,https://www.ck12.org/,"Free adaptive science textbooks, simulations and practice from elementary through high school.",OER,OER|KIDS,free,all
+Concord Consortium,https://www.concord.org/,STEM Learning Center with free data-centric modelling activities for grades 6-14.,OER,OER|KIDS,free,int
+CRC Handbook of Chemistry and Physics,https://www.routledge.com/,The classic one-volume reference for physical constants and material properties.,OER,OER|CHEM|MAT,paid,adv
+Engineering ToolBox,https://www.engineeringtoolbox.com/,Quick-reference tables and calculators for thermophysical and fluid properties.,OER,OER|SIM,freemium,all
+FEniCS tutorial,https://learn.scientific-python.org/,Community learning hub covering the scientific-Python stack end to end.,OER,OER|CODE,open,all
+Geology.com,https://geology.com/,"Reference articles, rock and mineral identification guides and hazard explainers.",OER,OER|EARTH,free,all
+Geosciences LibreTexts,https://geo.libretexts.org/,"Open geology, oceanography, meteorology and environmental-science texts.",OER,OER|EARTH,free,all
+Jupyter Book,https://jupyterbook.org/,Author computational textbooks and papers from notebooks and markdown.,OER,OER|LIT,open,all
+LibreTexts Natural Sciences,https://libretexts.org/,"Open textbooks and course materials across chemistry, physics, biology, geology and astronomy.",OER,OER|CHEM,free,all
+NCBI Bookshelf,https://www.ncbi.nlm.nih.gov/books/,"Hundreds of free molecular-biology and medicine texts, many formally recommended.",OER,OER|HEALTH,free,adv
+NIST Chemistry WebBook,https://webbook.nist.gov/chemistry/,"Authoritative thermochemical, ion energetics and IR/UV reference data.",OER,OER|CHEM|DATA,free,adv
+Open Textbooks for Geoscience,https://www.geolab.unc.edu/,University-developed open laboratory manuals and geology course material.,OER,OER|EARTH,free,int
+OpenLearn Science Maths & Tech,https://www.open.edu/openlearn/science-maths-technology,"The Open University's free short courses in science, technology and maths.",OER,OER|VIDEO,free,all
+OpenSciEd,https://www.openscied.org/,"Free, open, phenomenon-based middle- and high-school science units written with teachers.",OER,OER|KIDS,free,int
+R-ToolTip,https://r.geocompx.org/,"Open online textbook on geocomputation with R, covering spatial data science.",OER,OER|EARTH,open,adv
+Skill and Drill Chemistry,https://skillsanddrills.com/,Open problem sets and worked solutions for general and physical chemistry practice.,OER,OER|CHEM,free,int
+Smithsonian Science Education Center,https://www.smithsonianeducation.org/,Classroom investigations and educator guides built around Smithsonian collections and research.,OER,OER|KIDS,free,all
+Synonym,https://synonym.com/,Video-first learning hub with thousands of short science lessons organised by topic.,OER,OER|VIDEO,free,all
+The Physics Classroom,https://www.physicsclassroom.com/,"High-school physics tutorials, interactives and a teacher resource section.",OER,OER|KIDS,freemium,int
+BBC Bitesize Science,https://www.bbc.co.uk/bitesize,"Curriculum science lessons, quizzes and videos for ages 5 to 16.",VIDEO,VIDEO|KIDS,free,all
+BBC Earth,https://www.bbcearth.com/,"Natural-history films, species guides and short-form wildlife science.",VIDEO,VIDEO|ECOL,freemium,all
+BrainPOP Science,https://www.brainpop.com/,Animated science topics with quizzes and concept maps for elementary and middle school.,VIDEO,VIDEO|KIDS,paid,all
+Brilliant Science,https://brilliant.org/,"Interactive problem-solving courses in physics, chemistry, astronomy and quantitative reasoning.",VIDEO,VIDEO,freemium,all
+Chemistry World,https://www.chemistryworld.com/,"Royal Society of Chemistry magazine with news, features and teaching resources.",VIDEO,VIDEO|CHEM,freemium,adv
+Coursera Science,https://www.coursera.org/,University science courses from introductory astronomy to specialist genomics specialisations.,VIDEO,VIDEO,freemium,all
+Crash Course Science,https://www.youtube.com/@crashcourse,"Fast-paced video series on biology, chemistry, physics, astronomy, ecology and anatomy.",VIDEO,VIDEO,free,all
+Deep Look,https://deeplook.org/,PBS digital series filming the hidden lives of small creatures in extreme close-up.,VIDEO,VIDEO|ECOL,free,all
+edX Science,https://www.edx.org/,"MITx, HarvardX and other university science courses, many audit-free.",VIDEO,VIDEO,freemium,all
+ESA Video,https://www.esa.int/ESA_Multimedia/Videos,"European space agency film archive of missions, astronauts and technology.",VIDEO,VIDEO|ASTRO,free,all
+FutureLearn Science,https://www.futurelearn.com/,Short online science courses from UK universities and research organisations.,VIDEO,VIDEO,freemium,all
+Generation Genius,https://www.generationgenius.com/,Standards-aligned science videos and lesson sets for grades K-8.,VIDEO,VIDEO|KIDS,paid,all
+HHMI BioInteractive,https://www.biointeractive.org/,"Free short films, data points and virtual labs on evolution, ecology and genetics.",VIDEO,VIDEO|BIO,free,all
+It's Okay To Be Smart,https://www.youtube.com/@itsokaytobesmart,"Biology, chemistry and evolution explainers with a strong storytelling bent.",VIDEO,VIDEO|BIO,free,all
+LinkedIn Learning Science,https://www.linkedin.com/learning/,"Short professional courses on data analysis, lab management and scientific communication.",VIDEO,VIDEO,paid,all
+MinutePhysics,https://www.minutephysics.com/,Hand-drawn one-minute physics explainers with a substantial cosmology back catalogue.,VIDEO,VIDEO,free,all
+MIT OpenCourseWare,https://ocw.mit.edu/,"Free lecture notes, assignments and exams from MIT's physics, chemistry, biology and earth-science courses.",VIDEO,VIDEO|OER,free,adv
+NASA Live,https://www.nasa.gov/nasalive/,"Live mission coverage, launch feeds and the ISS stream.",VIDEO,VIDEO|ASTRO,free,all
+National Science Foundation Science Zone,https://www.nsf.gov/news/special_reports/,Multimedia explainers drawn directly from NSF-funded research.,VIDEO,VIDEO|SOC,free,all
+Nature Video,https://www.nature.com/nature-video-journal/,Nature Portfolio's science film journal and explainer channel.,VIDEO,VIDEO|LIT,freemium,adv
+NOAA Ocean Today,https://oceantoday.noaa.gov/,Short ocean-science video stories plus a full classroom activity library.,VIDEO,VIDEO|OER|EARTH,free,all
+PBS LearningMedia,https://www.pbslearningmedia.org/,"Free curriculum-aligned videos, interactives and lesson plans from PreK upward, including a large earth-and-space-science collection.",VIDEO,VIDEO|KIDS,free,all
+PBS Nature,https://www.pbs.org/wnet/nature/,Long-running natural-history documentary series with classroom and field content.,VIDEO,VIDEO|ECOL,freemium,all
+Perimeter Institute,https://perimeterinstitute.ca/,Theoretical physics institute with free recorded courses and outreach.,VIDEO,VIDEO|ASTRO|SOC,free,adv
+Periodic Videos,https://www.periodicvideos.com/,"The elements of the periodic table demonstrated on camera, one video per element.",VIDEO,VIDEO|CHEM,free,all
+PhET Interactive Simulations,https://phet.colorado.edu/,"University of Colorado's library of HTML5 science simulations, used worldwide from primary school up.",VIDEO,VIDEO|KIDS|SIM,free,all
+Sixty Symbols,https://www.sixtysymbols.com/,University of Nottingham physicists explain the symbols of physics and astronomy.,VIDEO,VIDEO,free,adv
+SmarterEveryDay,https://www.smartereveryday.com/,"High-speed and field physics investigations, from sonic booms to rocket engines.",VIDEO,VIDEO,free,all
+TED-Ed,https://ed.ted.com/,"Animated science lessons with discussion questions, usable from upper elementary upward.",VIDEO,VIDEO|KIDS|OER,free,all
+The Kid Should See This,https://thekidshouldseethis.com/,"Curated smart videos on nature, physics and space, annotated for teachers and parents.",VIDEO,VIDEO|KIDS,free,all
+Udemy Science,https://www.udemy.com/,"Marketplace courses on practical lab, GIS, scientific-python and bioinformatics skills.",VIDEO,VIDEO,paid,all
+Veritasium,https://veritasium.com/,"Physics and engineering videos built around experiments, misconceptions and interviews.",VIDEO,VIDEO,free,all
+3Dmol.js,https://3dmol.org/,Browser molecular visualisation library for embedding interactive structures in teaching pages.,CHEM,CHEM|BIO,open,all
+AiZynthFinder,https://github.com/MolecularAI/aizynthfinder,Open-source retrosynthesis planning using Monte Carlo tree search and a template library.,CHEM,CHEM|SCIAI,open,adv
+American Chemical Society Publications,https://pubs.acs.org/,"ACS journal platform, the largest chemistry publishing programme.",CHEM,CHEM|LIT|SOC,paid,adv
+Atomwise,https://www.atomwise.com/,AI company screening billions of synthesizable molecules for drug-discovery partners.,CHEM,CHEM|SCIAI,paid,adv
+Avogadro,https://avogadro.cc/,Free cross-platform molecular editor and 3-D visualiser for building and inspecting structures.,CHEM,CHEM|SIM,open,all
+CAS Common Chemistry,https://commonchemistry.cas.org/,Free public subset of CAS Registry with structures and identifiers for common substances.,CHEM,CHEM|DATA,free,all
+ChemDataExtractor,https://chemdataextractor.org/,"NLP toolkit that pulls chemical names, properties and spectra from the literature.",CHEM,CHEM|CODE,open,adv
+ChemDoodle,https://chemdoodle.com/,Structure editor with a browser component and an institutional web server option.,CHEM,CHEM,paid,all
+ChemDraw,https://www.chemdraw.com/,The long-standing commercial structure-drawing and naming standard for chemists.,CHEM,CHEM,paid,all
+Chemicalize,https://chemaxon.com/,"Instant property prediction, pKa and logP estimation from a drawn structure.",CHEM,CHEM|SCIAI,freemium,adv
+ChemSpider,https://www.chemspider.com/,Royal Society of Chemistry structure database integrating hundreds of data sources.,CHEM,CHEM|DATA,free,adv
+COCO,https://www.cocosimulator.org/,CAPE-OPEN to CAPE-OPEN process modelling environment for chemical engineering.,CHEM,CHEM|SIM,open,adv
+Coscientist,https://www.coscientist.ai/,CMU's LLM agent that plans and runs chemistry experiments on standard laboratory hardware.,CHEM,CHEM|SCIAI,open,adv
+Dalton,https://www.daltonprogram.org/,Molecular electronic-structure program specialising in molecular properties and response theory.,CHEM,CHEM|SIM,open,adv
+DECIMER,https://decimer.ai/,"Deep-learning optical chemical structure recognition, turning molecule drawings into SMILES.",CHEM,CHEM|SCIAI,open,adv
+DeepChem,https://deepchem.io/,"Open-source toolkit for deep learning on chemical and biological data, from graph networks to ADMET.",CHEM,CHEM|SCIAI|CODE,open,adv
+DGL-LifeSci,https://github.com/awslabs/dgl-lifesci,AWS library of graph-neural-network models for molecular property prediction and synthesis planning.,CHEM,CHEM|SCIAI,open,adv
+DWSIM,https://dwsim.org/,Open-source chemical process simulator for flowsheets and thermodynamics.,CHEM,CHEM|SIM,open,adv
+eMolecules,https://www.emolecules.com/,Searchable catalogue of purchasable screening compounds and building blocks.,CHEM,CHEM,freemium,adv
+European Chemicals Agency,https://echa.europa.eu/,REACH chemical database with hazard and regulatory information.,CHEM,CHEM|ENV|DATA,free,adv
+GAMESS,https://www.msg.chem.iastate.edu/gamess/,"General Atomic and Molecular Electronic Structure System, a long-lived academic workhorse.",CHEM,CHEM|SIM,open,adv
+Gaussian,https://gaussian.com/,"The most widely used electronic-structure package, covering DFT, coupled cluster and excited states.",CHEM,CHEM|SIM,paid,adv
+Gibbs free energy add-in,https://www.rsc.org/,"Royal Society of Chemistry teaching resources, data and classroom experiments.",CHEM,CHEM|SOC,freemium,all
+IBM RXN for Chemistry,https://rxn.res.ibm.com/,Browser tool predicting reaction outcomes and retrosynthetic routes from a drawn input.,CHEM,CHEM|SCIAI,freemium,adv
+International Union of Pure and Applied Chemistry,https://iupac.org/,"Global authority on chemical nomenclature, terminology and measurement.",CHEM,CHEM|SOC,free,adv
+JMol,https://jmol.sourceforge.net/,"Java-based 3-D molecular viewer, still the workhorse of many teaching and database sites.",CHEM,CHEM|BIO,open,all
+MarvinSketch,https://www.chemaxon.com/,"ChemAxon's structure editor, property predictors and chemical cartridge platform.",CHEM,CHEM,freemium,adv
+MetaboLights,https://www.ebi.ac.uk/metabolights/,EBI metabolomics repository for studies and raw data.,CHEM,CHEM|DATA|BIO,open,adv
+MolPort,https://www.molport.com/,Aggregated chemical catalogue linking structure search to multiple suppliers.,CHEM,CHEM,freemium,adv
+NGL Viewer,https://nglviewer.org/,Fast WebGL molecular viewer embedded in modern structural-biology and chemistry web resources.,CHEM,CHEM|BIO,open,adv
+NMRium,https://www.nmrium.org/,Open-source browser application for processing and visualising 1-D and 2-D NMR spectra.,CHEM,CHEM|CODE,open,adv
+NWChem,https://www.nwchem-sw.org/,PNNL's scalable computational chemistry suite for high-performance platforms.,CHEM,CHEM|SIM,open,adv
+Open Babel,https://openbabel.org/,Command-line chemical file-format converter and molecular toolkit supporting hundreds of formats.,CHEM,CHEM|CODE,open,adv
+OpenChemistry,https://openchemistry.org/,Open-source quantum chemistry and molecular visualisation projects.,CHEM,CHEM|CODE,open,adv
+ORCA,https://www.faccts.de/,FACCTs' quantum-chemistry program: DFT and correlated wave-function methods with a large academic user base.,CHEM,CHEM|SIM,freemium,adv
+Psi4,https://psicode.org/,Open-source ab initio quantum chemistry with a user-friendly Python input syntax.,CHEM,CHEM|SIM,open,adv
+PubChem,https://pubchem.ncbi.nlm.nih.gov/,"NIH's open chemical database of compounds, substances, bioassays and their biological activities.",CHEM,CHEM|DATA,free,all
+PySCF,https://www.pyscf.org/,"Python-based modular electronic-structure code for molecules and periodic solids, Apache-licensed.",CHEM,CHEM|SIM|CODE,open,adv
+RDKit,https://www.rdkit.org/,"The standard open-source cheminformatics toolkit: fingerprints, descriptors, reactions and substructure search.",CHEM,CHEM|CODE,open,adv
+RDKit Descriptors & ML,https://www.rdkit.org/docs/,RDKit documentation hub for turning structures into features for machine-learning models.,CHEM,CHEM|SCIAI,open,adv
+RSC Publishing,https://www.rsc.org/journals-books-databases/,"Royal Society of Chemistry journals, books and databases.",CHEM,CHEM|LIT|SOC,paid,adv
+Schrödinger Suite,https://www.schrodinger.com/,Commercial molecular modelling and free-energy-perturbation platform for drug design.,CHEM,CHEM|SCIAI,paid,adv
+SDBS Spectral Database,https://sdbs.db.aist.go.jp/,"AIST's integrated spectral database of organic compounds: NMR, IR, Raman and mass spectra.",CHEM,CHEM|DATA,free,adv
+SpectraBase,https://spectrabase.com/,"Searchable collection of experimental and predicted NMR, IR and mass spectra.",CHEM,CHEM|DATA,paid,adv
+TorchDrug,https://torchdrug.ai/,"Graph-and geometry-based deep learning toolkit for drug discovery, built on PyTorch.",CHEM,CHEM|SCIAI,open,adv
+USPTO Reaction Dataset,https://figshare.com/articles/dataset/,"Atom-mapped US patent reaction datasets, the standard benchmark for reaction ML.",CHEM,CHEM|DATA,open,adv
+XtalPi,https://www.xtalpi.com/,Quantum-physics-plus-AI platform for crystal-structure prediction and solid-form design.,CHEM,CHEM|SCIAI,paid,adv
+xtb,https://xtb-docs.readthedocs.io/,Grimme's semi-empirical extended tight-binding methods: geometry optimisation at enormous speed.,CHEM,CHEM|SIM,open,adv
+ZINC Database,https://zinc.docking.org/,Free library of commercially available compounds prepared for virtual screening and docking.,CHEM,CHEM|DATA,free,adv
+ABINIT,https://www.abinit.org/,"Plane-wave DFT suite with GW, DMFT and perturbation theory for materials and molecules.",MAT,MAT|SIM,open,adv
+AFLOW,https://aflowlib.org/,Autonomous workflow framework and database for high-throughput materials screening.,MAT,MAT|DATA,open,adv
+Allegro,https://github.com/mir-group/allegro,Strictly local equivariant potential enabling large-scale parallel MD.,MAT,MAT|SCIAI,open,adv
+ASE,https://wiki.fysik.dtu.dk/ase/,Atomic Simulation Environment: a common Python interface to dozens of atomistic codes.,MAT,MAT|SIM|CODE,open,adv
+CHGNet,https://github.com/CederGroupHub/chgnet,Pre-trained crystal Hamiltonian graph neural network for fast materials relaxation.,MAT,MAT|SCIAI,open,adv
+Citrine Informatics,https://citrine.io/,Materials and chemicals informatics platform combining data management with ML-guided formulation.,MAT,MAT|SCIAI,paid,adv
+CP2K,https://www.cp2k.org/,Atomistic simulation package mixing Gaussian and plane waves for DFT and molecular dynamics.,MAT,MAT|CHEM|SIM,open,adv
+Crystallography Open Database,https://www.crystallography.net/cod/,"Open-access collection of organic, inorganic and mineral crystal structures.",MAT,MAT|DATA,open,adv
+DeePMD-kit,https://docs.deepmodeling.com/projects/deepmd/,Deep potential molecular dynamics framework for training and running ML force fields.,MAT,MAT|SCIAI|SIM,open,adv
+GNoME,https://deepmind.google/discover/blog/gnome/,DeepMind's graph-network discovery effort that proposed millions of new crystal structures.,MAT,MAT|SCIAI,free,adv
+HOOMD-blue,https://hoomd-blue.readthedocs.io/,GPU molecular dynamics and Monte Carlo for soft materials and colloids.,MAT,MAT|SIM,open,adv
+International Centre for Diffraction Data,https://www.icdd.com/,"Powder Diffraction File, the standard reference for phase identification by XRD.",MAT,MAT|DATA,paid,adv
+International Union of Crystallography,https://www.iucr.org/,Crystallography union and publisher of foundational reference tables.,MAT,MAT|SOC|CHEM,freemium,adv
+JEOL,https://www.jeol.co.jp/,Electron microscopes and NMR spectrometers.,MAT,MAT|LAB,paid,adv
+LAMMPS,https://www.lammps.org/,Large-scale Atomic/Molecular Massively Parallel Simulator for materials and soft matter.,MAT,MAT|SIM,open,adv
+M3GNet,https://github.com/materialsvirtuallab/m3gnet,Materials Virtual Lab's graph neural network for universal interatomic potentials.,MAT,MAT|SCIAI,open,adv
+MACE,https://github.com/ACEsuit/mace,Higher-order equivariant message-passing interatomic potentials from Cambridge.,MAT,MAT|SCIAI,open,adv
+Malvern Panalytical,https://www.malvernpanalytical.com/,"XRD, XRF and laser diffraction particle characterisation.",MAT,MAT|LAB,paid,adv
+Materials Genome Initiative,https://www.mgi.gov/,"US federal programme coordinating open materials data, computing and discovery tools.",MAT,MAT|SOC,free,adv
+Materials Project,https://materialsproject.org/,Open database of computed inorganic materials properties with a mature Python API.,MAT,MAT|DATA,free,adv
+Matlantis,https://matlantis.com/,Preferred Networks' cloud service for ML-accelerated atomistic simulation.,MAT,MAT|SCIAI,paid,adv
+MatterGen,https://github.com/microsoft/mattergen,Microsoft's diffusion model that generates stable crystal structures under property constraints.,MAT,MAT|SCIAI,open,adv
+MatterSim,https://www.microsoft.com/en-us/research/project/mattersim/,"Deep-learning atomistic model spanning elements, temperatures and pressures.",MAT,MAT|SCIAI,open,adv
+MIT Materials Science & Engineering,https://dmse.mit.edu/,"Department site with research group pages, seminars and outreach materials.",MAT,MAT|SOC,free,adv
+MLIP Benchmark,https://mlip-benchmark.github.io/,Comparative benchmarks and leaderboards for machine-learned interatomic potentials.,MAT,MAT|SCIAI,open,adv
+MOOSE,https://mooseframework.inl.gov/,Idaho National Lab's parallel multiphysics framework used across energy science.,MAT,MAT|SIM,open,adv
+NequIP,https://github.com/mir-group/nequip,E(3)-equivariant neural network potentials with high data efficiency.,MAT,MAT|SCIAI,open,adv
+NIMS Materials Data Repository,https://mdr.nims.go.jp/,National Institute for Materials Science repository for experimental materials data.,MAT,MAT|DATA,open,adv
+NIST Materials Data Curation System,https://materialsdata.nist.gov/,Curation and sharing infrastructure for experimental and computational materials data.,MAT,MAT|DATA,free,adv
+NOMAD,https://nomad-lab.eu/,EU-wide repository and analytics platform for computational materials-science data.,MAT,MAT|DATA,open,adv
+Open Catalyst Project,https://opencatalystproject.org/,Large-scale catalyst datasets and pre-trained models for electrocatalyst discovery.,MAT,MAT|SCIAI,open,adv
+OQMD,https://oqmd.org/,Open Quantum Materials Database of DFT-calculated thermochemistry and crystal structures.,MAT,MAT|DATA,open,adv
+Orbital Materials,https://www.orbitalmaterials.com/,Open foundation models for atomistic simulation and materials discovery.,MAT,MAT|SCIAI,freemium,adv
+Periodic Labs,https://periodic.com/,AI scientists plus autonomous labs targeting superconductors and physical-science discovery.,MAT,MAT|SCIAI,paid,adv
+Pymatgen,https://pymatgen.org/,"Python Materials Genomics library: structure manipulation, phase diagrams and input generation.",MAT,MAT|CODE,open,adv
+Quantum ESPRESSO,https://www.quantum-espresso.org/,Open integrated suite for electronic-structure and materials modelling at the nanoscale.,MAT,MAT|SIM,open,adv
+Rigaku,https://www.rigaku.com/,X-ray diffraction and scattering instruments for materials and structural science.,MAT,MAT|LAB,paid,adv
+Schrödinger Materials Science,https://www.schrodinger.com/products/materials-science,"Atomistic simulation and machine learning for polymers, batteries and organic electronics.",MAT,MAT|SCIAI,paid,adv
+VASP,https://www.vasp.at/,"Vienna Ab initio Simulation Package, the reference commercial code for periodic DFT.",MAT,MAT|SIM,paid,adv
+Zapata AI / materials informatics,https://zapata.ai/,Industry quantum-and-AI materials simulation platform for formulation and chemicals.,MAT,MAT|SCIAI,paid,adv
+3D-Beacons,https://3d-beacons.org/,Federated access point unifying experimental and predicted structure providers.,BIO,BIO|DATA,open,adv
+Allen Institute for Cell Science,https://www.allencell.org/,Cell atlas imaging and 3-D cell simulations.,BIO,BIO|DATA,open,adv
+AlphaFill,https://alphafill.eu/,"Enriches AlphaFold models with transplanted ligands, cofactors and ions.",BIO,BIO|DATA,free,adv
+AnnData,https://anndata.readthedocs.io/,The on-disk data format underpinning most of the Python single-cell ecosystem.,BIO,BIO|DATA,open,adv
+ArrayExpress,https://www.ebi.ac.uk/biostudies/arrayexpress,EBI archive of functional genomics experiments.,BIO,BIO|DATA,open,adv
+BioGRID,https://thebiogrid.org/,Genetic and protein interaction data curated from the literature for many organisms.,BIO,BIO|DATA,open,adv
+BLAST,https://blast.ncbi.nlm.nih.gov/,"Sequence-similarity searching, the daily driver of molecular biology.",BIO,BIO,free,all
+Clustal Omega,https://www.ebi.ac.uk/Tools/msa/clustalo/,EBI's web service for aligning very large numbers of sequences.,BIO,BIO,free,all
+DALI Server,https://ekhidna2.biocenter.helsinki.fi/dali/,Distance-matrix based protein structure comparison server.,BIO,BIO|DATA,free,adv
+ENA,https://www.ebi.ac.uk/ena/,"European Nucleotide Archive, the European half of the INSDC sequence collaboration.",BIO,BIO|DATA,open,adv
+Ensembl Rapid Release,https://rapid.ensembl.org/,Continuously updated genome annotations for newly released assemblies.,BIO,BIO|DATA,open,adv
+ESM Metagenomic Atlas,https://esmatlas.com/,EvolutionaryScale's atlas of 600 million+ structures predicted by the ESMFold language model.,BIO,BIO|SCIAI|DATA,free,adv
+Foldseek,https://search.foldseek.com/,Ultra-fast structure similarity search across hundreds of millions of protein models.,BIO,BIO|DATA|SCIAI,open,adv
+GATK,https://gatk.broadinstitute.org/,"Broad Institute's genome analysis toolkit, the standard variant-calling framework.",BIO,BIO,open,adv
+GEO,https://www.ncbi.nlm.nih.gov/geo/,Gene Expression Omnibus of functional genomics data.,BIO,BIO|DATA,open,adv
+InterPro,https://www.ebi.ac.uk/interpro/,"Protein family, domain and functional-site classification integrated from member databases.",BIO,BIO|DATA,open,adv
+MEGA,https://www.megasoftware.net/,Molecular Evolutionary Genetics Analysis desktop suite used widely in teaching labs.,BIO,BIO,freemium,all
+MGI,https://www.informatics.jax.org/,Mouse Genome Informatics: the reference resource for mouse genetics and phenotypes.,BIO,BIO|DATA,open,adv
+ModelArchive,https://www.modelarchive.org/,Repository for community-provided protein structure models and complexes.,BIO,BIO|DATA,open,adv
+NCBI Gene,https://www.ncbi.nlm.nih.gov/gene/,"Gene-centred records linking sequence, expression, phenotypes and bibliography.",BIO,BIO|DATA,free,adv
+NCBI SRA,https://www.ncbi.nlm.nih.gov/sra/,Sequence Read Archive of raw high-throughput sequencing data.,BIO,BIO|DATA,open,adv
+NCBI Taxonomy,https://www.ncbi.nlm.nih.gov/taxonomy/,The reference classification of organisms used across biological databases.,BIO,BIO|DATA,free,adv
+PDBe,https://www.ebi.ac.uk/pdbe/,EBI's PDB portal and the PDBe-Knowledge Base of structure-based annotations.,BIO,BIO|DATA,open,adv
+PRIDE,https://www.ebi.ac.uk/pride/,Proteomics Identifications database for mass-spectrometry data.,BIO,BIO|DATA,open,adv
+Protein Ensemble Database,https://proteinensemble.org/,Conformational ensembles of intrinsically disordered proteins from experiment plus modelling.,BIO,BIO|DATA,open,adv
+Protenix,https://github.com/bytedance/Protenix,"Open structure-prediction model covering proteins, nucleic acids and ligands.",BIO,BIO|SCIAI,open,adv
+PyMOL,https://pymol.org/,Molecular graphics system prized for publication-quality structural figures.,BIO,BIO,paid,adv
+Reactome,https://reactome.org/,"Curated, peer-reviewed pathway database with visualisation and analysis tools.",BIO,BIO|DATA,open,adv
+STRING,https://string-db.org/,Protein-protein interaction network with confidence scores and functional enrichment.,BIO,BIO|DATA,free,adv
+TAIR,https://www.arabidopsis.org/,Arabidopsis Information Resource for the model plant community.,BIO,BIO|DATA,open,adv
+UCSC Cell Browser,https://cells.ucsc.edu/,Interactive single-cell atlases published as browsable web pages.,BIO,BIO|DATA,open,adv
+UCSC Genome Browser,https://genome.ucsc.edu/,"The reference browser for visualising genomes, annotations and track hubs.",BIO,BIO|DATA,free,adv
+UCSF ChimeraX,https://www.cgl.ucsf.edu/chimerax/,"Next-generation molecular visualisation, especially for cryo-EM maps and complexes.",BIO,BIO,freemium,adv
+UniProt,https://www.uniprot.org/,"The comprehensive, high-quality protein sequence and functional annotation database.",BIO,BIO|DATA,free,adv
+WormBase,https://wormbase.org/,"C. elegans biology database linking genes, anatomy, phenotypes and literature.",BIO,BIO|DATA,open,adv
+Xenbase,https://www.xenbase.org/,Frog (Xenopus) development and genomics resource.,BIO,BIO|DATA,open,adv
+3D Slicer,https://www.slicer.org/,"Open platform for medical-image analysis, 3-D visualisation and image-guided therapy.",HEALTH,HEALTH|CODE,open,adv
+All of Us,https://allofus.nih.gov/,NIH precision-medicine cohort with a public data browser.,HEALTH,HEALTH|DATA,free,adv
+Allen Brain Atlas,https://www.brain-map.org/,Gene-expression and connectivity atlases of the mouse and human brain.,HEALTH,HEALTH|DATA,open,adv
+AlphaMissense,https://alphamissense.hegelab.org/,DeepMind's map of predicted pathogenicity for every possible human missense variant.,HEALTH,HEALTH|SCIAI,free,adv
+BenevolentAI,https://www.benevolent.com/,Knowledge-graph-driven AI for target identification and drug repurposing.,HEALTH,HEALTH|SCIAI,paid,adv
+ClinicalTrials.gov,https://clinicaltrials.gov/,"The world's largest clinical-trial registry, with structured protocols and results.",HEALTH,HEALTH|DATA,free,adv
+ClinVar,https://www.ncbi.nlm.nih.gov/clinvar/,Public archive of relationships between human variants and disease phenotypes.,HEALTH,HEALTH|DATA,free,adv
+Deep 6 AI,https://deep6.ai/,NLP-driven patient-to-trial matching from clinical notes.,HEALTH,HEALTH|SCIAI,paid,adv
+DICOM,https://www.dicomstandard.org/,The medical-imaging information standard that makes image exchange possible.,HEALTH,HEALTH|DATA,free,adv
+DNAnexus,https://www.dnanexus.com/,"Secure genomics cloud for storing, computing and sharing sequencing data.",HEALTH,HEALTH|ACCEL,paid,adv
+DrugBank,https://go.drugbank.com/,"Detailed drug, target, pathway and transporter knowledgebase widely used in cheminformatics.",HEALTH,HEALTH|CHEM,freemium,adv
+EU Clinical Trials Information System,https://euclinicaltrials.eu/,European Union portal for clinical-trial authorisation and results.,HEALTH,HEALTH|DATA,free,adv
+European Medicines Agency,https://www.ema.europa.eu/,EU medicines regulator with public assessment reports and pharmacovigilance data.,HEALTH,HEALTH|SOC,free,adv
+FDA,https://www.fda.gov/,"US Food and Drug Administration: approvals, guidance, safety alerts and open data.",HEALTH,HEALTH|SOC,free,adv
+Flatiron Health,https://flatiron.com/,Oncology real-world data platform built from structured and unstructured records.,HEALTH,HEALTH|SCIAI,paid,adv
+Global Burden of Disease,https://www.healthdata.org/gbd,"IHME's comparable estimates of disease, injury and risk factors worldwide.",HEALTH,HEALTH|DATA,open,adv
+gnomAD,https://gnomad.broadinstitute.org/,Aggregate human genetic variation from hundreds of thousands of exomes and genomes.,HEALTH,HEALTH|DATA,open,adv
+GTEx Portal,https://gtexportal.org/,Genotype-tissue expression portal mapping eQTLs across human tissues.,HEALTH,HEALTH|DATA,open,adv
+GWAS Catalog,https://www.ebi.ac.uk/gwas/,Curated catalogue of genome-wide association studies and trait associations.,HEALTH,HEALTH|DATA,open,adv
+Human Cell Atlas,https://www.humancellatlas.org/,"International project mapping every human cell type, with open data portals.",HEALTH,HEALTH|BIO|DATA,open,adv
+Human Protein Atlas,https://www.proteinatlas.org/,"Tissue and cell expression maps from antibodies, sequencing and imaging.",HEALTH,HEALTH|DATA|BIO,open,adv
+Ibis / Pathogens portal,https://pathogensportal.org/,"Data portal integrating pathogen genomes, sequences and surveillance resources.",HEALTH,HEALTH|DATA,open,adv
+Insilico Medicine,https://insilico.com/,Pharma.AI platform using generative chemistry and biology to move candidates into the clinic.,HEALTH,HEALTH|CHEM|SCIAI,paid,adv
+IQVIA,https://www.iqvia.com/,Clinical-research and healthcare-analytics group running trials worldwide.,HEALTH,HEALTH|SCIAI,paid,adv
+Isomorphic Labs,https://www.isomorphiclabs.com/,DeepMind spin-out building a unified drug-design engine from AlphaFold-style structure models.,HEALTH,HEALTH|SCIAI,paid,adv
+ITK,https://itk.org/,"Insight Segmentation and Registration Toolkit, the backbone of medical-image analysis.",HEALTH,HEALTH|CODE,open,adv
+MassBank,https://massbank.eu/,"Open, high-quality mass-spectral library supporting reproducible metabolite identification.",HEALTH,HEALTH|CHEM|DATA,open,adv
+Medidata,https://www.medidata.com/,Clinical-trial cloud and analytics used to design and run studies.,HEALTH,HEALTH|SCIAI,paid,adv
+METLIN,https://metlin.scripps.edu/,Scripps metabolomics database and tandem-MS library for identifying unknowns.,HEALTH,HEALTH|CHEM|DATA,freemium,adv
+MONAI,https://monai.io/,Open medical-imaging AI framework from NVIDIA and partners.,HEALTH,HEALTH|SCIAI|CODE,open,adv
+Nextstrain,https://nextstrain.org/,Real-time pathogen phylogenetics and genomic epidemiology visualizations.,HEALTH,HEALTH|SCIAI,open,adv
+NIH,https://www.nih.gov/,"National Institutes of Health: funding, intramural research and data policy.",HEALTH,HEALTH|SOC,free,adv
+NVIDIA BioNeMo,https://developer.nvidia.com/biome,GPU-accelerated framework and pre-trained models for biology and drug discovery.,HEALTH,HEALTH|SCIAI,open,adv
+NVIDIA Clara,https://developer.nvidia.com/clara,Medical-imaging AI platform with federated learning and deployable models.,HEALTH,HEALTH|SCIAI,paid,adv
+OHIF Viewer,https://ohif.org/,Open web-based DICOM viewer used as a research and teaching platform.,HEALTH,HEALTH|CODE,open,adv
+OMIM,https://www.omim.org/,"Online Mendelian Inheritance in Man: genes, phenotypes and inheritance modes.",HEALTH,HEALTH|DATA,freemium,adv
+OpenCRAVAT,https://opencravat.org/,Modular variant annotation with installable annotator plugins.,HEALTH,HEALTH|BIO,open,adv
+Our World in Data Health,https://ourworldindata.org/health-meta,"Open charts and downloadable data on mortality, disease burden and health systems.",HEALTH,HEALTH|DATA,open,all
+Partek Flow,https://www.partek.com/,"GUI-driven NGS analysis for RNA-seq, single-cell and epigenomics.",HEALTH,HEALTH,paid,adv
+PubMed Central,https://www.ncbi.nlm.nih.gov/pmc/,NIH's free full-text archive of biomedical and life-science papers.,HEALTH,HEALTH|LIT,free,adv
+QIAGEN CLC Genomics Workbench,https://digitalinsights.qiagen.com/,"Desktop NGS analysis environment for assembly, mapping and variant calling.",HEALTH,HEALTH,paid,adv
+QuPath,https://qupath.github.io/,Open digital pathology and whole-slide image analysis with a friendly UI.,HEALTH,HEALTH|SCIAI,open,adv
+Recursion,https://www.recursion.com/,"End-to-end AI drug discovery combining cellular imaging, foundation models and automated labs.",HEALTH,HEALTH|SCIAI,paid,adv
+Seven Bridges,https://www.sevenbridges.com/,Genomics data-analysis platform with reproducible workflow orchestration.,HEALTH,HEALTH|SCIAI,paid,adv
+Tempus AI,https://www.tempus.com/,Precision-medicine platform linking clinical and molecular data for oncology.,HEALTH,HEALTH|SCIAI,paid,adv
+TriNetX,https://trinetx.com/,Real-world health data network supporting trial feasibility and outcomes research.,HEALTH,HEALTH|SCIAI,paid,adv
+VEP,https://www.ensembl.org/info/docs/tools/vep/,Variant Effect Predictor annotating the functional consequences of variants.,HEALTH,HEALTH|BIO,open,adv
+Wellcome Leap,https://wellcomeleap.org/,"Funding programme running bold, time-bound science and technology challenges.",HEALTH,HEALTH|SCIAI|SOC,free,adv
+WHO,https://www.who.int/,"World Health Organization: global health guidance, datasets and disease outlooks.",HEALTH,HEALTH|SOC,free,all
+3Bee,https://3bee.com/,Hive sensors and AI analytics for pollinator health monitoring.,AGRI,AGRI|ECOL|SCIAI,paid,all
+APSIM,https://www.apsim.info/,Agricultural Production Systems sIMulator for farming-systems modelling.,AGRI,AGRI|SIM,open,adv
+Benson Hill,https://bensonhill.com/,CropOS platform combining genomic data and ML for seed traits.,AGRI,AGRI|SCIAI,paid,adv
+CABI,https://www.cabi.org/,"Crop-protection compendia, pest data and bioscience publishing.",AGRI,AGRI|DATA,paid,adv
+CGIAR,http://www.cgiar.org/,"World's largest public agricultural research partnership, spanning 70+ countries.",AGRI,AGRI|SOC,free,adv
+CIAT / Alliance Bioversity,https://alliancebioversityciat.org/,"Tropical forages, beans and cassava research plus the genebank alliance.",AGRI,AGRI,free,adv
+CIMMYT,https://www.cimmyt.org/,International maize and wheat improvement centre with global genebanks.,AGRI,AGRI,free,adv
+CropWat / AquaCrop,https://www.fao.org/land-water/databases-and-software/cropwat/,FAO crop water requirements and yield response software.,AGRI,AGRI|SIM,free,adv
+DSSAT,https://dssat.net/,Decision Support System for Agrotechnology Transfer: crop simulation models.,AGRI,AGRI|SIM,freemium,adv
+FAO,https://www.fao.org/,"UN Food and Agriculture Organization: statistics, food-security outlooks and technical guidance.",AGRI,AGRI|SOC|DATA,free,all
+FAO AQUASTAT,https://www.fao.org/aquastat/,Global water resources and agricultural water management statistics.,AGRI,AGRI|ENV|DATA,open,adv
+FAOSTAT,https://www.fao.org/faostat/,"FAO's free statistical database covering crops, livestock, trade, emissions and prices.",AGRI,AGRI|DATA,open,adv
+FarmBot,https://farm.bot/,Open-source CNC farming machine with a web app for precision plots.,AGRI,AGRI|LAB,open,all
+Gramene,https://www.gramene.org/,Comparative plant genomics and pathway resource for grasses and crops.,AGRI,AGRI|BIO|DATA,open,adv
+GRIN-Global,https://npgsweb.ars-grin.gov/,USDA germplasm resources information network for plant genetic material.,AGRI,AGRI|DATA,open,adv
+ICRISAT,https://www.icrisat.org/,Dryland cereals and legumes research for semi-arid tropics.,AGRI,AGRI,free,adv
+IFPRI,https://www.ifpri.org/,"Agricultural economics and food-policy research, home of the Global Food Policy Report.",AGRI,AGRI|SOC,free,adv
+IITA,https://www.iita.org/,"International Institute of Tropical Agriculture working on cassava, yam and banana.",AGRI,AGRI,free,adv
+IRRI,https://www.irri.org/,"International Rice Research Institute, home of the global rice genebank.",AGRI,AGRI,free,adv
+IWMI,https://www.iwmi.cgiar.org/,"International Water Management Institute on water, irrigation and food systems.",AGRI,AGRI|ENV,free,adv
+John Deere Operations Center,https://myjohndeere.com/,Farm-management cloud aggregating machine and agronomy data.,AGRI,AGRI,paid,all
+KidsGardening,https://www.kidsgardening.org/,"School-garden lesson plans linking soil, plant and pollinator science to the classroom.",AGRI,AGRI|KIDS,freemium,all
+Millennium Seed Bank,https://www.kew.org/wakehurst,Kew's international seed-bank partnership for wild plant conservation.,AGRI,AGRI|ECOL,paid,all
+NIFA USDA,https://www.nifa.usda.gov/,USDA funding and extension gateway for agricultural research.,AGRI,AGRI|SOC,free,all
+OpenTEAM,https://www.openteam.community/,Open-platform ecosystem connecting ag-tech data for soil-health research.,AGRI,AGRI|DATA,open,adv
+Phytozome,https://phytozome-next.jgi.doe.gov/,Joint Genome Institute plant genome portal with gene families and synteny.,AGRI,AGRI|BIO,free,adv
+Soil moisture / SMAP,https://smap.jpl.nasa.gov/,NASA soil-moisture active passive mission data and applications.,AGRI,AGRI|EARTH|DATA,open,adv
+Soil Science Society of America,https://www.soils.org/,"Soil-science society with journals, certification and public education tools.",AGRI,AGRI|SOC,freemium,adv
+Svalbard Global Seed Vault,https://www.seedvault.no/,Global backup facility for the world's crop seed collections.,AGRI,AGRI|SOC,free,all
+Svenska lantmännen,https://www.lantmammen.se/,Farmer-owned agri co-operative with a research and innovation unit.,AGRI,AGRI,paid,adv
+Taranis,https://www.taranis.ag/,Aerial-imagery scouting using AI to detect crop disease and nutrient stress.,AGRI,AGRI|SCIAI,paid,all
+Wageningen University & Research,https://www.wur.nl/,Europe's largest agricultural and life-sciences university and research programmes.,AGRI,AGRI|SOC,free,adv
+xarvio,https://www.xarvio.com/,BASF digital-farming app for crop protection and field scouting.,AGRI,AGRI|SCIAI,paid,all
+AI Weather at CIRA,https://aiweather.cira.colostate.edu/,Colorado State experimental runs of AI weather models for forecaster evaluation.,EARTH,EARTH|SCIAI,free,adv
+Argo,https://argo.ucsd.edu/,Global array of profiling floats measuring ocean temperature and salinity.,EARTH,EARTH|DATA,open,adv
+Berkeley Earth,https://berkeleyearth.org/,Independent global temperature reconstruction and monthly analyses.,EARTH,EARTH|DATA,open,adv
+CDO,https://code.mpimet.mpg.de/projects/cdo,Climate Data Operators: the standard command-line tool for netCDF post-processing.,EARTH,EARTH|CODE,open,adv
+CF-Python,https://cf-xarray.readthedocs.io/,Interpret CF climate-and-forecast metadata conventions from xarray objects.,EARTH,EARTH|CODE,open,adv
+Climate Data Store,https://cds.climate.copernicus.eu/,"Download ERA5, seasonal forecasts and climate indicators.",EARTH,EARTH|DATA,free,adv
+ClimateData.ca,https://climatedata.ca/,Canadian climate projections and downscaled data portal.,EARTH,EARTH|DATA,open,adv
+Copernicus Browser,https://browser.dataspace.copernicus.eu/,Visualise and download Sentinel imagery and products in the browser.,EARTH,EARTH|DATA,free,all
+Copernicus Climate Change Service,https://climate.copernicus.eu/,"Authoritative climate information, the C3S Atlas and ERA5 reanalysis.",EARTH,EARTH|DATA,free,adv
+Copernicus Marine Service,https://marine.copernicus.eu/,"Free global ocean physics, sea ice and biogeochemistry products.",EARTH,EARTH|DATA,free,adv
+Copernicus Sentinel-1,https://sentinels.copernicus.eu/,C-band SAR mission pages with product definitions and technical documentation.,EARTH,EARTH|DATA,open,adv
+Data.gov,https://data.gov/,US federal open-data catalogue aggregating hundreds of agencies.,EARTH,EARTH|DATA,open,all
+ECOSTRESS,https://ecostress.jpl.nasa.gov/,ISS instrument mapping plant water stress and evapotranspiration.,EARTH,EARTH|DATA,open,adv
+GenCast,https://deepmind.google/discover/blog/gencast/,DeepMind's probabilistic ensemble forecasting model.,EARTH,EARTH|SCIAI,open,adv
+GRACE-FO,https://www.csr.utexas.edu/grace/,Gravity mission data for terrestrial water storage and ice-mass change.,EARTH,EARTH|DATA,open,adv
+GRASS GIS,https://grass.osgeo.org/,"Mature raster, vector and terrain analysis engine with a temporal framework.",EARTH,EARTH|CODE,open,adv
+ICESat-2,https://icesat-2.gsfc.nasa.gov/,NASA laser-altimetry mission measuring ice-sheet elevation change.,EARTH,EARTH|DATA,open,adv
+IRIS / EarthScope,https://www.earthscope.org/,Seismological data centre distributing global waveform data.,EARTH,EARTH|DATA,open,adv
+ISRIC World Soil Information,https://www.isric.org/,"Global soil data, including SoilGrids gridded property maps.",EARTH,EARTH|AGRI|DATA,open,adv
+Macrostrat,https://macrostrat.org/,Stratigraphic and geologic map data for North America with an open API.,EARTH,EARTH|DATA,open,adv
+Monterey Bay Aquarium Research Institute,https://www.mbari.org/,Deep-sea robotics and ocean science with open data and imagery.,EARTH,EARTH|SCIAI,free,adv
+NASA Data Catalog,https://data.nasa.gov/,Metadata catalogue describing NASA datasets and where to obtain them.,EARTH,EARTH|DATA,open,all
+NASA Earth at Night,https://blackmarble.gsfc.nasa.gov/,Black Marble night-time lights product and imagery.,EARTH,EARTH|DATA,open,all
+NASA GISS Surface Temperature,https://data.giss.nasa.gov/gistemp/,GISTEMP global temperature analysis and station data.,EARTH,EARTH|DATA,open,adv
+NASA Worldview,https://worldview.earthdata.nasa.gov/,Browser for near-real-time global satellite imagery layers.,EARTH,EARTH|DATA,open,all
+National Weather Service,https://www.weather.gov/,"Operational forecasts, warnings and radar for the United States.",EARTH,EARTH,free,all
+NOAA Climate Data Online,https://www.ncdc.noaa.gov/cdo-web/,Historical weather and climate observations for stations worldwide.,EARTH,EARTH|DATA,free,adv
+NOAA GSOM,https://www.ncei.noaa.gov/products/optimum-interpolation-sst,Sea-surface temperature and OISST products from NOAA.,EARTH,EARTH|DATA,open,adv
+NOAA NCEI,https://www.ncei.noaa.gov/,National Centers for Environmental Information data archive and climate products.,EARTH,EARTH|DATA,free,adv
+NOAA PSL,https://psl.noaa.gov/,"Physical Sciences Laboratory datasets, reanalyses and climate diagnostics.",EARTH,EARTH|DATA,open,adv
+NOAA STAR,https://www.star.nesdis.noaa.gov/,"Satellite products, vegetation and aerosol datasets from NESDIS.",EARTH,EARTH|DATA,free,adv
+NSIDC,https://nsidc.org/,"National Snow and Ice Data Center: sea ice, snow cover and glacier archives.",EARTH,EARTH|DATA,open,adv
+Ocean Observatories Initiative,https://oceanobservatories.org/,NSF-funded network of cabled and moored ocean sensors with open data.,EARTH,EARTH|DATA,open,adv
+PANGAEA,https://www.pangaea.de/,Earth and environmental science data publisher with strong ocean focus.,EARTH,EARTH|DATA,open,adv
+Pangu-Weather,https://github.com/198808xc/Pangu-Weather,"Huawei's 3-D neural-network weather forecasting model, code and weights.",EARTH,EARTH|SCIAI,open,adv
+Sentinel Hub,https://www.sentinel-hub.com/,Commercial API and EO Browser for on-the-fly satellite analysis.,EARTH,EARTH|SCIAI,freemium,adv
+Smithsonian USGS Volcano Program,https://volcano.si.edu/,Global Volcanism Program database of eruptions and volcanoes.,EARTH,EARTH|DATA,free,all
+SOCAT,https://www.socat.info/,Surface Ocean CO2 Atlas of quality-controlled carbon observations.,EARTH,EARTH|DATA,open,adv
+STAC,https://stacspec.org/,SpatioTemporal Asset Catalogs specification for indexing geospatial data in the cloud.,EARTH,EARTH|DATA,open,adv
+USGS EarthExplorer,https://earthexplorer.usgs.gov/,Search and download Landsat and other USGS archive imagery.,EARTH,EARTH|DATA,free,adv
+USGS Earthquake Hazards,https://earthquake.usgs.gov/,"Live earthquake feeds, ShakeMaps and hazard models.",EARTH,EARTH|DATA,free,all
+USGS Mineral Resources Program,https://www.usgs.gov/centers/national-minerals-information-center,Mineral commodity summaries and critical-minerals data.,EARTH,EARTH|DATA,free,all
+USGS ScienceBase,https://www.sciencebase.gov/,USGS data catalogue and collaboration environment.,EARTH,EARTH|DATA,open,adv
+WhiteboxTools,https://www.whiteboxgeo.com/,Raster geoprocessing library with 400+ tools for terrain and hydrology.,EARTH,EARTH|CODE,open,adv
+World Ocean Database,https://www.ncei.noaa.gov/products/world-ocean-database,"NOAA profile data for temperature, salinity and ocean chemistry.",EARTH,EARTH|DATA,open,adv
+AAS,https://aas.org/,"American Astronomical Society meetings, journals and policy advocacy.",ASTRO,ASTRO|SOC,freemium,adv
+Aladin Sky Atlas,https://aladin.cds.unistra.fr/,Interactive sky atlas with access to major image and catalogue servers.,ASTRO,ASTRO|DATA,open,adv
+ALMA,https://www.almaobservatory.org/,"Atacama Large Millimeter/submillimeter Array science, data and education.",ASTRO,ASTRO|DATA,free,adv
+American Physical Society,https://www.aps.org/,"APS meetings, Physical Review journals and physics career resources.",ASTRO,ASTRO|SOC,freemium,adv
+Astropy,https://www.astropy.org/,"Core Python library for astronomy: units, coordinates, tables, FITS and WCS.",ASTRO,ASTRO|CODE,open,adv
+Astropy AFK / AstroML,https://www.astroml.org/,Machine learning and statistics routines built on Astropy and scikit-learn.,ASTRO,ASTRO|SCIAI,open,adv
+Astropy Units,https://docs.astropy.org/en/stable/units/,Astronomical unit and constant handling used across the science-Python stack.,ASTRO,ASTRO|CODE,open,adv
+Athena++,https://www.athena-astro.app/,GPU-friendly astrophysical magnetohydrodynamics code.,ASTRO,ASTRO|SIM,open,adv
+CelesTrak,https://celestrak.org/,"Independent satellite orbit analysis, TLE distribution and tracking tools.",ASTRO,ASTRO|DATA,free,adv
+CERN Open Data Portal,https://opendata.cern.ch/,"Public LHC data, software and education exercises.",ASTRO,ASTRO|DATA,open,adv
+CIAO,https://asc.harvard.edu/ciao/,Chandra X-ray Center analysis system with threads and calibration database.,ASTRO,ASTRO|CODE,free,adv
+CTA Observatory,https://www.cta-observatory.org/,Cherenkov Telescope Array gamma-ray observatory under construction.,ASTRO,ASTRO|SOC,free,adv
+Dedalus,https://dedalus-project.org/,Flexible spectral PDE solver for fluid dynamics and astrophysics.,ASTRO,ASTRO|SIM,open,adv
+Enzo,https://enzo-project.org/,Adaptive-mesh hydrodynamics and cosmology simulation code.,ASTRO,ASTRO|SIM,open,adv
+ESA,https://www.esa.int/,"European Space Agency missions, Earth observation and education resources.",ASTRO,ASTRO|SOC,free,all
+ESA Cookies / planetary,https://www.cosmos.esa.int/,ESA science mission operations and data pages.,ASTRO,ASTRO|DATA,free,adv
+ESA Gaia,https://www.cosmos.esa.int/gaia,Gaia astrometry mission pages and data-processing documentation.,ASTRO,ASTRO|DATA,free,adv
+ESASky,https://sky.esa.int/,Visual multi-mission archive bringing ESA sky surveys into one interface.,ASTRO,ASTRO|DATA,free,adv
+ESO,https://www.eso.org/,"European Southern Observatory: VLT, ALMA and the Extremely Large Telescope.",ASTRO,ASTRO|SOC,free,all
+Event Horizon Telescope,https://eventhorizontelescope.org/,"Global VLBI array that imaged black holes, with public data releases.",ASTRO,ASTRO|DATA,open,adv
+Gadget-4,https://wwwmpa.mpa-garching.mpg.de/gadget4/,Cosmological N-body and hydrodynamics simulation code.,ASTRO,ASTRO|SIM,freemium,adv
+Gala,https://gala.adrian.pw/,"Galactic-dynamics package for orbits, potentials and chaos indicators.",ASTRO,ASTRO|CODE,open,adv
+HEASoft,https://heasarc.gsfc.nasa.gov/docs/software/lheasoft/,NASA high-energy astrophysics software suite including Xspec and FTOOLS.,ASTRO,ASTRO|CODE,open,adv
+Hubble Space Telescope,https://hubblesite.org/,"Hubble imagery, press releases and raw data access.",ASTRO,ASTRO|DATA,free,all
+IceCube Neutrino Observatory,https://icecube.wisc.edu/,South Pole neutrino telescope with public data releases.,ASTRO,ASTRO|DATA,open,adv
+International Astronomical Union Minor Planet Center,https://www.iau.org/science/scientific_bodies/commissions/,IAU commission structure coordinating astronomical science and nomenclature.,ASTRO,ASTRO|SOC,free,adv
+IRSA,https://irsa.ipac.caltech.edu/,"Infrared Science Archive for Spitzer, WISE and other infrared missions.",ASTRO,ASTRO|DATA,open,adv
+JAXA,https://www.jaxa.jp/,Japan Aerospace Exploration Agency missions and open data.,ASTRO,ASTRO|SOC,free,all
+LIGO,https://www.ligo.org/,Laser Interferometer Gravitational-Wave Observatory science and data.,ASTRO,ASTRO|DATA,open,adv
+MAST,https://archive.stsci.edu/,"Mikulski Archive for Space Telescopes: HST, JWST and TESS data.",ASTRO,ASTRO|DATA,open,adv
+Minor Planet Center,https://www.minorplanetcenter.net/,IAU-mandated clearing house for asteroid and comet observations.,ASTRO,ASTRO|DATA,open,adv
+NASA,https://www.nasa.gov/,"The US space agency: missions, imagery, data, education and live broadcasts.",ASTRO,ASTRO|SOC,free,all
+NASA Exoplanet Archive,https://exoplanetarchive.ipac.caltech.edu/,"Confirmed planets, Kepler and TESS candidates and their host-star properties.",ASTRO,ASTRO|DATA,open,adv
+NASA Fermi,https://fermi.gsfc.nasa.gov/,Gamma-ray space telescope data and public light-curve tools.,ASTRO,ASTRO|DATA,open,adv
+NASA Heasarc,https://heasarc.gsfc.nasa.gov/,High Energy Astrophysics Science Archive Research Center.,ASTRO,ASTRO|DATA,open,adv
+NASA JPL Horizons,https://ssd.jpl.nasa.gov/horizons/,Authoritative ephemerides for solar-system bodies and spacecraft.,ASTRO,ASTRO|DATA,free,adv
+NASA NTRS,https://ntrs.nasa.gov/,NASA Technical Reports Server for full-text reports and conference papers.,ASTRO,ASTRO|DATA,open,adv
+NASA PDS,https://pds.nasa.gov/,Planetary Data System archive of mission data from across the solar system.,ASTRO,ASTRO|DATA,open,adv
+NASA Webb Telescope,https://webb.nasa.gov/,"James Webb Space Telescope mission pages, imagery and science results.",ASTRO,ASTRO|DATA,free,all
+Pan-STARRS,https://panstarrs.stsci.edu/,Panoramic Survey Telescope and rapid-response system image archive.,ASTRO,ASTRO|DATA,open,adv
+Photutils,https://photutils.readthedocs.io/,"Astropy-affiliated photometry: source detection, aperture and PSF fitting.",ASTRO,ASTRO|CODE,open,adv
+Pierre Auger Observatory,https://www.auger.org/,World's largest ultra-high-energy cosmic-ray observatory.,ASTRO,ASTRO|DATA,open,adv
+Planck / Legacy Archive,https://pla.esac.esa.int/,ESA sky-survey legacy archive for Planck and Herschel data.,ASTRO,ASTRO|DATA,open,adv
+Pluto code,https://plutocode.ph.unito.it/,Modular Godunov code for astrophysical fluid dynamics.,ASTRO,ASTRO|SIM,open,adv
+Rubin Observatory,https://www.lsst.org/,Vera C. Rubin Observatory and the 10-year Legacy Survey of Space and Time.,ASTRO,ASTRO|SOC|DATA,free,adv
+SAOImage DS9,https://saoimaging.sao.edu/ds9/,Long-standing astronomical image display and analysis tool.,ASTRO,ASTRO|CODE,open,adv
+Sherpa,https://cxc.cfa.harvard.edu/sherpa/,"X-ray modelling and fitting engine, also usable as a general Python fitter.",ASTRO,ASTRO|CODE,open,adv
+SIMBAD,https://simbad.cds.unistra.fr/,CDS database of identifications and basic data for astronomical objects.,ASTRO,ASTRO|DATA,open,adv
+Space-Track,https://www.space-track.org/,US Space Force catalogue of orbiting objects and conjunction data.,ASTRO,ASTRO|DATA,free,adv
+Specutils,https://specutils.readthedocs.io/,Astropy-affiliated spectroscopic data containers and analysis tools.,ASTRO,ASTRO|CODE,open,adv
+SunPy,http://sunpy.org/,Community-developed Python solar-data analysis environment.,ASTRO,ASTRO|CODE,open,adv
+TESS mission,https://tess.mit.edu/,NASA Transiting Exoplanet Survey Satellite mission and data products.,ASTRO,ASTRO|DATA,open,adv
+TOPCAT,http://www.star.bris.ac.uk/~mbt/topcat/,Interactive catalogue viewer and table tool (VO-aware) for astronomers.,ASTRO,ASTRO|CODE,open,adv
+Virgo,https://www.virgo-gw.eu/,European gravitational-wave detector and open data portal.,ASTRO,ASTRO|DATA,open,adv
+VizieR,https://vizier.cds.unistra.fr/,CDS catalogue service publishing thousands of astronomical tables.,ASTRO,ASTRO|DATA,open,adv
+Zwicky Transient Facility,https://www.ztf.caltech.edu/,Wide-field time-domain survey with an open public alert stream.,ASTRO,ASTRO|DATA,open,adv
+Bio-Oracle,https://bio-oracle.org/,Marine environmental layers for species distribution modelling.,ECOL,ECOL|DATA,open,adv
+Biotfy,https://www.biotfy.com/,Remote-sensing and AI ecosystem monitoring for conservation projects.,ECOL,ECOL|SCIAI,paid,adv
+BirdLife / IUCN species data,https://datazone.birdlife.org/species/,Species-factsheet portal with population trend and threat information.,ECOL,ECOL|DATA,free,adv
+BirdLife Data Zone,https://datazone.birdlife.org/,"Species factsheets, population estimates and Important Bird Area data.",ECOL,ECOL|DATA,free,adv
+BirdLife International,https://www.birdlife.org/,Global partnership publishing bird conservation status and IBA data.,ECOL,ECOL|SOC,free,all
+British Antarctic Survey,https://www.bas.ac.uk/,"UK polar science: ice cores, satellites and Antarctic ecosystem monitoring.",ECOL,ECOL|EARTH|SOC,free,adv
+British Ecological Society,https://www.britishecologicalsociety.org/,"Ecology society with journals, grants and the Population Ecology network.",ECOL,ECOL|SOC,freemium,adv
+Camera Trap Data Repository,https://lilablobssc.wordpress.com/,Community standards for organising and sharing camera-trap datasets.,ECOL,ECOL|DATA,open,adv
+Catalogue of Life,https://www.catalogueoflife.org/,"Authoritative, continuously updated checklist of the world's species.",ECOL,ECOL|DATA,open,adv
+CHELSA,https://chelsa-climate.org/,High-resolution climatologies for present and palaeo time slices.,ECOL,ECOL|DATA|EARTH,open,adv
+Conservation AI,https://www.conservation.ai/,Open-source AI tools for biodiversity and conservation monitoring.,ECOL,ECOL|SCIAI,open,adv
+Conservation International,https://www.conservation.org/,Biodiversity hotspots analysis and field conservation partnerships.,ECOL,ECOL|SOC,paid,all
+Copernicus Land Monitoring,https://land.copernicus.eu/,"Pan-European land cover, imperviousness and vegetation products.",ECOL,ECOL|DATA|EARTH,open,adv
+DataONE,https://www.dataone.org/,Federated network providing access to environmental and ecological data.,ECOL,ECOL|DATA,open,adv
+Durrell Wildlife Conservation Trust,https://www.durrell.org/wildlife/,Species recovery and captive-breeding science from Jersey.,ECOL,ECOL|SOC,paid,all
+Ecological Society of America,https://www.esa.org/,"Largest ecology community, with journals, meetings and the ECOLOG-L list.",ECOL,ECOL|SOC,freemium,adv
+eFloras,https://www.efloras.org/,"Digitised floras of China, North America and Pakistan in one interface.",ECOL,ECOL|DATA,open,adv
+FlyPix AI,https://flypix.ai/,"No-code geospatial AI for object detection on satellite, drone and LiDAR data.",ECOL,ECOL|SCIAI|EARTH,freemium,adv
+GBIF,https://www.gbif.org/,Global Biodiversity Information Facility: 2+ billion species-occurrence records.,ECOL,ECOL|DATA,open,adv
+Global Forest Watch,https://www.globalforestwatch.org/,Near-real-time forest-loss alerts and country dashboards.,ECOL,ECOL|EARTH|DATA,free,all
+Global Mangrove Watch,https://www.globalmangrovewatch.org/,Mangrove extent and loss maps with a change-monitoring dashboard.,ECOL,ECOL|DATA,free,adv
+International Society for Ecology and Evolution,https://www.isoc-society.org/,Community and journals for ecology and evolutionary biology.,ECOL,ECOL|SOC,freemium,adv
+IUCN,https://www.iucn.org/,"International Union for Conservation of Nature: Red List, protected areas and policy.",ECOL,ECOL|SOC,free,adv
+IUCN Red List,https://www.iucnredlist.org/,The global standard for species extinction-risk assessment.,ECOL,ECOL|DATA,free,adv
+Kew / RBG collections,https://www.kew.org/science/collections-and-research,Herbarium and fungal collections with digitised specimen data.,ECOL,ECOL|DATA,open,adv
+Kew Science,https://www.kew.org/science,"Royal Botanic Gardens Kew: plant and fungal taxonomy, seed banking and data.",ECOL,ECOL|BIO|DATA,open,adv
+Key Biodiversity Areas,https://www.keybiodiversityareas.org/,Science-based identification of sites critical for global biodiversity.,ECOL,ECOL|DATA,open,adv
+Marine Regions,https://www.marineregions.org/,Standard marine and coastal geographic reference regions.,ECOL,ECOL|DATA|EARTH,open,adv
+NatureServe,https://www.natureserve.org/,Conservation status and distribution data for species and ecosystems.,ECOL,ECOL|DATA,freemium,adv
+NOAA Coral Reef Watch,https://coralreefwatch.noaa.gov/,Satellite coral-bleaching alerts and reef temperature products.,ECOL,ECOL|EARTH|DATA,open,adv
+OBIS,https://obis.org/,Ocean Biodiversity Information System mapping marine species distributions.,ECOL,ECOL|EARTH|DATA,open,adv
+Paleobiology Database,https://paleobiodb.org/,Community fossil occurrence database with analytical tools.,ECOL,ECOL|EARTH|DATA,open,adv
+Plants of the World Online,https://powo.science.kew.org/,"Kew's checklist of all known seed plants, with distributions and synonyms.",ECOL,ECOL|DATA,open,adv
+Protected Planet,https://www.protectedplanet.net/,World Database on Protected Areas map and statistics.,ECOL,ECOL|DATA,open,adv
+Society for Conservation Biology,https://www.conbio.org/,Professional society and publisher for conservation science.,ECOL,ECOL|SOC,freemium,adv
+The Nature Conservancy,https://www.nature.org/en-us/,Science-led conservation organisation with mapping and planning tools.,ECOL,ECOL|SOC,paid,all
+TreeMap / Botanic Gardens,https://www.bgci.org/,Botanic Gardens Conservation International network and plant-conservation data.,ECOL,ECOL|SOC,paid,adv
+Tropicos,https://www.tropicos.org/,Missouri Botanical Garden's taxonomic database for neotropical plants.,ECOL,ECOL|DATA,paid,adv
+Wildlife Conservation Society,https://www.wcs.org/,Field conservation organisation and home of the Bronx Zoo.,ECOL,ECOL|SOC,paid,all
+World Register of Marine Species,https://www.marinespecies.org/,Authoritative list of marine organism names.,ECOL,ECOL|DATA,open,adv
+WorldClim,https://www.worldclim.org/,High-resolution global climate surfaces for ecology and species modelling.,ECOL,ECOL|DATA|EARTH,free,adv
+Carbon Mapper,https://carbonmapper.org/,Satellite detection and public mapping of methane and CO2 point sources.,ENV,ENV|SCIAI|EARTH,open,adv
+Climate Action Tracker,https://climateactiontracker.org/,Independent assessment of national climate targets against Paris goals.,ENV,ENV|DATA,free,all
+Climate Watch,https://www.climatewatchdata.org/,"World Resources Institute data on emissions, NDCs and climate commitments.",ENV,ENV|DATA,open,adv
+Copernicus Sentinel-5P,https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p,"Atmospheric composition mission mapping NO2, SO2, methane and aerosols.",ENV,ENV|EARTH,open,adv
+Coral Reef Alliance,https://coral.org/,Community-based reef conservation with dive-operator monitoring networks.,ENV,ENV|ECOL,paid,all
+Delft3D,https://www.deltares.nl/,"Integrated modelling suite for water, waves, morphology and water quality.",ENV,ENV|EARTH|SIM,freemium,adv
+EconStor,https://www.econstor.eu/,Open repository for economics and environmental-economic research.,ENV,ENV|LIT,open,adv
+EnergyPlus,https://energyplus.net/,DOE whole-building energy simulation engine.,ENV,ENV|SIM,open,adv
+EPA,https://www.epa.gov/,"US Environmental Protection Agency: regulations, enforcement and environmental data.",ENV,ENV|SOC|DATA,free,all
+EPA CompTox Dashboard,https://comptox.epa.gov/,"US EPA dashboard of chemical structures, hazard data and predictive toxicology models.",ENV,ENV|CHEM,free,adv
+EPA Envirofacts,https://enviro.epa.gov/,"Single query interface across EPA facility, water and toxics databases.",ENV,ENV|DATA,free,adv
+European Drought Observatory,https://edo.jrc.ec.europa.eu/,JRC drought indicators based on soil moisture and remote sensing.,ENV,ENV|EARTH,open,adv
+European Environment Agency,https://www.eea.europa.eu/,"Environmental assessments and data for Europe, including air and water quality.",ENV,ENV|SOC|DATA,free,adv
+Flood observatories / Dartmouth Flood Observatory,https://floodobservatory.colorado.edu/,Global flood mapping from satellite observations.,ENV,ENV|EARTH,open,adv
+Global Energy Monitor,https://globalenergymonitor.org/,"Trackers of coal, gas, oil and renewable infrastructure worldwide.",ENV,ENV|DATA,open,adv
+Global Environmental Justice Atlas mirror,https://ejatlas.org/contributors,Case-study database of environmental conflicts and resistance.,ENV,ENV|DATA,open,adv
+Global Methane Initiative,https://globalmethane.org/,International partnership reducing methane emissions from key sectors.,ENV,ENV|SOC,free,adv
+Global Surface Water,https://global-surface-water.appspot.com/,JRC 40-year record of global surface-water occurrence and change.,ENV,ENV|DATA|EARTH,free,adv
+GRDC,https://www.bafg.de/GRDC/,Global Runoff Data Centre repository of river discharge records.,ENV,ENV|EARTH|DATA,open,adv
+IQAir AirVisual,https://www.iqair.com/,Real-time air-quality maps and historical station data.,ENV,ENV|DATA,freemium,all
+IRENA,https://www.irena.org/,International Renewable Energy Agency cost and capacity datasets.,ENV,ENV|DATA|SOC,free,adv
+Justice and environment,https://www.justiceandenvironment.org/,European network publishing environmental-law and policy analysis.,ENV,ENV|SOC,free,adv
+NREL,https://www.nrel.gov/,US National Renewable Energy Laboratory research and open data tools.,ENV,ENV|ACCEL,free,adv
+Ocean Conservancy,https://oceanconservancy.org/,"Ocean policy and conservation, home of the International Coastal Cleanup data.",ENV,ENV|ECOL|SOC,paid,all
+Oceana,https://oceana.org/,Ocean advocacy organisation with fisheries and plastics science.,ENV,ENV|ECOL|SOC,paid,all
+OpenAQ,https://openaq.org/,Open air-quality data platform aggregating official monitors worldwide.,ENV,ENV|DATA|SCIAI,open,all
+OpenStudio,https://www.openstudio.net/,Modelling environment and measures built on EnergyPlus.,ENV,ENV|SIM,open,adv
+Our World in Data Energy,https://ourworldindata.org/energy,Open charts and downloadable data on energy production and emissions.,ENV,ENV|DATA,open,all
+Project Drawdown,https://drawdown.org/,"Researched, quantified catalogue of climate solutions.",ENV,ENV|DATA,free,all
+PVWatts,https://pvwatts.nrel.gov/,NREL calculator estimating photovoltaic energy production anywhere.,ENV,ENV,free,all
+Rainforest Connection,https://rfcx.org/,Acoustic sensors and AI detecting chainsaws and species in rainforests.,ENV,ENV|ECOL|SCIAI,paid,all
+REMADE / Circular economy,https://www.rmi.org/,Rocky Mountain Institute research on decarbonisation and industrial systems.,ENV,ENV|SOC,paid,adv
+SEI Stockholm Environment Institute,https://www.sei.org/,"Policy research on climate, water and energy including the LEAP model.",ENV,ENV|SIM|SOC,free,adv
+TELEMAC-MASCARET,https://www.opentelemac.org/,Open-source finite-element suite for free-surface flows.,ENV,ENV|EARTH|SIM,open,adv
+UN Environment Programme,https://www.unep.org/,Global environmental assessments and the emissions gap reports.,ENV,ENV|SOC,free,all
+UN Water,https://www.unwater.org/,UN system coordination mechanism publishing the World Water Development Report.,ENV,ENV|SOC|DATA,free,all
+USGS Water Data,https://waterdata.usgs.gov/,"Real-time streamflow, groundwater and water-quality monitoring data.",ENV,ENV|EARTH|DATA,free,all
+Waste Atlas,https://www.wasteatlas.com/,Database of waste generation and treatment by country and city.,ENV,ENV|DATA,free,all
+Water Framework Directive portal,https://water.europa.eu/,European water-status data and river-basin management information.,ENV,ENV|DATA,free,adv
+WaterAid,https://www.wateraid.org/,"Research and advocacy on water, sanitation and hygiene.",ENV,ENV|SOC,paid,all
+World Air Quality Index,https://waqi.info/,Crowd-sourced and official AQI map with a public API.,ENV,ENV|DATA,freemium,all
+Absci,https://www.absci.com/,De novo antibody creation platform pairing generative AI with a high-throughput wet lab.,SCIAI,SCIAI|BIO,paid,adv
+Allen Coral Atlas,https://allencoralatlas.org/,High-resolution global coral-reef map with change detection.,SCIAI,SCIAI|ECOL|DATA,open,adv
+Allen Institute for Brain Science,https://www.allenbraininstitute.org/,Large-scale neuroscience datasets and the Brain Observatory.,SCIAI,SCIAI|HEALTH|DATA,open,adv
+AlphaFold,https://alphafold.ebi.ac.uk/,DeepMind's protein-structure prediction system and the EBI database of 200 million+ predicted structures.,SCIAI,SCIAI|BIO,free,adv
+AlphaFold Server,https://alphafoldserver.com/,"Free web service to fold proteins, complexes and nucleic acids without local compute.",SCIAI,SCIAI|BIO,free,adv
+Aurora,https://microsoft.github.io/aurora/,"Microsoft's foundation model for the atmosphere, trained on diverse data.",SCIAI,SCIAI|EARTH,open,adv
+Basecamp Research,https://www.basecamp-research.com/,Biodiversity-derived biological datasets and foundation models trained on environmental genomes.,SCIAI,SCIAI|BIO,paid,adv
+Boltz,https://github.com/jwohlwend/boltz,"Open deep-learning model for biomolecular complexes, widely adopted as an AlphaFold alternative.",SCIAI,SCIAI|BIO,open,adv
+CellProfiler,https://cellprofiler.org/,Broad Institute image-analysis software for quantifying cells and phenotypes at scale.,SCIAI,SCIAI|BIO,open,adv
+Chai Discovery,https://www.chaidiscovery.com/,Structure-prediction and generative design platform for antibodies and small molecules.,SCIAI,SCIAI|BIO,paid,adv
+Chai-1,https://www.chaidiscovery.com/blog/introducing-chai-1,"Foundation model for structure prediction of proteins, DNA, RNA and small molecules.",SCIAI,SCIAI|BIO,freemium,adv
+CIViC,https://civicdb.org/,Clinically actionable cancer variant interpretations contributed by the community.,SCIAI,SCIAI|HEALTH|DATA,open,adv
+Climate TRACE,https://climatetrace.org/,Satellite-and-AI global greenhouse-gas emissions inventory.,SCIAI,SCIAI|ENV|DATA,open,adv
+ColabFold,https://github.com/sokrypton/ColabFold,"Fast, free AlphaFold2 and AlphaFold-Multimer inference in a notebook.",SCIAI,SCIAI|BIO,open,adv
+Cradle,https://www.cradle.bio/,Machine-learning-guided protein engineering used by biotech teams to optimise enzymes and antibodies.,SCIAI,SCIAI|BIO,paid,adv
+DeepCell,https://deepcell.org/,"Deep-learning cell segmentation and tracking, with a hosted web application.",SCIAI,SCIAI|BIO,open,adv
+DeepVariant,https://github.com/google/deepvariant,Google's deep-learning germline and somatic variant caller.,SCIAI,SCIAI|BIO,open,adv
+ESMFold,https://github.com/facebookresearch/esm,"Meta AI's single-sequence protein structure predictor, dramatically faster than MSA methods.",SCIAI,SCIAI|BIO,open,adv
+Galaxy,https://usegalaxy.org/,"Web-based, reproducible bioinformatics workflows with 10,000+ tools and no coding.",SCIAI,SCIAI|BIO,open,all
+Generate:Biomedicines,https://generatebiomedicines.com/,Generative-biology company designing therapeutic proteins from scratch.,SCIAI,SCIAI|BIO,paid,adv
+Google DeepMind Science,https://deepmind.google/science/,"DeepMind's science division: AlphaFold, weather, fusion, materials and maths work.",SCIAI,SCIAI,free,adv
+GraphCast,https://deepmind.google/discover/blog/graphcast/,DeepMind's graph-network weather model beating operational forecasts on most targets.,SCIAI,SCIAI|EARTH,open,adv
+Hugging Face,https://huggingface.co/,Model and dataset hub now hosting many scientific foundation models.,SCIAI,SCIAI|DATA,freemium,adv
+Ilastik,https://www.ilastik.org/,Interactive machine-learning segmentation and classification for bioimages.,SCIAI,SCIAI|BIO,open,adv
+JARVIS,https://jarvis.nist.gov/,"NIST's joint automated repository of diverse materials data, ML-ready out of the box.",SCIAI,SCIAI|MAT|DATA,open,adv
+Kaggle,https://www.kaggle.com/,Competitions and open datasets; a major source of practical ML skills.,SCIAI,SCIAI|DATA,free,all
+Latent Labs,https://www.latentlabs.com/,Protein foundation models aimed at making biology programmable.,SCIAI,SCIAI|BIO,paid,adv
+Map of Life,https://mol.org/,Synthesised species distribution maps from multiple data providers.,SCIAI,SCIAI|ECOL|DATA,open,adv
+Microsoft Research AI for Science,https://www.microsoft.com/en-us/research/research-area/ai-for-science/,"AI-for-science programme spanning materials, chemistry, climate and the Aurora model.",SCIAI,SCIAI,free,adv
+MLflow,https://mlflow.org/,Open platform for the machine-learning lifecycle and model provenance.,SCIAI,SCIAI|CODE,open,adv
+NVIDIA Earth-2,https://www.nvidia.com/en-us/earth-2/,GPU platform for AI weather and climate simulation at high resolution.,SCIAI,SCIAI|EARTH,paid,adv
+OpenFold,https://github.com/aqlaboratory/openfold,Faithful open-source reproduction of AlphaFold2 for local training.,SCIAI,SCIAI|BIO,open,adv
+OpenProtein / ESM Atlas API,https://esm.allenai.org/,Programmatic access to predicted metagenomic protein structures and embeddings.,SCIAI,SCIAI|BIO,open,adv
+OpenTargets,https://www.opentargets.org/,"Open evidence platform linking human genes, targets, diseases and drugs.",SCIAI,SCIAI|HEALTH|DATA,open,adv
+OpenWeather,https://openweather.co.uk/,"Weather APIs, maps and historical data used by many applications.",SCIAI,SCIAI|EARTH,freemium,all
+Orfeo ToolBox,https://www.orfeo-toolbox.org/,"CNES library for remote-sensing image processing, callable from QGIS and Python.",SCIAI,SCIAI|EARTH|CODE,open,adv
+Profluent,https://www.profluent.bio/,Protein design company building foundation models for novel enzymes and gene editors.,SCIAI,SCIAI|BIO,paid,adv
+PyTorch,https://pytorch.org/,Deep-learning framework dominant in scientific and academic machine learning.,SCIAI,SCIAI|CODE,open,adv
+Radiant MLHub,https://mlhub.radiant.earth/,"Open library of Earth-observation training data, models and standards.",SCIAI,SCIAI|EARTH|DATA,open,adv
+RoseTTAFold,https://www.ipd.uw.edu/rosettafold/,Baker lab's three-track neural network for protein structure and complex prediction.,SCIAI,SCIAI|BIO,open,adv
+Scanpy,https://scanpy.readthedocs.io/,"Single-cell RNA-seq analysis in Python: QC, clustering, trajectories and annotation.",SCIAI,SCIAI|BIO|CODE,open,adv
+Scikit-learn,https://scikit-learn.org/,The reference machine-learning library for tabular scientific data.,SCIAI,SCIAI|CODE,open,all
+scvi-tools,https://scvi-tools.org/,"Deep generative modelling for single-cell omics: integration, annotation and perturbation.",SCIAI,SCIAI|BIO,open,adv
+SoilGrids,https://soilgrids.org/,Global 250 m maps of soil properties derived by machine learning.,SCIAI,SCIAI|AGRI|DATA,open,adv
+Uni-Fold,https://github.com/dptech-corp/Uni-Fold,Open reimplementation of AlphaFold2 with lighter hardware requirements.,SCIAI,SCIAI|BIO,open,adv
+WeatherBench 2,https://github.com/google-research/weatherbench2,Benchmark datasets and metrics for comparing AI weather models.,SCIAI,SCIAI|EARTH|DATA,open,adv
+Weights & Biases,https://wandb.ai/,Experiment tracking and model registry used in scientific ML teams.,SCIAI,SCIAI,freemium,adv
+Apache Arrow,https://arrow.apache.org/,Columnar in-memory format enabling fast interchange between scientific tools.,CODE,CODE|DATA,open,adv
+ArviZ,https://arviz-devs.github.io/arviz/,Exploratory analysis of Bayesian posterior distributions and model checks.,CODE,CODE,open,adv
+bcftools / samtools,https://www.htslib.org/,"The htslib command-line suite for reading, filtering and calling variants in BAM/VCF.",CODE,CODE|BIO,open,adv
+BEAST 2,https://www.beast2.org/,"Bayesian evolutionary analysis with trees, dating and phylodynamics.",CODE,CODE|BIO,open,adv
+Bioconda,https://bioconda.github.io/,"Conda channel distributing 8,000+ bioinformatics packages and containers.",CODE,CODE|BIO,open,adv
+Bioconductor,https://www.bioconductor.org/,"R-based open-source software for precise, repeatable analysis of biological data.",CODE,CODE|BIO,open,adv
+BLAST+ Command Line,https://www.ncbi.nlm.nih.gov/books/NBK279690/,Standalone and cloud-ready BLAST for large-scale local searches.,CODE,CODE|BIO,free,adv
+BWA,https://bio-bwa.sourceforge.net/,Burrows-Wheeler aligner for mapping short reads to reference genomes.,CODE,CODE|BIO,open,adv
+CKAN,https://ckan.org/,Open data portal software powering many government and science catalogues.,CODE,CODE|DATA,open,adv
+ClimaLab,https://github.com/ClimateGlobalChange/ClimLab,Climate model diagnostics and ML analysis toolkit.,CODE,CODE|EARTH,open,adv
+Common Workflow Language,https://www.commonwl.org/,Portable workflow standard so pipelines run unchanged across executors.,CODE,CODE|DATA,open,adv
+Conda,https://docs.conda.io/,Cross-language package and environment manager used across scientific Python and R.,CODE,CODE,open,all
+DESeq2,https://bioconductor.org/packages/DESeq2/,Differential expression analysis for count data using negative binomial models.,CODE,CODE|BIO,open,adv
+DVC,https://dvc.org/,Data version control for reproducible machine-learning and research pipelines.,CODE,CODE|DATA,open,adv
+edgeR,https://bioconductor.org/packages/edgeR/,"Empirical analysis of digital gene expression data, another DE standard.",CODE,CODE|BIO,open,adv
+EMBOSS,https://www.ebi.ac.uk/Tools/emboss/,Hundreds of classical sequence-analysis applications in one open-source package.,CODE,CODE|BIO,open,adv
+FAIR Data Point,https://www.fairdatapoint.org/,Software implementing the FAIR Data Point specification for data discovery.,CODE,CODE|DATA,open,adv
+FastTree,http://www.microbesonline.org/fasttree/,Approximately maximum-likelihood trees for thousands of sequences in minutes.,CODE,CODE|BIO,open,adv
+GDAL,https://gdal.org/,Translator and processing library for raster and vector geospatial data.,CODE,CODE|EARTH,open,adv
+GeoPandas,https://geopandas.org/,"Spatial vector dataframes for Python, combining pandas and GEOS.",CODE,CODE|EARTH,open,adv
+Git,https://git-scm.com/,"Version control, the foundation of reproducible scientific software practice.",CODE,CODE,open,all
+GNU Octave,https://www.gnu.org/software/octave/,Open numerical computing environment largely compatible with MATLAB scripts.,CODE,CODE,open,all
+Great Expectations,https://greatexpectations.io/,Data-quality validation framework for trustworthy scientific datasets.,CODE,CODE|DATA,open,adv
+HMMER,https://www.hmmer.org/,Profile hidden Markov model searches for remote protein homologues.,CODE,CODE|BIO,open,adv
+ImageJ / FIJI,https://fiji.sc/,The ubiquitous image-processing package for microscopy and gels.,CODE,CODE|BIO,open,all
+IQ-TREE,https://www.iqtree.org/,Fast and thorough maximum-likelihood phylogenetics with model selection.,CODE,CODE|BIO,open,adv
+JupyterLab,https://jupyterlab.readthedocs.io/,"Next-generation Jupyter interface with file browser, terminals and extensions.",CODE,CODE,open,all
+MAFFT,https://mafft.cbrc.jp/alignment/software/,Fast multiple sequence alignment with a broad set of accuracy/throughput modes.,CODE,CODE|BIO,open,adv
+MetPy,https://unidata.github.io/MetPy/,Meteorological calculations and visualisations built on xarray and pint.,CODE,CODE|EARTH,open,adv
+Monocle 3,https://cole-trapnell-lab.github.io/monocle3/,Trajectory and pseudotime analysis of single-cell expression data.,CODE,CODE|BIO,open,adv
+MrBayes,https://nbisweden.github.io/MrBayes/,Bayesian phylogenetic inference by Markov chain Monte Carlo.,CODE,CODE|BIO,open,adv
+MUSCLE,https://www.drive5.com/muscle/,High-accuracy multiple sequence alignment with a long track record.,CODE,CODE|BIO,open,adv
+NCO,https://nco.sourceforge.net/,"NetCDF Operators for slicing, averaging and merging climate files.",CODE,CODE|EARTH,open,adv
+Nextflow,https://www.nextflow.io/,Data-driven workflow language ubiquitous in genomics pipelines.,CODE,CODE|BIO,open,adv
+NumPy,https://numpy.org/,The array library underpinning essentially all of scientific Python.,CODE,CODE,open,all
+Pandas,https://pandas.pydata.org/,"Tabular data frames, the default tool for wrangling scientific tables.",CODE,CODE,open,all
+Parquet,https://parquet.apache.org/,Columnar on-disk format widely used for large scientific tabular archives.,CODE,CODE|DATA,open,adv
+PDAL,https://pdal.io/,Point cloud data processing library for lidar and photogrammetry.,CODE,CODE|EARTH,open,adv
+Pingouin,https://pingouin-stats.org/,"Practical statistics package for researchers: effect sizes, ANOVA, correlations.",CODE,CODE,open,all
+Pint,https://pint.readthedocs.io/,"Physical quantities and unit arithmetic for Python, preventing unit bugs.",CODE,CODE,open,all
+Prefect,https://www.prefect.io/,Workflow orchestration popular for reproducible scientific data pipelines.,CODE,CODE,freemium,adv
+PyMC,https://www.pymc.io/,Bayesian modelling in Python with NUTS sampling and variational inference.,CODE,CODE,open,adv
+QGIS,https://www.qgis.org/,"The leading open-source desktop GIS, with a large plugin and processing ecosystem.",CODE,CODE|EARTH,open,all
+R Language,https://www.r-project.org/,"The statistical computing language, still the backbone of much biological analysis.",CODE,CODE,open,adv
+Rasterio,https://rasterio.readthedocs.io/,Pythonic access to geospatial raster data built on GDAL.,CODE,CODE|EARTH,open,adv
+RAxML-NG,https://raxml-ng.vital-it.ch/,Next generation of the RAxML phylogenetic inference code.,CODE,CODE|BIO,open,adv
+RStudio / Posit,https://posit.co/,IDE and publishing tools for R and Python data science.,CODE,CODE,freemium,all
+SageMath,https://www.sagemath.org/,Open mathematics system unifying dozens of open-source algebra and number-theory packages.,CODE,CODE,open,adv
+Salmon,https://combine-lab.github.io/salmon/,"Fast, bias-aware transcript quantification from RNA-seq reads.",CODE,CODE|BIO,open,adv
+scikit-bio,https://scikit-bio.org/,"Biological data structures and algorithms in Python, the successor to PyCogent.",CODE,CODE|BIO,open,adv
+SciPy,https://scipy.org/,"Numerical routines: optimisation, integration, signal processing, statistics and sparse linear algebra.",CODE,CODE,open,adv
+Seurat,https://satijalab.org/seurat/,The leading R toolkit for single-cell genomics and multimodal integration.,CODE,CODE|BIO,open,adv
+Software Heritage,https://www.softwareheritage.org/,"Universal archive of source code, critical for preserving research software.",CODE,CODE|DATA,open,adv
+Squidpy,https://squidpy.readthedocs.io/,Spatial molecular data analysis built on AnnData and Scanpy.,CODE,CODE|BIO,open,adv
+STAC browser,https://radiantearth.github.io/stac-browser/,Reference browser for exploring SpatioTemporal Asset Catalogs.,CODE,CODE|DATA|EARTH,open,adv
+Stan,https://mc-stan.org/,Probabilistic programming with state-of-the-art Hamiltonian Monte Carlo.,CODE,CODE,open,adv
+STAR Aligner,https://github.com/alexdobin/STAR,Ultrafast splice-aware RNA-seq read aligner.,CODE,CODE|BIO,open,adv
+Statsmodels,https://www.statsmodels.org/,Classical statistical modelling and time-series analysis in Python.,CODE,CODE,open,adv
+SWE-bench Multimodal,https://www.swebench.com/,Benchmark repos whereby agents must resolve real scientific-software issues in Python.,CODE,CODE|SCIAI,open,adv
+SymPy,https://www.sympy.org/,"Symbolic mathematics in Python: algebra, calculus, solvers and code generation.",CODE,CODE,open,all
+TensorFlow,https://www.tensorflow.org/,Google's deep-learning framework with a mature production and TPU story.,CODE,CODE|SCIAI,open,adv
+Vaex,https://vaex.io/,Out-of-core dataframe library for billion-row scientific tables.,CODE,CODE,open,adv
+Wolfram Mathematica,https://www.wolfram.com/mathematica/,Symbolic and numerical computing system with a huge curated scientific-knowledge base.,CODE,CODE,paid,adv
+Xarray,https://xarray.dev/,"Labelled multi-dimensional arrays, the standard for climate and ocean data.",CODE,CODE|EARTH,open,adv
+xESMF,https://xesmf.readthedocs.io/,"Regridding and interpolation for structured climate grids, built on ESMF.",CODE,CODE|EARTH,open,adv
+Zarr,https://zarr.dev/,"Chunked, compressed N-D arrays for cloud-native scientific storage.",CODE,CODE|DATA|ACCEL,open,adv
+Zenodo,https://zenodo.org/,"CERN-hosted open repository for datasets, software and papers with DOIs.",CODE,CODE|DATA,open,all
+10x Genomics,https://www.10xgenomics.com/,"Single-cell, spatial and linked-read solutions with a rich software stack.",LAB,LAB|BIO,paid,adv
+Addgene,https://www.addgene.org/,Plasmid repository and molecular-biology protocols contributed by researchers.,LAB,LAB|BIO,freemium,adv
+Agilent,https://www.agilent.com/,"Chromatography, spectroscopy and genomics instruments with data systems.",LAB,LAB,paid,adv
+Antibody Registry,https://antibodyregistry.org/,Persistent identifiers for research antibodies to fix reproducibility.,LAB,LAB|BIO,open,adv
+Arduino,https://www.arduino.cc/,Open microcontroller platform powering countless low-cost scientific instruments.,LAB,LAB|CODE,open,all
+Benchling,https://www.benchling.com/,"Cloud R&D platform combining an electronic lab notebook, registry and workflows.",LAB,LAB|SCIAI,freemium,adv
+Bio-protocol,https://bio-protocol.org/,"Peer-reviewed, step-by-step laboratory protocols contributed by scientists.",LAB,LAB|BIO,free,adv
+Bionano Genomics,https://bionanogenomics.com/,Optical genome mapping instruments for structural-variant detection.,LAB,LAB,paid,adv
+CDD Vault,https://www.collaborativedrug.com/,Hosted chemical and biological data management with registration and assay reading.,LAB,LAB|CHEM,paid,adv
+Cell Ranger,https://www.10xgenomics.com/support/software/cell-ranger,10x Genomics' pipeline turning Chromium reads into gene-expression matrices.,LAB,LAB|BIO,freemium,adv
+Chemputer,https://www.chemputer.org/,Cronin group's universal workflow language and hardware for reproducible automated synthesis.,LAB,LAB|CHEM,open,adv
+Chemputer simulator,https://github.com/croningp/chempiler,Open compilation and simulation tools for chemical description language protocols.,LAB,LAB|CHEM,open,adv
+Dotmatics,https://www.dotmatics.com/,Scientific data and workflow platform for life-sciences R&D.,LAB,LAB|SCIAI,paid,adv
+eLabNext,https://www.elabnext.com/,ELN and inventory platform focused on academic and biotech laboratories.,LAB,LAB,paid,all
+GBIF IPT,https://www.gbif.org/ipt,Integrated Publishing Toolkit for publishing biodiversity datasets to GBIF.,LAB,LAB|ECOL|DATA,open,adv
+Horiba Scientific,https://www.horiba.com/,"Spectroscopy, particle sizing and elemental analysis instruments.",LAB,LAB|CHEM,paid,adv
+Illumina,https://www.illumina.com/,"Sequencing instruments, reagents and analysis software; the dominant NGS platform.",LAB,LAB|HEALTH,paid,adv
+Janelia Research Campus,https://www.janelia.org/,"HHMI campus developing imaging and neuroscience tools, with open-source software.",LAB,LAB|BIO|SCIAI,free,adv
+LabArchives,https://www.labarchives.com/,Electronic lab notebook and lab-management system for academic labs.,LAB,LAB,paid,all
+Labguru,https://www.labguru.com/,"ELN, LIMS, inventory and equipment booking in a single research platform.",LAB,LAB,paid,adv
+LabVantage,https://www.labvantage.com/,"LIMS, ELN and scientific data management suite for complex organisations.",LAB,LAB,paid,adv
+LabWare LIMS,https://www.labware.com/,Enterprise laboratory information management system with broad workflow coverage.,LAB,LAB,paid,adv
+Leica Microsystems,https://www.leica-microsystems.com/,"Microscopes, histology and digital pathology workflows.",LAB,LAB|BIO,paid,adv
+Lila Sciences,https://www.lilasciences.com/,"Scientific-superintelligence platform operating autonomous labs across materials, energy and therapeutics.",LAB,LAB|SCIAI,paid,adv
+Lila Sciences AI Science Factory,https://www.lilasciences.com/technology,Autonomous-lab instruments paired with a scientific foundation model.,LAB,LAB|SCIAI,paid,adv
+MGI Tech,https://en.mgitech.cn/,DNBSEQ sequencing and automation platforms from the Chinese sequencing vendor.,LAB,LAB,paid,adv
+MilliporeSigma,https://www.sigmaaldrich.com/,"Research chemicals, reagents and lab supplies catalogue.",LAB,LAB|CHEM,paid,adv
+Mnova,https://mestrelab.com/,Cross-platform NMR and mass-spectrum processing suite with plugin automation.,LAB,LAB|CHEM,paid,adv
+Nikon Instruments,https://www.nikoninstruments.com/,Microscopy and industrial-metrology imaging systems.,LAB,LAB|BIO,paid,adv
+Olympus Scientific Solutions,https://www.olympus-ims.com/,Industrial and life-science imaging and analysis equipment.,LAB,LAB,paid,adv
+OpenNEPTUNE,https://openneptune.org/,Open-source platform for environmental and biological sample processing.,LAB,LAB|ACCEL,open,adv
+Opentrons,https://opentrons.com/,Open-source liquid-handling robots with a Python protocol API.,LAB,LAB,paid,adv
+OpenTrons Protocol Library,https://protocols.opentrons.com/,Community protocols for OT-2 and Flex liquid-handling robots.,LAB,LAB|CODE,open,adv
+Oxford Nanopore Technologies,https://nanoporetech.com/,Portable long-read sequencing devices and basecalling software.,LAB,LAB|HEALTH,paid,adv
+PacBio,https://www.pacbio.com/,HiFi long-read sequencing systems for highly accurate genome assembly.,LAB,LAB|HEALTH,paid,adv
+Photonics / OpenFlexure,https://openflexure.org/,"Open-source, 3-D-printed microscope and lab automation hardware.",LAB,LAB|BIO,open,adv
+Protocol Exchange,https://www.nature.com/protocolexchange/,"Open repository of detailed, peer-readable lab protocols.",LAB,LAB|BIO|LIT,free,adv
+PyLabRobot,https://github.com/pylabrobot/pylabrobot,Open-source Python driver framework for automating many lab robots.,LAB,LAB|CODE|SCIAI,open,adv
+RAPID / 3-D printed labware,https://appropedia.org/,Community repositories of open labware and microscope designs.,LAB,LAB,open,adv
+Raspberry Pi,https://www.raspberrypi.com/,Low-cost single-board computer widely used for field and classroom sensors.,LAB,LAB|ACCEL,freemium,all
+Revvity,https://www.revvity.com/,"High-content screening, detection and informatics for research labs.",LAB,LAB|HEALTH,paid,adv
+Sapio Sciences,https://www.sapiosciences.com/,"Configurable LIMS, ELN and scientific data cloud for biopharma.",LAB,LAB|SCIAI,paid,adv
+Sartorius,https://www.sartorius.com/,"Weighing, filtration and bioprocess equipment for research and industry.",LAB,LAB,paid,adv
+SciNote,https://www.scinote.net/,"Open, FAIR-first electronic lab notebook with inventory and protocol management.",LAB,LAB,freemium,all
+Scispot,https://www.scispot.com/,"Lab operating system linking instruments, ELN, LIMS and AI-ready data pipelines.",LAB,LAB|SCIAI,paid,adv
+SciSure,https://www.scisure.com/,"Research documentation plus safety, training and compliance operations.",LAB,LAB,paid,adv
+SnapGene,https://www.snapgene.com/,"Plasmid mapping, cloning simulation and sequence editing used across molecular labs.",LAB,LAB|BIO,paid,all
+SpaceRanger,https://www.10xgenomics.com/support/software/space-ranger,10x pipeline for Visium spatial transcriptomics data.,LAB,LAB|BIO,freemium,adv
+STARLIMS,https://www.starlims.com/,"Laboratory informatics platform for clinical, public-health and manufacturing labs.",LAB,LAB,paid,adv
+Synthego,https://www.synthego.com/,CRISPR reagents and editing-analysis software including ICE.,LAB,LAB|BIO,paid,adv
+Tecan,https://www.tecan.com/,"Plate readers, liquid handlers and laboratory automation.",LAB,LAB,paid,adv
+Thermo Fisher Scientific,https://www.thermofisher.com/,"Instrumentation, reagents and informatics across the life sciences.",LAB,LAB|ACCEL,paid,adv
+TopSpin,https://www.bruker.com/,"Bruker's NMR acquisition and processing software, the field standard on Bruker spectrometers.",LAB,LAB|CHEM,paid,adv
+Waters Corporation,https://www.waters.com/,Liquid chromatography and mass spectrometry systems.,LAB,LAB|CHEM,paid,adv
+ZEISS Microscopy,https://www.zeiss.com/microscopy/,Light and electron microscopy systems with the ZEN software ecosystem.,LAB,LAB|BIO,paid,adv
+Altair HyperWorks,https://www.altair.com/,"Simulation and optimisation software for structures, fluids and materials.",SIM,SIM,paid,adv
+AMBER,https://ambermd.org/,Biomolecular simulation package and force-field family for proteins and nucleic acids.,SIM,SIM|BIO,paid,adv
+ANSYS Discovery,https://www.ansys.com/,"Engineering simulation suite spanning fluids, structures and electromagnetics.",SIM,SIM,paid,adv
+BioModels,https://www.ebi.ac.uk/biomodels/,Curated repository of mathematical models of biological processes in SBML.,SIM,SIM|BIO|DATA,open,adv
+C-Star / NCAR,https://ncar.ucar.edu/,National Center for Atmospheric Research modelling and data resources.,SIM,SIM|EARTH|SOC,free,adv
+CESM,https://www.cesm.ucar.edu/,Community Earth System Model and its working groups.,SIM,SIM|EARTH,open,adv
+CHARMM,https://www.charmm.org/,Classical biomolecular simulation programme with a long force-field heritage.,SIM,SIM|BIO,paid,adv
+CMIP,https://www.wcrp-climate.org/wgcm-cmip,Coupled Model Intercomparison Project protocols and model archive.,SIM,SIM|EARTH|SOC,open,adv
+COMSOL,https://www.comsol.com/,Commercial multiphysics finite-element environment with an application builder.,SIM,SIM,paid,adv
+COPASI,https://copasi.org/,Biochemical network simulation and parameter estimation.,SIM,SIM|BIO,open,adv
+CryoSPARC,https://www.cryosparc.com/,GPU-accelerated single-particle cryo-EM processing and 3-D reconstruction.,SIM,SIM|BIO,freemium,adv
+deal.II,https://www.dealii.org/,C++ finite-element library with a large tutorial and documentation base.,SIM,SIM|CODE,open,adv
+DUNE,https://www.dune-project.org/,Distributed and Unified Numerics Environment for PDE discretisation.,SIM,SIM|CODE,open,adv
+ECMWF,https://www.ecmwf.int/,European Centre for Medium-Range Weather Forecasts and the IFS model.,SIM,SIM|EARTH|SOC,freemium,adv
+FEniCS,https://fenicsproject.org/,Automated finite-element solution of PDEs with a high-level Python interface.,SIM,SIM|CODE,open,adv
+FiPy,https://www.ctcms.nist.gov/fipy/,NIST finite-volume PDE solver for multiphase and materials problems.,SIM,SIM|CODE,open,adv
+Firedrake,https://firedrakeproject.org/,Automated finite-element system built on PETSc for portable high-performance PDE solves.,SIM,SIM|CODE,open,adv
+Firedrake PDE,https://www.firedrakeproject.org/,High-performance finite-element automation with adjoint and optimisation support.,SIM,SIM|CODE,open,adv
+GROMACS,https://www.gromacs.org/,High-performance molecular dynamics and trajectory analysis suite.,SIM,SIM|BIO,open,adv
+HYCOM,https://www.hycom.org/,Hybrid Coordinate Ocean Model and global operational ocean products.,SIM,SIM|EARTH|DATA,open,adv
+ICON Model,https://www.icon-model.org/,Community reference for DWD's ICON atmosphere and climate model.,SIM,SIM|EARTH,open,adv
+Julia Language,https://julialang.org/,High-performance language designed for scientific computing and differential equations.,SIM,SIM|CODE,open,adv
+Julia SciML,https://sciml.ai/,Ecosystem of differential-equation solvers and physics-informed ML in Julia.,SIM,SIM|CODE|SCIAI,open,adv
+MATLAB,https://www.mathworks.com/products/matlab.html,The commercial numerical computing environment standard in engineering science.,SIM,SIM|CODE,paid,adv
+MFEM,https://mfem.org/,"Lightweight, scalable finite-element discretisation library.",SIM,SIM|CODE,open,adv
+ModelingToolkit,https://docs.sciml.ai/ModelingToolkit/,Acausal symbolic-numeric modelling and model order reduction in Julia.,SIM,SIM|CODE,open,adv
+MPAS,https://mpas-dev.github.io/,Model for Prediction Across Scales with unstructured global meshes.,SIM,SIM|EARTH,open,adv
+MuJoCo,https://mujoco.org/,High-performance physics engine widely used in biomechanics and reinforcement learning.,SIM,SIM|SCIAI,freemium,adv
+NAMD,https://www.ks.uiuc.edu/Research/namd/,Scalable molecular dynamics code developed with the University of Illinois.,SIM,SIM|BIO,open,adv
+Nektar++,https://www.nektar.info/,High-order spectral/hp element framework for CFD.,SIM,SIM|CODE,open,adv
+NEMO Ocean Engine,https://www.nemo-ocean.eu/,European community ocean modelling system used in climate simulations.,SIM,SIM|EARTH,open,adv
+NeuralGCM,https://github.com/google-research/neuralgcm,Hybrid neural-physics atmospheric model from Google Research.,SIM,SIM|EARTH|SCIAI,open,adv
+NOAA GEFS,https://www.emc.ncep.noaa.gov/emc/pages/,Global Ensemble Forecast System documentation and products.,SIM,SIM|EARTH,open,adv
+NVIDIA Isaac Sim,https://developer.nvidia.com/isaac-sim,Omniverse-based robotics and physics simulation for embodied-science research.,SIM,SIM|SCIAI,freemium,adv
+NVIDIA Modulus,https://developer.nvidia.com/modulus,Physics-informed neural-network framework for solving PDEs on GPU clusters.,SIM,SIM|SCIAI,open,adv
+OpenFOAM,https://www.openfoam.com/,"The leading open-source CFD toolbox, now with a data-driven modelling ecosystem.",SIM,SIM|CODE,open,adv
+OpenMM,https://openmm.org/,GPU-accelerated molecular dynamics toolkit with a friendly Python API.,SIM,SIM|BIO|CODE,open,adv
+OxCal / radiocarbon,https://c14.arch.ox.ac.uk/,Bayesian radiocarbon calibration used across geology and archaeology.,SIM,SIM|EARTH,free,adv
+PhysicsX,https://physicsx.ai/,AI-and-simulation engineering company for high-fidelity design of machines and materials.,SIM,SIM|SCIAI,paid,adv
+Plumed,https://www.plumed.org/,Enhanced-sampling and collective-variable plugin for major MD engines.,SIM,SIM|BIO,open,adv
+PyClaw,https://www.clawpack.org/,Python implementation of Clawpack for hyperbolic conservation laws.,SIM,SIM|CODE,open,adv
+RELION,https://www2.mrc-lmb.cam.ac.uk/relion/,"Regularised likelihood optimisation for cryo-EM, a field-standard package.",SIM,SIM|BIO,open,adv
+ROMS,https://www.myroms.org/,Regional Ocean Modeling System for coastal and basin-scale ocean simulation.,SIM,SIM|EARTH,open,adv
+Rosetta Commons,https://www.rosettacommons.org/,"The reference suite for protein structure prediction, design and docking.",SIM,SIM|BIO,freemium,adv
+SAGA GIS,https://www.saga-gis.org/,"Geoscientific analysis system strong in terrain, hydrology and geostatistics.",SIM,SIM|EARTH,open,adv
+SBML,https://sbml.org/,"Systems Biology Markup Language, the interchange format for kinetic models.",SIM,SIM|BIO,open,adv
+Simularium,https://simularium.allencell.org/,Browser viewer for particle-based spatial simulations of cells.,SIM,SIM|BIO,open,all
+Simulink,https://www.mathworks.com/products/simulink.html,Block-diagram modelling and simulation environment built on MATLAB.,SIM,SIM,paid,adv
+SU2,https://su2code.github.io/,Open-source multiphysics and aerodynamic-shape-optimisation suite with adjoint solvers.,SIM,SIM|CODE,open,adv
+SWISS-MODEL,https://swissmodel.expasy.org/,Automated comparative protein homology modelling workspace and repository.,SIM,SIM|BIO,free,adv
+Tellurium,https://tellurium.readthedocs.io/,Python environment for reproducible SBML modelling and analysis.,SIM,SIM|BIO|CODE,open,adv
+VisIt,https://visit-dav.github.io/visit-website/,LLNL interactive visualisation tool for mesh and particle simulation data.,SIM,SIM,open,adv
+Vivarium,https://vivarium-colab.org/,Microbial community simulation framework used in microbiome research.,SIM,SIM|BIO,open,adv
+VMD,https://www.ks.uiuc.edu/Research/vmd/,Visual Molecular Dynamics: analysis and rendering of simulations and structures.,SIM,SIM|BIO,freemium,adv
+VTK,https://vtk.org/,The visualisation toolkit libraries behind Paraview and many scientific viewers.,SIM,SIM|CODE,open,adv
+WRF Model,https://www.mmm.ucar.edu/weather-research-and-forecasting-model,"Weather Research and Forecasting model, the standard community mesoscale model.",SIM,SIM|EARTH,open,adv
+AGU,https://www.agu.org/,"American Geophysical Union: 60,000+ Earth and space scientists, journals and meetings.",SOC,SOC|EARTH,freemium,adv
+Alan Turing Institute,https://www.turing.ac.uk/,"UK national institute for data science and AI, with environment and health programmes.",SOC,SOC|SCIAI,free,adv
+Alfred Wegener Institute,https://www.awi.de/,Polar and marine research with open expeditions and data.,SOC,SOC|EARTH,free,adv
+American Society for Cell Biology,https://www.ascb.org/,"Cell biology society with meetings, policy and mentoring.",SOC,SOC|BIO,freemium,adv
+American Society for Microbiology,https://www.asm.org/,"Microbiology society with journals, meetings and teaching resources.",SOC,SOC|BIO,freemium,adv
+Arc Institute,https://arcinstitute.org/,Non-profit biomedical research institute building AI-assisted biology and open models.,SOC,SOC|BIO|SCIAI,free,adv
+Australian Bureau of Meteorology,http://www.bom.gov.au/,"Australian weather, climate, ocean and water data and warnings.",SOC,SOC|EARTH,free,all
+British Geological Survey,https://www.bgs.ac.uk/,"UK geological survey with map data, hazard information and open reports.",SOC,SOC|EARTH|DATA,free,adv
+CDC Science,https://www.cdc.gov/science/,"Centers for Disease Control research, surveillance data and laboratory guidance.",SOC,SOC|HEALTH|DATA,free,all
+Chan Zuckerberg Biohub,https://www.czbiohub.org/,"Philanthropic institute for cell atlas, infectious disease and climate biology.",SOC,SOC|BIO|SCIAI,free,adv
+Chan Zuckerberg Initiative,https://chanzuckerberg.com/,Science technology and open-source programmes including imaging and data infrastructure.,SOC,SOC|SCIAI,free,adv
+Chinese Academy of Sciences,https://english.cas.cn/,"CAS institutes, journals and international science programmes.",SOC,SOC,free,adv
+CNRS,https://www.cnrs.fr/,France's national research organisation with open-science and data infrastructure.,SOC,SOC|DATA,free,adv
+CSA,https://www.asc-csa.gc.ca/,Canadian Space Agency programmes and education material.,SOC,SOC|ASTRO,free,all
+Flatiron Institute,https://www.flatironinstitute.org/,"Simons Foundation computational institute spanning astrophysics, biology and chemistry.",SOC,SOC|SCIAI,free,adv
+Fraunhofer Society,https://www.fraunhofer.de/,Applied-research organisation bridging industrial science and technology.,SOC,SOC,free,adv
+Geological Society of America,https://www.geosociety.org/,"GSA meetings, publications, grants and public-science books.",SOC,SOC|EARTH,freemium,adv
+Geological Society of London,https://www.geolsoc.org.uk/,"UK geoscience society with publications, grants and policy work.",SOC,SOC|EARTH,freemium,adv
+Geological Survey of Canada,https://www.nrcan.gc.ca/,Natural Resources Canada geoscience programmes and data.,SOC,SOC|EARTH|DATA,free,adv
+German Weather Service,https://www.dwd.de/,"Deutscher Wetterdienst weather, climate and the ICON model.",SOC,SOC|EARTH,freemium,all
+IEA,https://www.iea.org/,"International Energy Agency statistics, outlooks and technology roadmaps.",SOC,SOC|ENV|DATA,freemium,adv
+International Astronomical Union,https://www.iau.org/,"IAU naming, definitions and global coordination of astronomy.",SOC,SOC|ASTRO,free,adv
+International Union of Biological Sciences,https://www.iubs.org/,Global union coordinating biological science and biodiversity programmes.,SOC,SOC|BIO,free,adv
+International Union of Geodesy and Geophysics,https://www.iugg.org/,Coordination body for geodesy and geophysics worldwide.,SOC,SOC|EARTH,free,adv
+IPCC,https://www.ipcc.ch/,Intergovernmental Panel on Climate Change assessment cycle and reports.,SOC,SOC|EARTH,free,all
+ISMAR / marine institutes,https://www.ismar.cnr.it/,CNR marine science institute with oceanographic data and cruises.,SOC,SOC|EARTH,free,adv
+JMA Japan Meteorological Agency,https://www.jma.go.jp/,"Japanese weather agency data, warnings and climate reports.",SOC,SOC|EARTH,free,all
+Laboratories of Molecular Biology,https://lmbe.espci.fr/,Structural and molecular biology research laboratory portal (CNRS).,SOC,SOC|BIO,free,adv
+Landsat,https://www.usgs.gov/landsat-missions,The 50-year Landsat programme and its open imagery archive.,SOC,SOC|EARTH|DATA,free,all
+Max Planck Society,https://www.mpg.de/,Germany's network of fundamental-research institutes across all natural sciences.,SOC,SOC,free,adv
+Mila,https://mila.quebec/,Québec AI institute hosting fundamental and scientific machine-learning research.,SOC,SOC|SCIAI,free,adv
+National Academies,https://www.nationalacademies.org/,US science advisory body producing consensus reports and evidence answers.,SOC,SOC,free,adv
+National Academy of Sciences,https://www.nasonline.org/,"Membership arm of the US National Academies, with lectures and reports.",SOC,SOC,free,adv
+New Phytologist Trust,https://www.newphytologist.org/,Plant-science publishing trust supporting the global plant community.,SOC,SOC|BIO|LIT,freemium,adv
+NIH RePORTER,https://reporter.nih.gov/,"Searchable database of NIH-funded research projects, abstracts and outcomes.",SOC,SOC|HEALTH|DATA,free,adv
+NOAA,https://www.noaa.gov/,"US oceanic and atmospheric agency: weather, climate, ocean and fisheries science.",SOC,SOC|EARTH|DATA,free,all
+NRAO,https://www.nrao.edu/,"National Radio Astronomy Observatory, operator of the VLA and GBT.",SOC,SOC|ASTRO,free,adv
+NSF,https://www.nsf.gov/,"US National Science Foundation funding, policy and discovery stories.",SOC,SOC,free,adv
+NumFOCUS,https://numfocus.org/,Non-profit fiscal sponsor supporting core scientific-Python projects.,SOC,SOC|CODE,paid,all
+OSGeo,https://www.osgeo.org/,"Open Source Geospatial Foundation stewardship of QGIS, GDAL, GRASS and more.",SOC,SOC|EARTH|CODE,paid,adv
+RIKEN,https://www.riken.jp/,"Japan's flagship research institute, from particle physics to brain science.",SOC,SOC,free,adv
+Royal Society,https://royalsociety.org/,"UK national academy with events, policy reports and the Royal Society open science agenda.",SOC,SOC,free,adv
+Santa Fe Institute,https://www.santafe.edu/,Complexity-science research institute with public lectures and courses.,SOC,SOC|SCIAI,free,adv
+Scientific Committee on Antarctic Research,https://www.scar.org/,International coordination of Antarctic and Southern Ocean science.,SOC,SOC|EARTH,free,adv
+Scientific Python Library of Congress,https://scientific-python.org/,"Governance, spectacles and guidance for the core scientific-Python libraries.",SOC,SOC|CODE,open,adv
+Scripps Institution of Oceanography,https://scripps.ucsd.edu/,"One of the oldest oceanographic institutions, with the Keeling CO2 record.",SOC,SOC|EARTH|DATA,free,adv
+Society for Experimental Biology,https://www.sebiology.org/,Comparative physiology and integrative biology community.,SOC,SOC|BIO,freemium,adv
+Society for Integrative and Comparative Biology,https://www.sicb.org/,"Comparative physiology, biomechanics and evolution society.",SOC,SOC|BIO,freemium,adv
+UK Biobank,https://www.ukbiobank.ac.uk/,Half-million-person health dataset available to approved researchers.,SOC,SOC|DATA|HEALTH,paid,adv
+UK Met Office,https://www.metoffice.gov.uk/,"UK national weather service with forecast models, climate projections and data.",SOC,SOC|EARTH,freemium,all
+USGS,https://www.usgs.gov/,"US Geological Survey: hazards, water, minerals and topographic data.",SOC,SOC|EARTH|DATA,free,all
+Vector Institute,https://vectorinstitute.ai/,Canadian AI institute with a strong health and scientific-machine-learning programme.,SOC,SOC|SCIAI,free,adv
+WHO ICTRP Search Portal,https://trialsearch.who.int/,Meta-search across the WHO network of primary trial registries worldwide.,SOC,SOC|HEALTH|DATA,free,adv
+Woods Hole Oceanographic Institution,https://www.whoi.edu/,Independent oceanographic institution operating research vessels and deep submersibles.,SOC,SOC|EARTH,free,adv
+World Meteorological Organization,https://public.wmo.int/,"UN agency coordinating global weather, climate and water science.",SOC,SOC|EARTH,free,all
+WWF,https://www.worldwildlife.org/,World Wide Fund for Nature: species programmes and the Living Planet Index.,SOC,SOC|ECOL|DATA,paid,all
+AIP Publishing,https://pubs.aip.org/,American Institute of Physics journals including applied physics and fluids.,LIT,LIT,paid,adv
+arXiv,https://arxiv.org/,"The original physics, astronomy and quantitative-biology preprint archive.",LIT,LIT|ASTRO,free,adv
+Authorea,https://www.authorea.com/,"Collaborative scientific writing with live data, figures and Git history.",LIT,LIT|DATA,freemium,adv
+BASE,https://www.base-search.net/,Bielefeld Academic Search Engine indexing millions of OA documents.,LIT,LIT|DATA,free,adv
+Better BibTeX,https://retorque.re/zotero-better-bibtex/,Zotero extension producing stable citation keys for LaTeXand  writing.,LIT,LIT,open,adv
+Binder,https://mybinder.org/,Turns a code repository into a runnable interactive environment.,LIT,LIT|ACCEL|CODE,open,all
+BioRxiv,https://www.biorxiv.org/,"Biology preprint server, free to post and read.",LIT,LIT|BIO,free,adv
+ChemRxiv,https://chemrxiv.org/,Chemistry preprint server run by the major chemical societies.,LIT,LIT|CHEM,free,adv
+COKI,https://coki.knowledge.org/,Cost of Knowledge index tracking open-access publishing economics.,LIT,LIT|DATA,open,adv
+Connected Papers,https://www.connectedpapers.com/,Graph of related papers built from shared citations.,LIT,LIT|SCIAI,freemium,adv
+Consensus,https://consensus.app/,Search engine answering scientific questions from study abstracts.,LIT,LIT|SCIAI,freemium,all
+Copernicus Publications,https://www.copernicus.org/,Open earth-science publisher behind EGU journals and interactive discussion.,LIT,LIT|EARTH,paid,adv
+CORE,https://core.ac.uk/,Aggregated open-access research papers with a powerful search API.,LIT,LIT|DATA,open,adv
+Crossref,https://www.crossref.org/,DOI registration agency and metadata infrastructure for scholarly content.,LIT,LIT|DATA,freemium,adv
+DataCite,https://www.datacite.org/,"DOI registration and metadata for datasets, software and other research outputs.",LIT,LIT|DATA,freemium,adv
+DataCite Commons,https://commons.datacite.org/,"Browse and connect research outputs, people and organisations.",LIT,LIT|DATA,open,adv
+DOAJ,https://doaj.org/,Directory of Open Access Journals: quality-controlled list of OA titles.,LIT,LIT,open,adv
+EarthArXiv,https://eartharxiv.org/,Community-run preprint server for the Earth and environmental sciences.,LIT,LIT|EARTH,free,adv
+Elicit,https://elicit.com/,AI research assistant for systematic literature searches and evidence tables.,LIT,LIT|SCIAI,freemium,adv
+eLife,https://elifesciences.org/,Non-profit journal with a reviewing-and-recommendation publishing model.,LIT,LIT|BIO,open,adv
+Europe PMC,https://europepmc.org/,European full-text life-science archive with text-mining tools.,LIT,LIT|HEALTH|DATA,open,adv
+Frontiers,https://www.frontiersin.org/,Open-access journal portfolio organised by research field.,LIT,LIT,paid,adv
+Google Patents,https://patents.google.com/,Full-text patent search with citation graphs and prior-art tools.,LIT,LIT|DATA,free,adv
+Google Scholar,https://scholar.google.com/,Broad index of scholarly literature with citation tracking and alerts.,LIT,LIT,free,all
+IOP Publishing,https://iopscience.iop.org/,"Institute of Physics journal platform, strong in condensed matter and plasma.",LIT,LIT|SOC,paid,adv
+Iris.ai,https://iris.ai/,AI science assistant mapping research frontiers from the literature.,LIT,LIT|SCIAI,freemium,adv
+Jupyter,https://jupyter.org/,Interactive notebook environment that has become the scientific lab book of code.,LIT,LIT|CODE,open,all
+Lens.org,https://www.lens.org/,Open patent and scholarly works search with citation and landscape tools.,LIT,LIT|DATA,freemium,adv
+Litmaps,https://www.litmaps.com/,Literature maps and citation tracking for systematic review work.,LIT,LIT|SCIAI,freemium,adv
+Manubot,https://manubot.org/,Manuscript-by-collaboration tooling keeping papers version-controlled in Git.,LIT,LIT|CODE,open,adv
+MDPI,https://www.mdpi.com/,"Large open-access publisher with journals across chemistry, environment and biology.",LIT,LIT,paid,adv
+MEDRxiv,https://www.medrxiv.org/,"Open preprint server for the health sciences, from epidemiology to clinical psychology.",LIT,LIT|HEALTH,free,adv
+NASA ADS,https://ui.adsabs.harvard.edu/,The Astrophysics Data System: the astronomer's literature and citation index.,LIT,LIT|ASTRO,free,adv
+Nature Portfolio,https://www.nature.com/,Nature and its specialist journals across every natural science.,LIT,LIT,paid,adv
+Open Access Button,https://openaccessbutton.org/,Helps readers locate a legal free copy of a paywalled paper.,LIT,LIT,free,all
+Open Science Framework,https://osf.io/,Project management and preregistration platform for open research.,LIT,LIT|DATA,free,adv
+OpenAlex,https://openalex.org/,"Open, CC0 catalogue of 400M+ scholarly works, authors and institutions.",LIT,LIT|DATA,open,adv
+OpenCitations,https://opencitations.net/,Open bibliographic citation data released as linked open data.,LIT,LIT|DATA,open,adv
+Orcid member API,https://member.orcid.org/,Institutional API for linking researchers to their outputs automatically.,LIT,LIT|DATA,free,adv
+Overleaf,https://www.overleaf.com/,"Collaborative LaTeX editor, the default writing environment for many scientists.",LIT,LIT,freemium,adv
+Pandoc,https://pandoc.org/,Universal document converter used to move scientific writing between formats.,LIT,LIT,open,all
+PLOS ONE,https://journals.plos.org/plosone/,Mega-journal publishing peer-reviewed research across all sciences.,LIT,LIT,paid,adv
+PNAS,https://www.pnas.org/,"Proceedings of the National Academy of Sciences, with broad open-access options.",LIT,LIT,freemium,adv
+PubMed,https://pubmed.ncbi.nlm.nih.gov/,"40+ million biomedical citations with free abstracts, linking out to full text and clinical data.",LIT,LIT|HEALTH,free,adv
+Quarto,https://quarto.org/,Scientific and technical publishing system built on Pandoc and Jupyter.,LIT,LIT|CODE,open,all
+ResearchRabbit,https://www.researchrabbit.ai/,Visual literature-mapping and alerting tool for building reading lists.,LIT,LIT|SCIAI,freemium,adv
+Retraction Watch,https://retractionwatch.com/,Database and blog tracking retracted scientific papers.,LIT,LIT,paid,all
+ROR,https://ror.org/,"Research Organization Registry, the open identifier for institutions.",LIT,LIT|DATA,open,adv
+Rxiv preprints portal,https://rxivist.org/,"Cross-preprint-server discovery across bioRxiv, medRxiv, arXiv and more.",LIT,LIT|DATA,open,adv
+Science,https://www.science.org/,AAAS Science family of journals and its news section.,LIT,LIT|SOC,paid,adv
+ScienceDirect,https://www.sciencedirect.com/,"Elsevier's full-text platform covering physical, life and health sciences.",LIT,LIT,paid,adv
+ScienceOpen,https://www.scienceopen.com/,Search and discovery platform mixing 90M+ records with post-publication review.,LIT,LIT|DATA,free,adv
+Scite,https://scite.ai/,Citation analytics showing whether papers support or contradict a claim.,LIT,LIT|SCIAI,freemium,adv
+Scopus,https://www.scopus.com/,Elsevier abstract and citation database with broad science coverage.,LIT,LIT,paid,adv
+Semantic Scholar,https://www.semanticscholar.org/,AI-powered literature search with citation influence and an augmented reader.,LIT,LIT|SCIAI,free,all
+Semantic Scholar Academic Graph,https://www.semanticscholar.org/product/api,"Open graph of papers, authors and citations for large-scale science studies.",LIT,LIT|DATA|SCIAI,free,adv
+SpringerLink,https://link.springer.com/,Springer Nature journal and book platform with wide science coverage.,LIT,LIT,paid,adv
+Taylor & Francis Online,https://www.tandfonline.com/,Journal platform with many specialist earth and environmental titles.,LIT,LIT,paid,adv
+Unpaywall,https://unpaywall.org/,Database of legal open-access full texts with a browser extension and API.,LIT,LIT|DATA,open,all
+Web of Science,https://www.webofscience.com/,"Clarivate citation index, still a standard requirement for many evaluations.",LIT,LIT,paid,adv
+Wiley Online Library,https://onlinelibrary.wiley.com/,"Broad journal platform spanning earth science, ecology and chemistry.",LIT,LIT,paid,adv
+bioinformatics.tools,https://bioinformatics.tools/,Federated search across thousands of bioinformatics tools and their documentation.,DATA,DATA|BIO,open,adv
+Cambridge Structural Database,https://www.ccdc.cam.ac.uk/,Curated small-molecule crystal structure database with analysis software.,DATA,DATA|MAT,paid,adv
+Catalysis-Hub,https://www.catalysis-hub.org/,Open database of surface reaction energies and adsorption structures.,DATA,DATA|MAT,open,adv
+ChEMBL,https://www.ebi.ac.uk/chembl/,European Bioinformatics Institute's hand-curated database of bioactive molecules and drug targets.,DATA,DATA|CHEM|HEALTH,open,adv
+Chemical Entities of Biological Interest,https://www.ebi.ac.uk/chebi/,ChEBI ontology of small molecules with a rigorous chemical-role classification.,DATA,DATA|CHEM,open,adv
+Dataverse,https://dataverse.org/,Open-source research data repository platform used by universities.,DATA,DATA,open,adv
+DataverseNO,https://dataverse.no/,Norwegian research data repository built on the Dataverse platform.,DATA,DATA,open,adv
+DDBJ,https://www.ddbj.nig.ac.jp/index-e.html,"DNA Data Bank of Japan, completing the international nucleotide sequence collaboration.",DATA,DATA|BIO,free,adv
+Dryad,https://datadryad.org/,Curated research-data repository integrated with journal submission.,DATA,DATA,paid,adv
+Ensembl,https://www.ensembl.org/,EBI/EMBL genome annotation and comparative genomics across vertebrates and beyond.,DATA,DATA|BIO,open,adv
+"Ensembl Plants, Metazoa, Fungi",https://plants.ensembl.org/,"Specialised Ensembl browsers for crop, animal and fungal genomes.",DATA,DATA|BIO,open,adv
+EUDAT B2SHARE,https://b2share.eudat.eu/,Trusted repository for long-tail research data in Europe.,DATA,DATA,open,adv
+FAIRsharing,https://fairsharing.org/,"Registry of data standards, databases and policies for FAIR data.",DATA,DATA,open,adv
+Figshare,https://figshare.com/,"Research-output repository used by institutions for figures, datasets and papers.",DATA,DATA,freemium,adv
+FlyBase,https://flybase.org/,"Drosophila genes, genomes and community annotations.",DATA,DATA|BIO,open,adv
+GenBank,https://www.ncbi.nlm.nih.gov/genbank/,NIH's annotated collection of all publicly available DNA sequences.,DATA,DATA|BIO,free,adv
+Gene Ontology,https://geneontology.org/,"The controlled vocabulary for gene function across cellular component, process and molecular function.",DATA,DATA|BIO,open,adv
+GHCN,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-monthly,Global Historical Climatology Network monthly temperature data.,DATA,DATA|EARTH,open,adv
+GLODAP,https://www.glodap.info/,Global Ocean Data Analysis Project: interior ocean biogeochemistry.,DATA,DATA|EARTH,open,adv
+Google Dataset Search,https://datasetsearch.research.google.com/,Search engine for locating datasets across the web.,DATA,DATA,free,all
+HadCRUT,https://www.metoffice.gov.uk/hadobs/hadcrut5/,UK Met Office / UEA global temperature dataset with uncertainty ensembles.,DATA,DATA|EARTH,open,adv
+HBZ / Bonndata,https://bonndata.uni-bonn.de/,University research-data repository example built on Dataverse.,DATA,DATA,open,adv
+HDF5,https://www.hdfgroup.org/solutions/hdf5/,Hierarchical data format for very large scientific arrays and metadata.,DATA,DATA,open,adv
+ICESat-2 OpenAltimetry,https://openaltimetry.earthdatacloud.nasa.gov/data,Browse and plot ICESat-2 elevation tracks in the browser.,DATA,DATA|EARTH,open,adv
+IntAct,https://www.ebi.ac.uk/intact/,Open molecular interaction database following the HUPO-PSI-MI standard.,DATA,DATA|BIO,open,adv
+KEGG,https://www.kegg.jp/,"Pathway, disease, drug and genome mapping system for biological interpretation.",DATA,DATA|BIO,freemium,adv
+Materials Data Facility,https://www.materialsdatafacility.org/,NSF-funded repository for publishing and citing materials datasets.,DATA,DATA|MAT,open,adv
+MycoBank,https://www.mycobank.org/,Fungal nomenclatural database and culture-collection information.,DATA,DATA|BIO,free,adv
+NetCDF,https://www.unidata.ucar.edu/software/netcdf/,"Self-describing data format and library, the lingua franca of climate and ocean data.",DATA,DATA|EARTH,open,adv
+NMRShiftDB,https://nmrshiftdb.nmr.ml/,Open community database of assigned NMR spectra for structure elucidation.,DATA,DATA|CHEM,open,adv
+OneArgo,https://argo.ucsd.edu/oneargo/,"Next-generation Argo integrating deep, biogeochemical and polar floats.",DATA,DATA|EARTH,open,adv
+OneGeology,https://www.onegeology.org/,International effort publishing interoperable digital geological maps.,DATA,DATA|EARTH,open,adv
+PDB,https://www.rcsb.org/,Worldwide Protein Data Bank of experimentally determined 3-D structures.,DATA,DATA|BIO,free,adv
+PDBe-KB,https://pdbe-kb.org/,"Knowledge graph connecting structures to variants, interactions and pathways.",DATA,DATA|BIO,open,adv
+ReactionDataChem,https://reactiondata.org/,Open reaction datasets and benchmarks for training machine-learning models in synthesis.,DATA,DATA|CHEM,open,adv
+Syncplicity for research,https://www.syncplicity.com/,Managed research data sharing with compliance controls.,DATA,DATA,paid,adv
+World Ocean Atlas,https://www.ncei.noaa.gov/products/world-ocean-atlas,Climatological ocean fields derived from the World Ocean Database.,DATA,DATA|EARTH,open,adv
+ZFIN,https://zfin.org/,Zebrafish development and genetics information resource.,DATA,DATA|BIO,open,adv
+Audubon,https://www.audubon.org/,"Bird conservation society with field guides, Christmas Count and climate science.",CITIZ,CITIZ|ECOL|SOC,free,all
+BugGuide,https://bugguide.net/,Community identification resource for insects and spiders of North America.,CITIZ,CITIZ|ECOL,free,all
+ClimatePrediction.net,https://www.climateprediction.net/,Volunteer computing exploring climate sensitivity with distributed models.,CITIZ,CITIZ|EARTH|ACCEL,open,all
+CoCoRaHS,https://www.cocorahs.org/,"Community collaborative rain, hail and snow observing network.",CITIZ,CITIZ|EARTH,free,all
+eBird,https://ebird.org/,Cornell Lab's bird-observation platform and Status & Trends analysis.,CITIZ,CITIZ|ECOL|DATA,free,all
+Einstein@Home,https://einsteinathome.org/,Volunteer computing searching gravitational-wave and pulsar data.,CITIZ,CITIZ|ASTRO|ACCEL,open,all
+Environmental Justice Atlas,https://ejatlas.org/,Crowdsourced global map of ecological-distribution conflicts.,CITIZ,CITIZ|ENV|DATA,open,all
+EteRNA / Phylo,https://www.eternagame.org/,Crowdsourced RNA design game feeding experimental validation.,CITIZ,CITIZ|BIO,free,all
+Folding@home,https://foldingathome.org/,Distributed computing project simulating protein dynamics on volunteer hardware.,CITIZ,CITIZ|BIO|ACCEL,open,all
+Foldit,https://fold.it/,Puzzle game whose players solve real protein-folding and design problems.,CITIZ,CITIZ|BIO|SCIAI,free,all
+iNaturalist,https://www.inaturalist.org/,Community species identification and observation platform feeding research datasets.,CITIZ,CITIZ|ECOL,free,all
+Journey North,https://journeynorth.org/,"Tracks migration of monarchs, hummingbirds and robins with student observers.",CITIZ,CITIZ|KIDS,free,all
+Marine Debris Tracker,https://debristracker.org/,Mobile app mapping litter and plastic pollution worldwide.,CITIZ,CITIZ|ENV|EARTH,free,all
+Merlin Bird ID,https://merlin.allaboutbirds.org/,Sound and photo bird identification with an expert-curated model.,CITIZ,CITIZ|ECOL,free,all
+Monarch Watch,https://monarchwatch.org/,Monarch tagging and waystation programme with classroom materials.,CITIZ,CITIZ|ECOL,free,all
+Nature's Notebook,https://www.usanpn.org/natures_notebook,USA National Phenology Network observing programme for plant and animal timing.,CITIZ,CITIZ|ECOL,free,all
+Plastic Soup Foundation,https://www.plasticsoupfoundation.org/,Microplastics research collaboration and citizen monitoring.,CITIZ,CITIZ|ENV,paid,all
+Project Noah,https://www.projectnoah.org/,Citizen-science nature journal with missions and a species ID community.,CITIZ,CITIZ|ECOL,free,all
+Reef Check,https://www.reefcheck.org/,Citizen-diver protocol for monitoring reef health worldwide.,CITIZ,CITIZ|ECOL,paid,all
+Rosetta@home,https://boinc.bakerlab.org/rosetta/,Volunteer computing for protein structure prediction and design.,CITIZ,CITIZ|BIO|ACCEL,open,all
+Seek by iNaturalist,https://www.inaturalist.org/pages/seek_app,"Kid-safe, camera-based species ID with no account required.",CITIZ,CITIZ|ECOL|KIDS,free,all
+SETI@Home classic mirror,https://www.seti.org/,SETI institute programmes and the classic distributed-computing heritage.,CITIZ,CITIZ|ASTRO,open,all
+Surfrider Foundation,https://www.surfrider.org/,Beach and water-quality advocacy with citizen monitoring networks.,CITIZ,CITIZ|ENV,paid,all
+Wildbook,https://www.wildbook.org/,AI photo-identification of individual animals from natural markings.,CITIZ,CITIZ|ECOL|SCIAI,open,adv
+Wildlife Insights,https://www.wildlifeinsights.org/,"AI platform for camera-trap imagery, automating species ID and occupancy models.",CITIZ,CITIZ|ECOL|SCIAI,free,adv
+Zooniverse,https://www.zooniverse.org/,"The largest citizen-science portal, hosting ecology, astronomy and climate projects.",CITIZ,CITIZ|SCIAI,free,all
+AAAS,https://www.aaas.org/,"Science advocacy, policy fellowships, meetings and the SciLine journalist service.",CAREER,CAREER|SOC,freemium,adv
+AGU Career Center,https://career.agu.org/,Earth and space science job board and career resources.,CAREER,CAREER|EARTH,freemium,adv
+American Chemical Society,https://www.acs.org/,"World's largest scientific society: meetings, education and chemistry careers.",CAREER,CAREER|SOC|CHEM,freemium,adv
+American Institute of Physics,https://www.aip.org/,Physics federation with the Statistics Research Center on workforce data.,CAREER,CAREER|SOC,free,adv
+BioStars,https://www.biostars.org/,The bioinformatics questions-and-answers community.,CAREER,CAREER|BIO|CODE,free,adv
+Cold Spring Harbor Laboratory,https://www.cshl.edu/,"Research and courses in genetics, genomics and quantitative biology.",CAREER,CAREER|BIO,paid,adv
+Ecological Society of America EcoLog-L,https://www.esa.org/ecolog-l/,"Long-running email list for jobs, methods and discussion in ecology.",CAREER,CAREER|ECOL,free,adv
+Fellowships and funding / HFSP,https://www.hfsp.org/funding,"Human Frontier Science Program funding international, cross-disciplinary life science.",CAREER,CAREER|SOC,free,adv
+Field Studies Council,https://www.field-studies-council.org/,UK environmental education charity running field centres and ID guides.,CAREER,CAREER|KIDS|ECOL,paid,all
+Genetics Society of America,https://genetics-gsa.org/,"Genetics community, GENETICS and G3 journals, and career development.",CAREER,CAREER|SOC|BIO,freemium,adv
+GIS StackExchange,https://gis.stackexchange.com/,"Q&A for geospatial analysis, remote sensing and GIS software.",CAREER,CAREER|EARTH,free,all
+GitHub,https://github.com/,Hosting and collaboration platform now carrying most open scientific code.,CAREER,CAREER|CODE,freemium,all
+Institute of Physics,https://www.iop.org/,"UK physics institute with careers, policy and the Physics World title.",CAREER,CAREER|SOC,freemium,adv
+Marie Skłodowska-Curie Actions,https://www.euraxess.ec.europa.eu/,European researcher mobility and training programme information portal.,CAREER,CAREER|SOC,free,adv
+Marine Biological Laboratory,https://www.mbl.edu/,Legendary teaching and research lab with summer courses in embryology and neuroscience.,CAREER,CAREER|BIO|ECOL,paid,adv
+NASA Internships,https://www.nasa.gov/learning-resources/internship-programs/,Paid internships across NASA centres for students from high school upward.,CAREER,CAREER|KIDS,free,all
+NASA STEM Engagement,https://www.nasa.gov/learning-resources/stem-engagement/,"Educator resources, student challenges and internships spanning pre-kindergarten to graduate school.",CAREER,CAREER|KIDS,free,all
+Nature Careers,https://www.nature.com/naturecareers/,Science job board plus salary and careers advice articles.,CAREER,CAREER|LIT,freemium,adv
+OpenReview,https://openreview.net/,Open peer-review platform used by many machine-learning and science conferences.,CAREER,CAREER|LIT,free,adv
+ORCID,https://orcid.org/,Persistent digital identifier for researchers and their contributions.,CAREER,CAREER|LIT,free,all
+Publons / Web of Science Reviewer Recognition,https://publons.com/,Recognition service for peer review and editorial work.,CAREER,CAREER|LIT,free,adv
+Science Careers / Nature Index,https://www.nature.com/nature-index/,Institutional research output rankings used in career and strategy decisions.,CAREER,CAREER|LIT,freemium,adv
+Space Foundation,https://spacefoundation.org/,"Space-industry education, events and the Space Symposium.",CAREER,CAREER|ASTRO|SOC,paid,all
+Stack Exchange Biology,https://biology.stackexchange.com/,"Q&A community for biology, genetics and evolution questions.",CAREER,CAREER|COMM|BIO,free,all
+Stack Exchange Earth Science,https://earthscience.stackexchange.com/,"Q&A for geology, meteorology, oceanography and planetary science.",CAREER,CAREER|EARTH,free,all
+Stack Exchange Physics / Astronomy,https://physics.stackexchange.com/,Q&A for physics and astronomy problems at all levels.,CAREER,CAREER|ASTRO,free,all
+Wolfram Community,https://community.wolfram.com/,Discussions and notebooks around the Wolfram language.,CAREER,CAREER|CODE,free,all
+Zotero,https://www.zotero.org/,Reference manager with browser capture and shared group libraries.,CAREER,CAREER|LIT,free,all
+Airflow,https://airflow.apache.org/,Scheduling platform used to run recurring scientific data jobs.,ACCEL,ACCEL|CODE,open,adv
+ALCF,https://www.alcf.anl.gov/,Argonne Leadership Computing Facility for open science at scale.,ACCEL,ACCEL,free,adv
+Apache Software Foundation,https://www.apache.org/,Foundation for much of the open infrastructure used in research computing.,ACCEL,ACCEL|CODE,open,adv
+Apache Spark,https://spark.apache.org/,Cluster computing engine for processing very large scientific datasets.,ACCEL,ACCEL|DATA,open,adv
+Apptainer,https://apptainer.org/,Container system designed for HPC and shared scientific clusters.,ACCEL,ACCEL|CODE,open,adv
+AWS Open Data Sponsorship Program,https://aws.amazon.com/opendata/,Cloud-hosted public datasets including major Earth-observation archives.,ACCEL,ACCEL|EARTH|DATA,free,adv
+BioHub / EMT,https://www.biohub.ac.uk/,UK environmental bioinformatics infrastructure and training.,ACCEL,ACCEL|BIO|SOC,free,adv
+CERN,https://www.cern.ch/,European Organization for Nuclear Research and the Large Hadron Collider.,ACCEL,ACCEL|ASTRO|SOC,free,all
+CERN OpenStack,https://openstack-in-production.blogspot.com/,CERN's cloud infrastructure supporting LHC computing and collaboration.,ACCEL,ACCEL|ASTRO,open,adv
+CERN Zoo,https://cern.ch/,Collaborative workspace and community platforms used by large experiments.,ACCEL,ACCEL|ASTRO,open,adv
+CESM / E3SM Unified,https://e3sm.org/,Department of Energy energy-exascale Earth system model project.,ACCEL,ACCEL|EARTH|SIM,open,adv
+Copernicus Data Space Ecosystem,https://dataspace.copernicus.eu/,"ESA's cloud environment providing Sentinel data, APIs and processing.",ACCEL,ACCEL|EARTH|DATA,free,adv
+CSC Finland,https://www.csc.fi/,Nordic supercomputing and data management for research.,ACCEL,ACCEL,freemium,adv
+CuPy,https://cupy.dev/,NumPy-compatible GPU array library for CUDA systems.,ACCEL,ACCEL|CODE,open,adv
+Cython,https://cython.org/,Bridge language for writing fast compiled extensions for scientific Python.,ACCEL,ACCEL|CODE,open,adv
+Dask,https://www.dask.org/,Parallel and out-of-core arrays and dataframes scaling numpy/pandas to clusters.,ACCEL,ACCEL|CODE,open,adv
+Dask Gateway,https://gateway.dask.org/,Multi-tenant Dask clusters for shared research data platforms.,ACCEL,ACCEL|CODE,open,adv
+Docker,https://www.docker.com/,Container runtime that made reproducible scientific environments practical.,ACCEL,ACCEL|CODE,freemium,all
+DOE Office of Science,https://www.energy.gov/science/,US Department of Energy research programmes and user facilities.,ACCEL,ACCEL|SOC,free,adv
+EDISON / NMDC,https://microbiomedata.org/,US Department of Energy National Microbiome Data Collaborative.,ACCEL,ACCEL|DATA|BIO,open,adv
+ESGF,https://esgf.llnl.gov/,Earth System Grid Federation distributing CMIP climate model output.,ACCEL,ACCEL|DATA|EARTH,open,adv
+EUDAT B2DROP,https://b2drop.eudat.eu/,Sync-and-share service giving researchers a trusted working-copy space.,ACCEL,ACCEL|DATA,open,adv
+European Centre for Medium-Range Weather Forecasts HPC,https://www.ecmwf.int/en/computing,Meteorological supercomputing and the MARS archive.,ACCEL,ACCEL|EARTH,freemium,adv
+European Open Science Cloud,https://www.eosc.eu/,Federation of European research data and compute services.,ACCEL,ACCEL|DATA|SOC,open,adv
+Globus,https://www.globus.org/,Research data transfer and sharing infrastructure across institutions.,ACCEL,ACCEL|DATA,freemium,adv
+Google Colab,https://colab.research.google.com/,"Free browser notebooks with GPUs, the default on-ramp to scientific ML.",ACCEL,ACCEL|CODE,freemium,all
+Google Earth Engine,https://earthengine.google.com/,Multi-petabyte geospatial catalogue plus planetary-scale analysis API.,ACCEL,ACCEL|EARTH|SCIAI,freemium,adv
+Helmholtz Association,https://www.helmholtz.de/,"Germany's large-research-centre association, including DESY, AWI and Jülich.",ACCEL,ACCEL|SOC,free,adv
+IBM Research Science,https://research.ibm.com/,"IBM Research programmes in quantum, materials, chemistry and scientific foundation models.",ACCEL,ACCEL|SCIAI,free,adv
+JAX,https://docs.jax.dev/,Composable transformations and XLA compilation for high-performance scientific ML.,ACCEL,ACCEL|CODE|SCIAI,open,adv
+JupyterHub,https://jupyter.org/hub,Multi-user Jupyter for teaching and shared research environments.,ACCEL,ACCEL|CODE,open,all
+Kubernetes,https://kubernetes.io/,Container orchestration increasingly used for scientific workflow platforms.,ACCEL,ACCEL,open,adv
+LHCR / REANA,https://reanahub.io/,Reproducible research-analyses platform developed at CERN.,ACCEL,ACCEL|LIT,open,adv
+Linux Foundation,https://www.linuxfoundation.org/,Home to open projects underpinning research computing environments.,ACCEL,ACCEL|CODE,paid,all
+Megatron-LM Science,https://github.com/NVIDIA/Megatron-LM,Large-scale transformer training framework behind many scientific foundation models.,ACCEL,ACCEL|SCIAI,open,adv
+MFEM-based BLAST,https://www.llnl.gov/,Lawrence Livermore multiphysics codes and open simulation infrastructure.,ACCEL,ACCEL|SIM,open,adv
+Microsoft Planetary Computer,https://planetarycomputer.microsoft.com/,Petabyte environmental data catalogue with STAC APIs and a scientific environment.,ACCEL,ACCEL|EARTH,free,adv
+NASA Earthdata,https://www.earthdata.nasa.gov/,"NASA's gateway to 178+ petabytes of Earth-observation data, tools and tutorials.",ACCEL,ACCEL|EARTH|DATA,free,adv
+NERSC,https://www.nersc.gov/,Berkeley Lab's national user facility for high-performance computing.,ACCEL,ACCEL|SOC,free,adv
+Nextcloud,https://nextcloud.com/,Open collaboration and file-sync platform popular in research groups.,ACCEL,ACCEL|DATA,open,all
+NOAA Big Data Program,https://www.noaa.gov/information-technology/open-data-dissemination,Cloud access to NOAA environmental data archives.,ACCEL,ACCEL|DATA|EARTH,open,adv
+NOAA Open Data Dissemination,https://www.noaa.gov/information-technology/open-data-dissemination/open-data-dissemination,NOAA data mirrors on commercial cloud platforms.,ACCEL,ACCEL|DATA|EARTH,open,adv
+Numba,https://numba.pydata.org/,JIT compiler turning Python numerical loops into near-C performance.,ACCEL,ACCEL|CODE,open,adv
+OLCF,https://www.olcf.ornl.gov/,"Oak Ridge Leadership Computing Facility, home of exascale frontier systems.",ACCEL,ACCEL,free,adv
+OpenStack,https://www.openstack.org/,Open cloud infrastructure used to build research clouds.,ACCEL,ACCEL,open,adv
+OwnCloud,https://owncloud.com/,Self-hosted file sharing used by universities for research data.,ACCEL,ACCEL|DATA,freemium,adv
+Pangeo,https://pangeo.io/,Community platform for big-data geoscience on cloud infrastructure.,ACCEL,ACCEL|EARTH|CODE,open,adv
+Pangeo Forge,https://pangeo-forge.org/,Community recipes turning climate data archives into cloud-optimised Zarr.,ACCEL,ACCEL|EARTH|DATA,open,adv
+PETSc,https://petsc.org/,Scalable solvers and preconditioners for large sparse scientific problems.,ACCEL,ACCEL|SIM,open,adv
+Polars,https://www.pola.rs/,Rust-based fast dataframe library increasingly used in scientific pipelines.,ACCEL,ACCEL|CODE,open,adv
+PRACE,https://prace-ri.eu/,"Partnership for Advanced Computing in Europe, allocating tier-0 systems.",ACCEL,ACCEL,free,adv
+Ray,https://www.ray.io/,Distributed-compute framework used to scale scientific ML and simulation workloads.,ACCEL,ACCEL|SCIAI,open,adv
+Rucio,https://rucio.github.io/,Distributed data management used by particle-physics experiments.,ACCEL,ACCEL|DATA,open,adv
+Singularity / Apptainer registry,https://cloud.sylabs.io/,Hub for portable scientific container images.,ACCEL,ACCEL|CODE,freemium,adv
+SKA Observatory,https://www.skao.int/,Square Kilometre Array organisation building the world's largest radio telescope.,ACCEL,ACCEL|ASTRO|SOC,free,adv
+Slurm,https://slurm.schedmd.com/,The dominant workload manager on academic compute clusters.,ACCEL,ACCEL,open,adv
+Snakemake,https://snakemake.github.io/,"Workflow engine for reproducible data analysis, from laptops to clusters.",ACCEL,ACCEL|CODE,open,adv
+Trilinos,https://trilinos.github.io/,Sandia's collection of solver and discretisation libraries for HPC.,ACCEL,ACCEL|SIM,open,adv
+WLCG,https://wlcg.web.cern.ch/,Worldwide LHC Computing Grid linking hundreds of data centres.,ACCEL,ACCEL|ASTRO,open,adv
+XSEDE / ACCESS,https://access-ci.org/,US cyberinfrastructure gateway allocating supercomputer time to researchers.,ACCEL,ACCEL,free,adv
+Zarr / Kerchunk,https://fsspec.github.io/kerchunk/,Reference-maker tooling exposing legacy netCDF/HDF archives as cloud Zarr stores.,ACCEL,ACCEL|DATA|EARTH,open,adv
+AAS Nova,https://aasnova.org/,Daily research highlights from peer-reviewed astronomy papers.,COMM,COMM|ASTRO|LIT,free,adv
+Australian Academy of Science,https://www.science.org.au/,National academy publishing policy reports and the Science at Hand explainers.,COMM,COMM|SOC,free,all
+BioRender,https://www.biorender.com/,Browser-based scientific illustration with a huge library of biological icons.,COMM,COMM|BIO,freemium,all
+Blender Science,https://www.blender.org/,Open 3-D suite widely used for scientific animation and rendering.,COMM,COMM|SIM,open,all
+Bokeh,https://bokeh.org/,Interactive web-ready visualisation for large streaming scientific datasets.,COMM,COMM|CODE,open,adv
+Carbon Brief,https://www.carbonbrief.org/,Evidence-based climate science and policy journalism with data explainers.,COMM,COMM|ENV,free,all
+Down to Earth,http://downtoearth.org.in/,Indian environmental news and data journalism since 1992.,COMM,COMM|ENV,freemium,all
+Exploratorium,https://www.exploratorium.edu/,"San Francisco museum of science, art and perception with free at-home experiments and webcams.",COMM,COMM|KIDS,freemium,all
+HoloViz,https://holoviz.org/,"Suite of high-level visualisation tools (hvPlot, Datashader, Panel) for big data.",COMM,COMM|CODE,open,adv
+Kurzgesagt,https://www.kurzgesagt.org/,"Award-winning animated explainers on cosmology, biology, climate and the far future.",COMM,COMM|VIDEO,free,all
+Matplotlib,https://matplotlib.org/,The foundational Python plotting library with publication-quality output.,COMM,COMM|CODE,open,all
+Mongabay,https://www.mongabay.com/,Conservation and tropical-forest news with a strong reporting archive.,COMM,COMM|ENV|ECOL,free,all
+NASA Earth Observatory,https://earthobservatory.nasa.gov/,Daily satellite imagery with clear scientific explanations for a general audience.,COMM,COMM|EARTH,free,all
+Nautilus,https://nautil.us/,Long-form science and philosophy magazine with strong narrative features.,COMM,COMM|VIDEO,freemium,all
+Our World in Data,https://ourworldindata.org/,"Open, downloadable data and charts on environment, energy and health.",COMM,COMM|DATA,open,all
+Paraview,https://www.paraview.org/,Open-source scientific visualisation for very large and parallel datasets.,COMM,COMM|SIM,open,adv
+Physics World,https://physicsworld.com/,"Institute of Physics news, features, careers and a large free video archive.",COMM,COMM|VIDEO,freemium,adv
+Plotly,https://plotly.com/python/,Interactive scientific charts and dashboards in Python.,COMM,COMM|CODE,freemium,all
+Quanta Magazine,https://www.quantamagazine.org/,"Independent, deeply reported coverage of physics, mathematics, biology and computer science.",COMM,COMM|VIDEO,free,adv
+Science Feedback,https://science.feedback.org/,Evidence-based reviews of media and political science claims.,COMM,COMM|LIT,free,all
+Science Friday,https://www.sciencefriday.com/,Weekly public-radio science programme with classroom segments and educator guides.,COMM,COMM|KIDS,free,all
+Science Museum Group,https://www.sciencemus.com/,"UK national science museum group; collection object records, learning resources and podcasts.",COMM,COMM|KIDS,free,all
+Scientific American,https://www.scientificamerican.com/,"Long-form science journalism, podcasts and a video channel across all natural sciences.",COMM,COMM|VIDEO,freemium,all
+Seaborn,https://seaborn.pydata.org/,Statistical data visualisation built on Matplotlib.,COMM,COMM|CODE,open,all
+The Naked Scientists,https://www.thenakedscientists.com/,BBC-style science radio show and podcast with listener questions and lab reports.,COMM,COMM|VIDEO,free,all

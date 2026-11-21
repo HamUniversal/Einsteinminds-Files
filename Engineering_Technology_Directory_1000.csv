@@ -1,0 +1,1001 @@
+Name,URL,Domain,Description,Categories,Access,Level,AI
+Adafruit Learning System,https://learn.adafruit.com/,learn.adafruit.com,Thousands of illustrated electronics and 3D printing tutorials.,KIDS,free,all,
+Arduino Education,https://www.arduino.cc/education/,arduino.cc,"Kits, curriculum and teacher training built on Arduino hardware.",KIDS,paid,int,
+CS First,https://csfirst.withgoogle.com/,csfirst.withgoogle.com,Google video clubs that teach coding through themes children choose.,KIDS,free,all,
+Discover Engineering,https://www.discoverengineering.org/,discoverengineering.org,Career explorer and classroom challenges from the engineering societies coalition.,KIDS,free,all,
+eGFI Engineering Go For It,https://egfi.org/,egfi.org,Student magazine and career hub from the American Society for Engineering Education.,KIDS,free,int,
+EngineerGirl,https://www.engineergirl.org/,engineergirl.org,"Questions answered by women engineers, plus activities and scholarships.",KIDS,free,all,
+Engineering is Elementary,https://www.eie.org/,eie.org,Museum of Science Boston curriculum linking stories to engineering design.,KIDS,paid,int,
+Exploratorium Tinkering,https://www.exploratorium.edu/tinkering,exploratorium.edu,Exploratorium tinkering activities and exhibits to reproduce at home.,KIDS,free,all,
+FIRST Global,https://first.global/,first.global,Annual international robotics challenge for national teams of teenagers.,KIDS,free,int,
+FIRST Lego League,https://www.firstinspires.org/robotics/fll,firstinspires.org,Seasonal robot game plus an innovation project for ages 9 to 14.,KIDS,freemium,int,
+Kids Ask an Engineer,https://www.nspe.org/resources/education-resources,nspe.org,National Society of Professional Engineers school outreach and contests.,KIDS,free,all,
+KiwiCo,https://www.kiwico.com/,kiwico.com,"Age-staged project crates: physics, engineering, chemistry and tinkering.",KIDS,paid,all,
+LEGO Education,https://education.lego.com/,education.lego.com,"Building sets, lesson plans and robotics kits for ages 4 and up.",KIDS,paid,int,
+LEGO Mindstorms,https://www.lego.com/en-us/mindstorms,lego.com,Retired but still documented programmable robotics platform.,KIDS,paid,int,
+LEGO Spike Essential,https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345,education.lego.com,Sensor-and-motor kit with icon block coding for primary engineers.,KIDS,paid,int,yes
+LEGO Spike Prime,https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678,education.lego.com,Upper-primary robotics kit using Python and a colour sensor hub.,KIDS,paid,int,yes
+LEGO Technic,https://www.lego.com/en-us/technic,lego.com,"Gearboxes, pneumatics and beams that teach real mechanical principles.",KIDS,paid,all,
+MakeCode,https://www.microsoft.com/en-us/makecode,microsoft.com,"Block and JavaScript editor for micro:bit, Arcade and Lego hardware.",KIDS,free,all,yes
+micro:bit,https://microbit.org/,microbit.org,"Pocket computer with LEDs, radio and sensors, free projects for ages 8 and up.",KIDS,free,all,
+Museum of Science Boston Engineering,https://www.mos.org/explore/engineering,mos.org,Island engineering exhibits and design challenges to try at home.,KIDS,free,all,
+Mystery Science,https://mysteryscience.com,mysteryscience.com,K-5 science and engineering lessons built around a question of the day.,KIDS,freemium,all,
+PBS Design Squad,https://pbskids.org/designsquad,pbskids.org,Build-it videos and challenges for children who like to take things apart.,KIDS,free,all,
+Raspberry Pi Foundation,https://www.raspberrypi.org/,raspberrypi.org,"Free projects, Piano HAT and camera activities for young technologists.",KIDS,free,all,
+Robotics Education and Competition Foundation,https://www.recf.org/,recf.org,"VEX IQ and VEX VRC competition rules, events and rankings.",KIDS,freemium,all,
+Science Buddies Engineering,https://www.sciencebuddies.org/engineering-design-process/engineering-design-process-steps,sciencebuddies.org,Step-by-step engineering design process and project library.,KIDS,freemium,all,
+Society of Women Engineers,https://alltogethernow.org/,alltogethernow.org,Mathcounts-style engineering design competition for middle school teams.,KIDS,free,int,
+SparkFun Learn,https://learn.sparkfun.com/,learn.sparkfun.com,"Guided tutorials from soldering to GPS, with shopping lists.",KIDS,free,all,
+TeachEngineering,https://www.teachengineering.org/,teachengineering.org,"1,900-plus teacher-tested K-12 engineering lessons, all free.",KIDS,free,all,
+TryEngineering,https://tryengineering.org/,tryengineering.org,"IEEE-sited career profiles, lesson plans and hands-on engineering activities.",KIDS,free,all,
+VEXcode,https://code.vex.com/,code.vex.com,"Block and Python IDE for VEX robots, with built-in simulation.",KIDS,free,int,yes
+Botball,https://www.botball.org/,botball.org,Educational robotics for middle and high school,EDU,paid,all,
+Cisco Networking Academy,https://www.netacad.com/,netacad.com,Free networking education,EDU,free,all,
+Code.org,https://code.org/,code.org,School coding curriculum and Hour of Code,EDU,free,all,
+Codecademy,https://www.codecademy.com/,codecademy.com,Browser-based coding lessons,EDU,freemium,all,
+Construct,https://www.construct.net/,construct.net,Event-sheet 2D game engine for education,EDU,freemium,all,
+Coursera,https://www.coursera.org/,coursera.org,Courses and degrees from universities and companies,EDU,freemium,all,
+DataCamp,https://www.datacamp.com/,datacamp.com,Interactive data science and Python courses,EDU,freemium,all,
+edX,https://www.edx.org/,edx.org,University courses including microMasters in engineering,EDU,freemium,all,
+FIRST Robotics,https://www.firstinspires.org/,firstinspires.org,Youth robotics competitions,EDU,paid,all,
+freeCodeCamp,https://www.freecodecamp.org/,freecodecamp.org,Free coding curriculum and certifications,EDU,free,all,
+GDevelop,https://gdevelop.io/,gdevelop.io,No-code game engine for beginners,EDU,freemium,all,
+Khan Academy,https://www.khanacademy.org/,khanacademy.org,School maths and science basics,EDU,free,all,
+Khan Academy Computing,https://www.khanacademy.org/computing,khanacademy.org,Introductory programming courses,EDU,free,all,
+LinkedIn Learning,https://www.linkedin.com/learning/,linkedin.com,Video courses across software and engineering,EDU,paid,all,
+MIT Open Learning,https://openlearning.mit.edu/,openlearning.mit.edu,"MITx, bootcamps and professional education",EDU,freemium,all,
+MIT OpenCourseWare,https://ocw.mit.edu/,ocw.mit.edu,Free MIT course materials across all engineering departments,EDU,free,all,
+Pluralsight,https://www.pluralsight.com/,pluralsight.com,Technology skill paths for software and IT,EDU,paid,int,
+Roblox Education,https://education.roblox.com/,education.roblox.com,Teaching game engineering with Roblox Studio,EDU,free,all,
+RoboCup,https://www.robocup.org/,robocup.org,Robot soccer and rescue competition,EDU,free,all,
+Scratch,https://scratch.mit.edu/,scratch.mit.edu,Block programming for children,EDU,free,all,
+Skillsoft,https://www.skillsoft.com/,skillsoft.com,Enterprise technical training,EDU,paid,adv,
+Stanford Engineering Everywhere,https://see.stanford.edu/,see.stanford.edu,Free Stanford engineering course recordings,EDU,free,int,
+Stanford Online,https://online.stanford.edu/,online.stanford.edu,Stanford courses and certificates,EDU,freemium,all,
+STEM.org,https://stem.org/,stem.org,STEM education accreditation,EDU,paid,all,
+The Odin Project,https://www.theodinproject.com/,theodinproject.com,Full-stack web development path,EDU,free,all,
+Tynker,https://www.tynker.com/,tynker.com,Kid-friendly coding and game design,EDU,freemium,all,
+Udacity,https://www.udacity.com/,udacity.com,"Nanodegrees in AI, data and autonomous systems",EDU,paid,all,
+Udemy,https://www.udemy.com/,udemy.com,Large marketplace for practical technical courses,EDU,paid,all,
+Unity Learn,https://learn.unity.com/,learn.unity.com,Free Unity courses and projects,EDU,free,all,
+Unreal Engine for Education,https://www.unrealengine.com/en-US/unreal-engine-for-education,unrealengine.com,Free access for students and teachers,EDU,free,all,
+VEX Robotics,https://www.vexrobotics.com/,vexrobotics.com,Classroom and competition robot kits,EDU,paid,all,
+3Blue1Brown,https://www.3blue1brown.com/,3blue1brown.com,"Linear algebra, calculus and probability animations that build intuition.",VIDEO,free,all,
+Andreas Spiess,https://www.youtube.com/@AndreasSpiess,youtube.com,"Teardowns and tutorials on ESP32, LoRa, solar and sensor builds.",VIDEO,free,int,
+Applied Science,https://www.youtube.com/@appliedscience,youtube.com,"Benchtop plasma, high voltage, vacuum and rocket experiments.",VIDEO,free,adv,
+Computerphile,https://www.youtube.com/@computerphile,youtube.com,"Computer scientists on security, graphics, compression and languages.",VIDEO,free,all,
+Crash Course Engineering,https://www.youtube.com/@crashcourse,youtube.com,"Fast, illustrated introductions to engineering disciplines.",VIDEO,free,int,
+EEVblog,https://www.eevblog.com/,eevblog.com,"Electronics teardowns, design walkthroughs and a long-running forum.",VIDEO,freemium,int,
+Engineering with Rosie,https://www.youtube.com/@EngineeringwithRosie,youtube.com,"Honest analysis of wind turbines, grid storage and clean energy hardware.",VIDEO,free,int,
+GreatScott!,https://www.youtube.com/@greatscottlab,youtube.com,"Lab power supplies, battery testing and oscilloscope walkthroughs.",VIDEO,free,int,
+MIT OpenCourseWare Video,https://ocw.mit.edu/courses/audio-video-courses/,ocw.mit.edu,Lecture capture from MIT engineering and science classes.,VIDEO,free,adv,
+NPTEL Video Lectures,https://nptel.ac.in/courses,nptel.ac.in,Structured 40-hour video courses with assignments from IIT faculty.,VIDEO,free,adv,
+Numberphile,https://www.numberphile.com/,numberphile.com,Mathematicians explaining one number or theorem at a time.,VIDEO,free,all,
+Practical Engineering,https://practicalengineering.com/,practicalengineering.com,"Dams, bridges, water and failure analysis explained with physical models.",VIDEO,free,all,
+Real Engineering,https://www.youtube.com/@RealEngineering,youtube.com,"Animated case studies of aircraft, reactors, ships and supply chains.",VIDEO,free,all,
+Skillshare,https://www.skillshare.com/,skillshare.com,"Design, illustration and creative technology classes.",VIDEO,paid,all,
+Smarter Every Day,https://www.youtube.com/@smartereveryday,youtube.com,High-speed camera investigations of propulsion and fluid phenomena.,VIDEO,free,all,
+The Coding Train,https://thecodingtrain.com/,thecodingtrain.com,"Creative coding, p5.js and machine learning tutorials with energy.",VIDEO,free,all,yes
+Veritasium,https://www.youtube.com/@veritasium,youtube.com,Physics and engineering stories with rigorous experiments.,VIDEO,free,all,
+3D ContentCentral,https://www.3dcontentcentral.com/,3dcontentcentral.com,Dassault community parts catalogue for SolidWorks users.,CAD,free,adv,
+Altair Inspire,https://altair.com/inspire,altair.com,Topology optimisation and generative structural design inside CAD,CAD,paid,int,
+Archicad,https://www.graphisoft.com/archicad/,graphisoft.com,"BIM platform for building design, documentation and coordination.",CAD,paid,adv,
+Aspire,https://www.vectric.com/products/aspire,vectric.com,3D relief carving CAM from photos and meshes.,CAD,paid,int,
+AutoCAD,https://www.autodesk.com/products/autocad/,autodesk.com,"The long-standing 2D/3D drafting standard for plans, sections and details",CAD,paid,int,
+AutoCAD Mechanical,https://www.autodesk.com/products/autocad-mechanical/,autodesk.com,"AutoCAD with standards libraries, parts and bills of materials.",CAD,paid,adv,
+AutoCAD Web / Mobile,https://web.autocad.com/,web.autocad.com,Browser and tablet AutoCAD for viewing and light editing in the field,CAD,freemium,int,
+Autodesk Alias,https://www.autodesk.com/products/alias-products/,autodesk.com,Class-A automotive surface modelling used by car studios.,CAD,paid,adv,
+Autodesk Forma,https://www.autodesk.com/products/forma/,autodesk.com,Cloud generative building design exploring massing and layout options early,CAD,paid,int,
+Autodesk Fusion,https://www.autodesk.com/products/fusion-360/,autodesk.com,Cloud CAD/CAM/CAE with generative design studies that return editable parametric bodies,CAD,freemium,all,
+Autodesk Fusion — Electronics,https://www.autodesk.com/products/fusion-360/electronics,autodesk.com,Schematic capture and PCB layout integrated with Fusion mechanical design,CAD,freemium,int,
+Autodesk Inventor,https://www.autodesk.com/products/inventor/,autodesk.com,"Parametric 3D mechanical design, simulation and CAD authoring for manufacturing",CAD,paid,int,
+Autodesk Revit,https://www.autodesk.com/products/revit/,autodesk.com,"BIM authoring for architecture, structure and MEP with clash detection",CAD,paid,int,
+Autodesk Vault,https://www.autodesk.com/products/vault/,autodesk.com,Data management and versioning for Inventor and AutoCAD teams.,CAD,paid,adv,
+Bambu Studio,https://www.bambulab.com/en/design-support/bambu-studio,bambulab.com,Slicer for Bambu printers with cloud and multi-colour painting.,CAD,free,int,yes
+BIMobject,https://www.bimobject.com/,bimobject.com,Manufacturer BIM and CAD object library for building design.,CAD,freemium,adv,
+Blender,https://www.blender.org/,blender.org,"Open-source 3D suite for modelling, animation, rendering and 3D-print prep",CAD,open,all,
+Blender documentation,https://docs.blender.org/manual/en/latest/,docs.blender.org,Official Blender manual and Python API reference,CAD,open,all,
+Blockbench,https://www.blockbench.net/,blockbench.net,Free low-poly modeller for game assets and 3D printing,CAD,free,all,
+BricsCAD,https://www.bricsys.com/,bricsys.com,DWG-native CAD with AI-assisted drafting at a fraction of subscription cost.,CAD,paid,int,yes
+BricsCAD Mechanical,https://www.bricsys.com/en-us/products/bricscad-mechanical,bricsys.com,2D and 3D mechanical design with standard parts libraries.,CAD,paid,adv,
+BRL-CAD,https://brlcad.org/,brlcad.org,Open-source constructive solid geometry modeller with ray tracing,CAD,open,adv,
+CADENAS PARTsolutions,https://www.cadenas.com/,cadenas.com,Enterprise parts catalogue and CAD integration platform.,CAD,paid,adv,
+CGAL,https://www.cgal.org/,cgal.org,"Computational geometry algorithms library for meshes, Voronoi and boolean ops",CAD,open,adv,
+Dassault Systèmes 3DEXPERIENCE,https://www.3ds.com/products/3dexperience,3ds.com,"Cloud collaboration platform linking CAD, simulation, PLM and social design",CAD,paid,adv,
+Dassault Systèmes CATIA,https://www.3ds.com/products/catia,3ds.com,"High-end CAD/CAE/CAM suite for aerospace, automotive and industrial design",CAD,paid,adv,
+Dassault Systèmes SOLIDWORKS,https://www.solidworks.com/,solidworks.com,"Mainstream parametric 3D CAD with parts, assemblies, drawings and simulation",CAD,paid,int,
+FreeCAD,https://www.freecad.org/,freecad.org,"Open-source parametric 3D CAD with part design, FEM and path workbenches",CAD,open,all,
+FreeCAD Addon Manager,https://github.com/FreeCAD/FreeCAD-addons,github.com,"Community workbenches extending FreeCAD into FEM, BIM and CAM.",CAD,free,adv,
+FreeCAD Wiki,https://wiki.freecad.org/,wiki.freecad.org,Community documentation and tutorials for every FreeCAD workbench,CAD,open,all,
+Fusion Manufacturing,https://www.autodesk.com/products/fusion-360/manufacturing,autodesk.com,Cloud CAM with tool libraries and machine-aware post processing.,CAD,freemium,adv,
+GrabCAD,https://www.grabcad.com/,grabcad.com,Community library of CAD models,CAD,freemium,all,
+Grasshopper,https://www.grasshopper3d.com/,grasshopper3d.com,Visual parametric scripting inside Rhino for generative geometry,CAD,free,int,
+Gravity Sketch,https://www.gravitysketch.com/,gravitysketch.com,VR-first 3D sketching and concept modelling for designers,CAD,paid,int,
+GRBL,https://github.com/gnea/grbl,github.com,Open-source firmware that made hobby CNC ubiquitous.,CAD,free,int,
+GstarCAD,https://www.gstarcad.com/,gstarcad.com,Low-cost DWG CAD with familiar commands and LISP support.,CAD,paid,int,
+HyperMill,https://www.hypermill.com/,hypermill.com,OPEN MIND 5-axis CAM with trochoidal and plunge milling strategies.,CAD,paid,adv,
+IfcOpenShell,https://ifcopenshell.org/,ifcopenshell.org,Open toolkit for reading and writing Industry Foundation Classes.,CAD,free,adv,
+KeyCreator,https://www.keycreator.com/,keycreator.com,Direct-modelling CAD strong on imported and legacy geometry.,CAD,paid,adv,
+KeyShot,https://www.keyshot.com/,keyshot.com,Real-time rendering for design reviews with material presets.,CAD,paid,adv,yes
+KIRI Engine,https://www.kiriengine.app/,kiriengine.app,API and app for neural 3D reconstruction from phone photos,CAD,freemium,int,
+Klipper,https://www.klipper3d.org/,klipper3d.org,3D printer firmware using a host MCU for precise motion.,CAD,free,int,
+LibreCAD,https://librecad.org/,librecad.org,Lightweight open-source 2D CAD for DXF drafting and floor plans,CAD,open,int,
+Luma AI,https://lumalabs.ai/,lumalabs.ai,Generative 3D capture and NeRF/Gaussian-splat scene models,CAD,freemium,int,
+Marlin Firmware,https://marlinfw.org/,marlinfw.org,The default firmware on most desktop 3D printers.,CAD,free,int,
+Materialise 3-matic,https://www.materialise.com/en/software/3-matic,materialise.com,Mesh-based design and lattice tools for additive manufacturing.,CAD,paid,adv,
+MeshLab,https://www.meshlab.net/,meshlab.net,Open-source processing and repair of triangle meshes from 3D scans,CAD,open,int,
+NanoCAD,https://nanocad.com/,nanocad.com,Russian-origin DWG CAD with free and platform configuration options.,CAD,freemium,int,
+nTop (nTopology),https://www.ntop.com/,ntop.com,Implicit-modelling engineering design for lattices and generative structures,CAD,paid,adv,
+nTopology,https://ntopology.com/,ntopology.com,"Successor brand and platform for computational, lattice-heavy design.",CAD,paid,adv,yes
+OctoPrint,https://octoprint.org/,octoprint.org,Browser control and webcam monitoring for 3D printers.,CAD,free,int,
+Onshape App Store,https://www.onshape.com/en/apps/,onshape.com,"Extensions that add simulation, CAM and rendering to cloud CAD.",CAD,freemium,adv,
+Open CASCADE,https://www.opencascade.com/,opencascade.com,Open C++ geometry kernel underlying many CAD and CAM applications,CAD,open,adv,
+OpenSCAD,https://openscad.org/,openscad.org,Script-based solid modeller using constructive solid geometry,CAD,open,int,
+Polycam,https://poly.cam/,poly.cam,Phone-based photogrammetry and LiDAR scanning to meshes,CAD,freemium,int,
+Abaqus,https://www.3ds.com/products/simulia/abaqus,3ds.com,Finite element solver for nonlinear and multiphysics problems,CAE,paid,adv,
+Abaqus/Explicit,https://www.3ds.com/products/simulia/abaqus-explicit,3ds.com,"Transient dynamics for impact, forming and fragmentation.",CAE,paid,adv,
+Altair CFD (AcuSolve),https://altair.com/acusolve,altair.com,Finite-element CFD for external and internal flows,CAE,paid,adv,
+Altair Engineering,https://altair.com/,altair.com,"Simulation, HPC, AI and data analytics portfolio",CAE,paid,adv,
+Altair Flux,https://altair.com/flux,altair.com,"Low-frequency electromagnetics for motors, sensors and transformers.",CAE,paid,adv,
+Altair HyperWorks,https://altair.com/hyperworks,altair.com,"CAE environment for modelling, optimisation and HPC",CAE,paid,adv,
+Altair OptiStruct,https://altair.com/optistruct,altair.com,Structural optimisation solver for topology and size,CAE,paid,adv,
+Altair PhysicsAI,https://altair.com/physicsai,altair.com,Geometry deep learning that predicts fields from prior CAE runs.,CAE,paid,adv,yes
+Altair Radioss,https://altair.com/radioss,altair.com,Explicit crash and impact solver,CAE,paid,adv,
+Altair SimSolid,https://altair.com/simsolid,altair.com,Meshless structural analysis that runs on CAD geometry directly,CAE,paid,int,
+Altair University,https://altair.com/altair-university,altair.com,Free learning and student licences across the Altair stack.,CAE,free,int,
+Ansys,https://www.ansys.com/,ansys.com,"Broad engineering simulation suite spanning structures, fluids, electronics and optics",CAE,paid,adv,
+Ansys CFX,https://www.ansys.com/products/fluids/ansys-cfx,ansys.com,CFD solver strong in turbomachinery and coupled physics,CAE,paid,adv,
+Ansys Discovery,https://www.ansys.com/products/3d-design/ansys-discovery,ansys.com,Interactive GPU simulation that updates as you drag geometry.,CAE,paid,adv,yes
+Ansys Fluent,https://www.ansys.com/products/fluids/ansys-fluent,ansys.com,"General-purpose CFD solver for flow, heat and reacting systems",CAE,paid,adv,
+Ansys HFSS,https://www.ansys.com/products/electronics/ansys-hfss,ansys.com,3D electromagnetic simulation for antennas and RF,CAE,paid,adv,
+Ansys Icepak,https://www.ansys.com/products/electronics/ansys-icepak,ansys.com,Electronics cooling and thermal management simulation,CAE,paid,adv,
+Ansys LS-DYNA,https://www.ansys.com/products/structures/ansys-ls-dyna,ansys.com,"Explicit dynamics for crash, drop and impact analysis",CAE,paid,adv,
+Ansys Lumerical,https://www.ansys.com/products/photonics,ansys.com,Photonics simulation for photonic integrated circuits,CAE,paid,adv,
+Ansys Mechanical,https://www.ansys.com/products/structures/ansys-mechanical,ansys.com,"Finite element analysis for structures, thermal and vibration",CAE,paid,adv,
+Ansys Motor-CAD,https://www.ansys.com/products/electronics/ansys-motor-cad,ansys.com,Electromagnetic and thermal design of electric motors,CAE,paid,adv,
+Ansys Rocky,https://www.ansys.com/products/fluids/ansys-rocky,ansys.com,DEM particle simulation for bulk materials and conveyors,CAE,paid,adv,
+Ansys SimAI,https://www.ansys.com/products/artificial-intelligence/ansys-simai,ansys.com,Trains surrogate models on past simulations for instant what-if runs.,CAE,paid,adv,yes
+Ansys Student,https://www.ansys.com/academic/students,ansys.com,Free student licence for Ansys simulation products,CAE,free,int,
+Ansys Twin Builder,https://www.ansys.com/products/digital-twin,ansys.com,Model-based system simulation for digital twins,CAE,paid,adv,
+Ansys Zemax OpticStudio,https://www.zemax.com/products/opticstudio,zemax.com,Sequential and non-sequential optical system design,CAE,paid,adv,
+AnyLogic,https://www.anylogic.com/,anylogic.com,"Multimethod simulation: agent-based, discrete event and system dynamics.",CAE,paid,adv,yes
+Autodesk CFD,https://www.autodesk.com/products/cfd/overview,autodesk.com,Accessible computational fluid dynamics inside Fusion,CAE,paid,int,
+Autodesk Moldflow,https://www.autodesk.com/products/moldflow/overview,autodesk.com,Injection moulding simulation for plastics part design,CAE,paid,adv,
+BeyondMath,https://beyondmath.com/,beyondmath.com,Generative physics engine producing simulation results without meshing.,CAE,paid,adv,yes
+CalculiX,https://www.calculix.de/,calculix.de,Open-source finite element solver with Abaqus-like input,CAE,open,adv,
+CasADi,https://web.casadi.org/,web.casadi.org,Symbolic framework for optimal control and NLP,CAE,open,adv,
+Cedrus,https://www.cedrus.com/,cedrus.com,Vibroacoustics and shock simulation with SEA and FEM modules.,CAE,paid,adv,
+CMLabs MOOSE,https://mooseframework.inl.gov/,mooseframework.inl.gov,Parallel finite element framework for coupled physics from Idaho National Lab.,CAE,free,adv,
+COCO / Pyomo,https://www.pyomo.org/,pyomo.org,Algebraic modelling language for optimisation in Python,CAE,open,adv,
+Code Saturne,https://www.code-saturne.org/,code-saturne.org,Open finite-volume CFD from EDF for industrial flows,CAE,open,adv,
+Code_Aster,https://codeaster.org/,codeaster.org,Open finite element analysis from EDF for structural mechanics,CAE,open,adv,
+COMSOL Application Builder,https://www.comsol.com/products/application-builder,comsol.com,Turn a model into a standalone simulation app for colleagues.,CAE,paid,adv,
+COMSOL Application Gallery,https://www.comsol.com/models,comsol.com,Hundreds of solved multiphysics example models,CAE,free,adv,
+COMSOL Multiphysics,https://www.comsol.com/,comsol.com,Equation-based multiphysics modelling environment,CAE,paid,adv,
+CPLEX,https://www.ibm.com/products/ilog-cplex-optimization-studio,ibm.com,IBM optimisation studio for linear and mixed-integer problems,CAE,paid,adv,
+CST Studio Suite,https://www.3ds.com/products/simulia/cst-studio-suite,3ds.com,Electromagnetic and thermal simulation for antennas and EMC.,CAE,paid,adv,
+CVXPY,https://www.cvxpy.org/,cvxpy.org,Python modelling language for convex optimisation,CAE,open,adv,
+Dassault Systèmes SIMULIA,https://www.3ds.com/products/simulia,3ds.com,Abaqus-based multiphysics and structural simulation,CAE,paid,adv,
+Dassault Systèmes xFlow,https://www.3ds.com/products/simulia/xflow,3ds.com,Lattice-Boltzmann CFD for complex moving geometry,CAE,paid,adv,
+deal.II,https://www.dealii.org/,dealii.org,C++ finite element library for adaptive meshes and PDEs,CAE,open,adv,
+DWSIM,https://dwsim.org/,dwsim.org,Open chemical process simulator with CAPE-OPEN support,CAE,open,int,
+Flexcompute,https://flexcompute.com/,flexcompute.com,GPU-native CFD with adjoint optimisation for vehicle design.,CAE,paid,adv,yes
+NVIDIA Modulus,https://developer.nvidia.com/modulus,developer.nvidia.com,Physics-informed neural networks for surrogate and inverse problems.,CAE,free,adv,yes
+NVIDIA PhysicsNeMo,https://developer.nvidia.com/physicsnemo,developer.nvidia.com,Successor framework for AI-driven simulation and digital twins.,CAE,free,adv,yes
+Simcenter PhysicsAI,https://www.siemens.com/en/products/simcenter/physicsai/,siemens.com,AI surrogate models trained on geometry and simulation history.,CAE,paid,adv,yes
+SimScale,https://www.simscale.com/,simscale.com,"Browser-based CFD, FEA and thermal simulation with cloud solving.",CAE,freemium,adv,yes
+Simul8,https://www.simul8.com/,simul8.com,"Discrete event simulation for factories, queues and logistics.",CAE,paid,int,yes
+ToffeeX,https://www.toffeex.com/,toffeex.com,Thermo-fluid generative design for heat sinks and cooling parts.,CAE,paid,adv,yes
+Vinci,https://getvinci.ai/,getvinci.ai,Physics AI for high-resolution hardware simulation.,CAE,paid,adv,yes
+3D Systems,https://www.3dsystems.com/,3dsystems.com,Pioneer of stereolithography and 3D printing,MFG,paid,adv,
+ABB Robotics,https://new.abb.com/products/robotics,new.abb.com,"Robots, RobotStudio simulation and AI-enabled vision",MFG,paid,adv,
+Adafruit,https://www.adafruit.com/,adafruit.com,Maker electronics and learning guides,MFG,paid,all,
+Aras Innovator,https://www.aras.com/,aras.com,Open PLM platform,MFG,paid,adv,
+ASME Y14.5,https://www.asme.org/codes-standards/find-codes-standards/y14-5-2018-dimensioning-tolerancing,asme.org,The dimensioning and tolerancing standard itself.,MFG,paid,adv,
+AspenTech,https://www.aspentech.com/,aspentech.com,"Process simulation and optimisation for chemicals, energy and materials",MFG,paid,adv,
+AspenTech Aspen HYSYS,https://www.aspentech.com/en/products/engineering/aspen-hysys,aspentech.com,"Hydrocarbon process simulation for oil, gas and refining",MFG,paid,adv,
+AspenTech Aspen Plus,https://www.aspentech.com/en/products/engineering/aspen-plus,aspentech.com,Steady-state chemical process flowsheet simulation,MFG,paid,adv,
+AVEVA,https://www.aveva.com/,aveva.com,"Engineering, operations and industrial software for process plants",MFG,paid,adv,
+AVEVA PI System,https://www.aveva.com/en/products/pi-system/,aveva.com,Industrial time-series data infrastructure for plant historians,MFG,paid,adv,
+AWS IoT TwinMaker,https://aws.amazon.com/iot-twinmaker/,aws.amazon.com,Build digital twins of facilities from CAD and sensor data.,MFG,paid,adv,yes
+Bambu Lab,https://bambulab.com/en,bambulab.com,Fast consumer 3D printers and cloud,MFG,paid,all,
+Banner Engineering,https://www.bannerengineering.com/,bannerengineering.com,"Sensors, wireless networks and machine vision.",MFG,paid,adv,
+bCNC,https://github.com/vlachoudis/bCNC,github.com,Python CNC control with probing and autolevel for GRBL,MFG,open,int,
+Beckhoff TwinCAT,https://www.beckhoff.com/en-us/products/automation/twincat/,beckhoff.com,PC-based control and IEC 61131 run-time for automation,MFG,paid,adv,
+BobCAD-CAM,https://www.bobcad.com/,bobcad.com,Affordable CAD/CAM combo for small machine shops,MFG,paid,int,
+Carbide Create,https://carbide3d.com/carbidecreate/,carbide3d.com,Free CAM for Shapeoko and Nomad hobby CNC routers,MFG,free,all,
+Cetec ERP,https://cetecerp.com/,cetecerp.com,Cloud ERP for contract manufacturers with revision control.,MFG,paid,adv,
+CODESYS,https://www.codesys.com/,codesys.com,PLC programming IDE and runtime following IEC 61131-3,MFG,freemium,adv,
+Critical Manufacturing,https://www.criticalmanufacturing.com/,criticalmanufacturing.com,MES for high-mix electronics and semiconductor fabs.,MFG,paid,adv,yes
+Cults 3D,https://cults3d.com/,cults3d.com,Marketplace for 3D print designs,MFG,freemium,all,
+Cura,https://ultimaker.com/software/ultimaker-cura,ultimaker.com,Open slicer used across the desktop 3D printing world,MFG,open,all,
+Dassault Systèmes DELMIA,https://www.3ds.com/products/delmia,3ds.com,"Manufacturing simulation, planning and operations platform.",MFG,paid,adv,yes
+Dassault Systèmes ENOVIA,https://www.3ds.com/products-services/enovia/,3ds.com,Collaborative PLM on 3DEXPERIENCE,MFG,paid,adv,
+Dassault Systèmes Virtual Twin,https://www.3ds.com/solutions/virtual-twin,3ds.com,Industry virtual twins linking design to operations.,MFG,paid,adv,yes
+Delta Electronics,https://www.deltaww.com/,deltaww.com,"Drives, PLCs and power electronics from Taiwan.",MFG,paid,adv,
+Desktop Metal,https://www.desktopmetal.com/,desktopmetal.com,Metal additive manufacturing systems,MFG,paid,adv,
+Epicor,https://www.epicor.com/,epicor.com,"Industry ERP for manufacturing, distribution and retail.",MFG,paid,adv,yes
+Fictiv,https://www.fictiv.com/,fictiv.com,Manufacturing platform with instant quoting and QC reports.,MFG,paid,int,yes
+HighByte,https://www.highbyte.com/,highbyte.com,Industrial data operations hub for harmonising plant data.,MFG,paid,adv,yes
+Litmus Automation,https://litmusautomation.com/,litmusautomation.com,Industrial edge platform turning OT data into cloud streams.,MFG,paid,adv,yes
+Microsoft Azure Digital Twins,https://azure.microsoft.com/en-us/products/digital-twins/,azure.microsoft.com,"Cloud graph service modelling buildings, plants and grids.",MFG,paid,adv,yes
+Paperless Parts,https://paperlessparts.com/,paperlessparts.com,AI quoting platform for custom machine shops.,MFG,paid,adv,yes
+Protolabs,https://www.protolabs.com/,protolabs.com,"On-demand CNC, injection moulding and 3D printing with DFM feedback.",MFG,paid,int,yes
+PTC ThingWorx,https://www.ptc.com/en/products/thingworx,ptc.com,Industrial IoT platform for connected products and services.,MFG,paid,adv,yes
+ReliaSoft,https://www.reliasoft.com/,reliasoft.com,"Reliability, Weibull and FMEA analysis from Hexagon.",MFG,paid,adv,yes
+SICK,https://www.sick.com/,sick.com,"Sensors, vision and safety systems for automated lines.",MFG,paid,adv,yes
+Siemens Digital Twin,https://www.siemens.com/en/products/digital-twin/,siemens.com,"Digital twin portfolio spanning product, production and performance.",MFG,paid,adv,yes
+Siemens Industrial Copilot,https://www.siemens.com/en/products/industrial-copilot/,siemens.com,Generative AI assistant for automation and PLC engineering.,MFG,paid,adv,yes
+Tempo Automation,https://www.tempoautomation.com/,tempoautomation.com,Software-driven electronics manufacturing for prototypes.,MFG,paid,adv,yes
+Tulip,https://tulip.co/,tulip.co,No-code frontline operations apps for assembly and quality.,MFG,paid,adv,yes
+Xometry,https://www.xometry.com/,xometry.com,AI-driven marketplace routing parts to a global shop network.,MFG,paid,int,yes
+ABB 800xA,https://new.abb.com/control-systems/system-800xa,new.abb.com,"DCS that unifies control, safety and information management.",PROC,paid,adv,
+ABB Ability,https://new.abb.com/ability-platform,new.abb.com,Industrial digital platform over automation and electrical assets.,PROC,paid,adv,yes
+AIChE,https://www.aiche.org/,aiche.org,American Institute of Chemical Engineers,PROC,paid,all,
+API Standards,https://www.api.org/products-and-services/standards,api.org,Petroleum equipment standards used across upstream and refining.,PROC,paid,adv,
+ASME BPVC,https://www.asme.org/codes-standards/find-codes-standards/bpvc,asme.org,Boiler and pressure vessel code section reference.,PROC,paid,adv,
+Aspen DMC3,https://www.aspentech.com/en/products/advanced-process-control/aspen-dmc3,aspentech.com,Multivariable predictive control for refinery and chemical units.,PROC,paid,adv,yes
+Aspen Dynamics,https://www.aspentech.com/en/products/engineering/aspen-dynamics,aspentech.com,Dynamic process models for control strategy and operator training.,PROC,paid,adv,
+Aspen Mtell,https://www.aspentech.com/en/products/predictive-operations/aspen-mtell,aspentech.com,AI predictive maintenance trained on process history.,PROC,paid,adv,yes
+Augury,https://www.augury.com/,augury.com,Vibration and ultrasound AI for rotating equipment health.,PROC,paid,adv,yes
+AVEVA Edge,https://www.aveva.com/en/products/edge/,aveva.com,Lightweight HMI for machines and small plants.,PROC,paid,int,
+AVEVA InTouch,https://www.aveva.com/en/products/intouch-hmi/,aveva.com,SCADA and HMI platform for plant operator screens.,PROC,paid,adv,
+AVEVA Process Simulation,https://www.aveva.com/en/products/process-simulation/,aveva.com,Flowsheet simulation with a web-based modelling environment.,PROC,paid,adv,
+AVEVA System Platform,https://www.aveva.com/en/products/system-platform/,aveva.com,Enterprise SCADA unifying plant data into a single model.,PROC,paid,adv,
+C3 AI,https://c3.ai/,c3.ai,"Enterprise AI applications for manufacturing, reliability and energy.",PROC,paid,adv,yes
+Cantera,https://cantera.org/,cantera.org,Chemical kinetics and thermodynamics toolkit,PROC,open,adv,
+ChemCAD,https://www.chemstations.com/chemcad/,chemstations.com,Affordable process simulation with 2D CAD drafting built in.,PROC,paid,adv,
+Chemical Engineering Progress,https://www.aiche.org/cep,aiche.org,AIChE magazine,PROC,paid,adv,
+COCO / CAPE-OPEN,https://www.modelisar.com/,modelisar.com,Interoperability standard and free process modelling components.,PROC,free,adv,
+CoolProp,https://www.coolprop.org/,coolprop.org,Open thermophysical property library,PROC,open,adv,
+DECHEMA,https://dechema.de/,dechema.de,Chemical engineering society,PROC,paid,adv,
+Emerson Ovation,https://www.emerson.com/en-us/automation/ovation,emerson.com,Control system specialised for power and water utilities.,PROC,paid,adv,
+Falkonry,https://falkonry.com/,falkonry.com,Time-series AI that detects equipment anomalies without labels.,PROC,paid,adv,yes
+Fuxa,https://github.com/frangoteam/FUXA,github.com,Web-based SCADA/HMI with Modbus and OPC UA support.,PROC,free,int,
+gPROMS,https://www.siemens.com/en/products/gproms/,siemens.com,Equation-oriented modelling for advanced process optimisation.,PROC,paid,adv,yes
+Honeywell Experion,https://www.honeywell.com/us/en/products/honeywell-experion-pks,honeywell.com,Process knowledge system combining DCS and C300 controllers.,PROC,paid,adv,
+IChemE,https://www.icheme.org/,icheme.org,Institution of Chemical Engineers,PROC,paid,all,
+Ignition,https://inductiveautomation.com/,inductiveautomation.com,Modern SCADA platform with unlimited clients per server.,PROC,freemium,adv,
+ISA,https://www.isa.org/,isa.org,"Automation and control standards, training and certification.",PROC,paid,adv,
+ISA Interactive Standards,https://www.isa.org/standards-and-publications/isa-standards,isa.org,"Online access to ISA-95, ISA-88 and functional safety standards.",PROC,paid,adv,
+LabVIEW DSC,https://www.ni.com/en/products/labview-dsc-module.html,ni.com,Supervisory control module with historical data logging.,PROC,paid,adv,
+MachineMetrics,https://www.machinemetrics.com/,machinemetrics.com,Machine monitoring and OEE analytics for discrete shops.,PROC,paid,adv,yes
+Mango Automation,https://infiniteautomation.com/,infiniteautomation.com,Open-source M2M and SCADA for IoT-style plant monitoring.,PROC,freemium,adv,
+Matrikon,https://www.matrikon.com/,matrikon.com,OPC connectivity and historian products for industrial plants.,PROC,paid,adv,
+NACE / AMPP,https://www.ampp.org/,ampp.org,Corrosion and materials protection standards and training.,PROC,paid,adv,
+OpenEMS,https://openems.io/,openems.io,Open energy management and control platform for storage assets.,PROC,free,adv,
+Process Safety Central,https://www.psacheck.com/,psacheck.com,Checklists and references for process safety management.,PROC,freemium,adv,
+Sandvik Coromant Machining,https://www.sandvik.coromant.com/,sandvik.coromant.com,"Machining data, calculators and tooling recommendations.",PROC,free,adv,yes
+Senseye,https://senseye.io/,senseye.io,Predictive maintenance software now part of Siemens.,PROC,paid,adv,yes
+SparkCognition,https://www.sparkcognition.com/,sparkcognition.com,"AI for equipment health, sonar and generative industrial design.",PROC,paid,adv,yes
+Uptake,https://www.uptake.com/,uptake.com,Asset performance analytics for fleets and heavy equipment.,PROC,paid,adv,yes
+1X Technologies,https://www.1x.tech/,1x.tech,Humanoid and wheeled robots with AI teleoperation stack.,ROBOT,paid,adv,yes
+Agility Robotics,https://agilityrobotics.com/,agilityrobotics.com,Digit bipedal robot deployed in logistics trials.,ROBOT,paid,adv,yes
+Apptronik,https://apptronik.com/,apptronik.com,Apollo humanoid built with NASA-derived actuator technology.,ROBOT,paid,adv,yes
+ArduPilot,https://ardupilot.org/,ardupilot.org,"Mature open autopilot for planes, copters, rovers and boats.",ROBOT,free,adv,
+Boston Dynamics,https://bostondynamics.com/,bostondynamics.com,"Spot and Atlas robots, plus the Orbit inspection software.",ROBOT,paid,adv,yes
+Brax,https://github.com/google/brax,github.com,JAX-based rigid body simulator for massive RL parallelism.,ROBOT,free,adv,yes
+Bullet Physics,https://bulletphysics.org/,bulletphysics.org,Open collision detection and rigid body dynamics.,ROBOT,free,adv,
+Clearpath Robotics,https://clearpathrobotics.com/,clearpathrobotics.com,"Husky, Jackal and OTTO research and industrial platforms.",ROBOT,paid,adv,
+CoppeliaSim,https://www.coppeliarobotics.com/,coppeliarobotics.com,Versatile robot simulator with embedded scripts,ROBOT,freemium,int,
+DART,https://dartsim.github.io/,dartsim.github.io,Dynamic Animation and Robotics Toolkit for multibody dynamics.,ROBOT,free,adv,
+DJI,https://www.dji.com/,dji.com,Consumer and enterprise drones with thermal and mapping payloads.,ROBOT,paid,all,yes
+DJI Developer,https://developer.dji.com/,developer.dji.com,"Mobile SDK, onboard SDK and payload integration tools.",ROBOT,free,adv,
+Doosan Robotics,https://www.doosanrobotics.com/,doosanrobotics.com,Collaborative arms with a drag-to-teach interface.,ROBOT,paid,adv,
+Drake,https://drake.mit.edu/,drake.mit.edu,"MIT toolkit for verification, control and simulation",ROBOT,open,adv,
+FANUC America,https://www.fanucamerica.com/,fanucamerica.com,"Regional training, support and the FIELD industrial IoT platform.",ROBOT,paid,adv,yes
+Fetch Robotics,https://fetchrobotics.com/,fetchrobotics.com,Mobile manipulation and autonomous mobile robots.,ROBOT,paid,adv,yes
+Figure AI,https://www.figure.ai/,figure.ai,Humanoid robot company targeting warehouse and logistics work.,ROBOT,paid,adv,yes
+First Tech Challenge,https://www.firstinspires.org/robotics/ftc,firstinspires.org,Seasonal robot competition for high school students.,ROBOT,freemium,int,
+Foxglove,https://foxglove.dev/,foxglove.dev,"Visualization and debugging for robotics data, MCAP-native.",ROBOT,freemium,adv,
+Gazebo,https://gazebosim.org/,gazebosim.org,Physics simulator for mobile and flying robots,ROBOT,open,int,
+Gazebo Garden / Harmonic docs,https://gazebosim.org/docs,gazebosim.org,Current Gazebo release documentation and migration notes.,ROBOT,free,adv,
+Gazebo Get Started,https://gazebosim.org/docs/latest/getstarted/,gazebosim.org,Getting-started path for the Gazebo simulator.,ROBOT,free,int,
+Isaac Gym,https://developer.nvidia.com/isaac-gym,developer.nvidia.com,GPU-accelerated training of robot policies en masse,ROBOT,free,adv,
+Isaac Lab,https://isaac-sim.github.io/IsaacLab/,isaac-sim.github.io,GPU-parallel reinforcement learning environments for robots.,ROBOT,free,adv,yes
+KUKA iiQKA,https://www.kuka.com/en-de/products/robot-systems/software/digitalization/iiqka-ecosystem,kuka.com,Ecosystem for easy robot application development.,ROBOT,paid,adv,yes
+LeRobot,https://github.com/huggingface/lerobot,github.com,Hugging Face library for low-cost robot learning and datasets.,ROBOT,free,adv,yes
+MAVLink,https://mavlink.io/,mavlink.io,Lightweight messaging protocol for drone communication.,ROBOT,free,adv,
+MCAP,https://mcap.dev/,mcap.dev,Open container format for robotics and simulation logs.,ROBOT,free,adv,
+Microsoft AirSim,https://microsoft.github.io/AirSim/,microsoft.github.io,Drone and car simulator built on Unreal Engine.,ROBOT,free,adv,yes
+Mission Planner,https://ardupilot.org/planner/,ardupilot.org,Windows planning and telemetry for ArduPilot.,ROBOT,free,int,
+MJX,https://mujoco.readthedocs.io/en/stable/mjx.html,mujoco.readthedocs.io,GPU batched MuJoCo for policy training at scale.,ROBOT,free,adv,yes
+MoveIt,https://moveit.ros.org/,moveit.ros.org,Motion planning and manipulation for ROS,ROBOT,open,int,
+MoveIt 2,https://moveit.ai/,moveit.ai,"Motion planning, manipulation and 3D perception for ROS.",ROBOT,free,adv,yes
+MuJoCo,https://mujoco.org/,mujoco.org,Fast accurate dynamics engine for control research,ROBOT,open,adv,
+MuJoCo Menagerie,https://github.com/google-deepmind/mujoco_menagerie,github.com,Curated robot models ready for MuJoCo simulation.,ROBOT,free,adv,
+NASA Robotics Alliance,https://www.nasa.gov/learning-resources/robotics/,nasa.gov,NASA robotics competitions and classroom resources.,ROBOT,free,all,
+Nav2,https://docs.nav2.org/,docs.nav2.org,Navigation stack for ROS 2 mobile robots,ROBOT,open,adv,
+NVIDIA Isaac GR00T,https://developer.nvidia.com/project-gr00t,developer.nvidia.com,Foundation model and data factory for humanoid robots.,ROBOT,paid,adv,yes
+NVIDIA Isaac ROS,https://nvidia-isaac-ros.github.io/,nvidia-isaac-ros.github.io,GPU-accelerated ROS 2 packages for perception and navigation,ROBOT,open,adv,
+NVIDIA Jetson,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/,nvidia.com,Embedded AI computers for robots and drones.,ROBOT,paid,adv,yes
+Open X-Embodiment,https://robotics-transformer-x.github.io/,robotics-transformer-x.github.io,Largest cross-robot dataset for generalist policies.,ROBOT,free,adv,yes
+Physical Intelligence,https://www.physicalintelligence.company/,physicalintelligence.company,π0 vision-language-action model startup for generalist robots.,ROBOT,paid,adv,yes
+RaiSim,https://raisim.com/,raisim.com,Fast contact-rich simulator popular for legged robot learning.,ROBOT,freemium,adv,yes
+RoboDK,https://robodk.com/,robodk.com,Offline programming and simulation for 80-plus robot brands.,ROBOT,paid,adv,yes
+RobotStudio,https://new.abb.com/products/robotics/robotstudio,new.abb.com,Offline programming and digital twin for ABB robots.,ROBOT,paid,adv,yes
+Sanctuary AI,https://sanctuary.ai/,sanctuary.ai,Phoenix humanoid with a cognitive architecture and hands.,ROBOT,paid,adv,yes
+Tesla Optimus,https://www.tesla.com/optimus,tesla.com,Tesla's general-purpose humanoid robot programme.,ROBOT,paid,adv,yes
+Unitree Robotics,https://www.unitree.com/,unitree.com,Affordable quadrupeds and humanoids for research labs.,ROBOT,paid,adv,yes
+ABB E-mobility,https://new.abb.com/emobility,new.abb.com,DC fast chargers and depot charging systems.,AUTO,paid,adv,
+Aptiv,https://www.aptiv.com/,aptiv.com,"Vehicle architecture, connectors and autonomous driving stack.",AUTO,paid,adv,yes
+Aurora Innovation,https://aurora.tech/,aurora.tech,Self-driving truck platform with the Aurora Driver.,AUTO,paid,adv,yes
+AUTOSAR,https://www.autosar.org/,autosar.org,Automotive software architecture standard,AUTO,paid,adv,
+Baja SAE,https://www.sae.org/attend/student-events/baja-sae,sae.org,Off-road vehicle design competition for undergraduates.,AUTO,freemium,int,
+BMW Group,https://www.bmwgroup.com/,bmwgroup.com,Automotive engineering and manufacturing,AUTO,paid,all,
+Bosch,https://www.bosch.com/,bosch.com,Automotive components and industrial tech,AUTO,paid,adv,
+Bosch Mobility,https://www.bosch.com/stories/connected-mobility/,bosch.com,"Sensors, ECUs and software for assisted driving.",AUTO,paid,adv,yes
+BYD,https://www.byd.com/,byd.com,Electric vehicles and batteries,AUTO,paid,all,
+Carissa / HBCU Automotive,https://hbcuconnect.com/,hbcuconnect.com,Diversity and pipeline programmes for automotive engineering.,AUTO,freemium,all,
+CARLA Simulator,https://carla.org/,carla.org,Open autonomous driving simulator,AUTO,open,adv,
+CATL,https://www.catl.com/,catl.com,World's largest battery maker,AUTO,paid,adv,
+ChargePoint,https://www.chargepoint.com/,chargepoint.com,Charging hardware and network management software.,AUTO,paid,adv,yes
+Continental,https://www.continental.com/,continental.com,Tyres and automotive electronics,AUTO,paid,adv,
+Continental Automotive,https://www.continental.com/en/products/,continental.com,"Tyres, braking systems and automotive electronics.",AUTO,paid,adv,
+Cruise,https://www.getcruise.com/,getcruise.com,Autonomous vehicle developer and former robotaxi operator.,AUTO,paid,adv,yes
+Daimler Truck,https://www.daimlertruck.com/,daimlertruck.com,Mercedes-Benz and Freightliner commercial vehicles.,AUTO,paid,adv,
+DOE OSTI,https://www.osti.gov/,osti.gov,"Fuel economy, battery and vehicle technology datasets.",AUTO,free,adv,
+Electrify America,https://www.electrifyamerica.com/,electrifyamerica.com,High-power charging network across the United States.,AUTO,paid,all,
+EPA Fuel Economy,https://www.fueleconomy.gov/,fueleconomy.gov,Official US efficiency and emissions comparisons.,AUTO,free,all,
+Euro NCAP,https://www.euroncap.com/,euroncap.com,European new car safety programme,AUTO,open,all,
+F1 Technical Regulations,https://www.fia.com/regulation/category/110,fia.com,Public rulebook driving frontier vehicle engineering.,AUTO,free,adv,
+FIA,https://www.fia.com/,fia.com,Motorsport governing body publishing safety and technical rules.,AUTO,free,adv,
+FISITA,https://www.fisita.com/,fisita.com,International automotive engineering federation,AUTO,paid,adv,
+Ford Motor Company,https://www.ford.com/,ford.com,Automotive and commercial vehicles,AUTO,paid,all,
+Formula SAE,https://www.sae.org/attend/student-events/formula-sae,sae.org,Student competition designing and building race cars.,AUTO,freemium,int,
+Geely,https://www.geely.com/,geely.com,Automotive group,AUTO,paid,all,
+General Motors,https://www.gm.com/,gm.com,Automotive and EV engineering,AUTO,paid,all,
+Honda,https://www.honda.com/,honda.com,Automobiles and robotics,AUTO,paid,all,
+Mobileye,https://www.mobileye.com/,mobileye.com,Vision-based driver assistance chips and mapping.,AUTO,paid,adv,yes
+AIAA,https://www.aiaa.org/,aiaa.org,American Institute of Aeronautics and Astronautics,AERO,paid,adv,
+AIAA Aerospace America,https://aerospaceamerica.aiaa.org/,aerospaceamerica.aiaa.org,"Monthly magazine on aircraft, space and defence technology.",AERO,free,adv,
+Airbus,https://www.airbus.com/en,airbus.com,"Commercial aircraft, helicopters and defence",AERO,paid,adv,
+Airbus Defence and Space,https://www.airbus.com/en/defence-and-space-uk.html,airbus.com,Military aircraft and space systems,AERO,paid,adv,
+Arianespace,https://www.arianespace.com/,arianespace.com,Ariane 6 and Vega-C commercial launch services.,AERO,paid,adv,
+Aviation Week,https://aviationweek.com/,aviationweek.com,Aviation and aerospace industry news,AERO,paid,adv,
+Blue Origin,https://www.blueorigin.com/,blueorigin.com,Reusable rockets and lunar lander,AERO,paid,all,
+Boeing,https://www.boeing.com/,boeing.com,Commercial and defence aircraft maker,AERO,paid,adv,
+Bombardier,https://www.bombardier.com/,bombardier.com,Business aircraft manufacturer,AERO,paid,adv,
+Celestrak,https://celestrak.org/,celestrak.org,"Orbital element data, satellite situations and conjunction tools.",AERO,free,adv,
+Cessna / Textron Aviation,https://www.txtav.com/,txtav.com,General and business aviation,AERO,paid,all,
+CFM International,https://cfmaeroengines.com/,cfmaeroengines.com,Leading jet engine joint venture,AERO,paid,adv,
+Cirrus,https://cirrusaircraft.com/,cirrusaircraft.com,Light aircraft with whole-aircraft parachute,AERO,paid,all,
+CNES,https://cnes.fr/,cnes.fr,French space agency programmes and data,AERO,open,adv,
+Collins Aerospace,https://www.collinsaerospace.com/,collinsaerospace.com,"Avionics, aerostructures and interiors",AERO,paid,adv,
+Dassault Aviation,https://www.dassault-aviation.com/en/,dassault-aviation.com,Rafale and Falcon aircraft maker,AERO,paid,adv,
+Delft Aerospace Engineering,https://www.tudelft.nl/lr/,tudelft.nl,"Faculty pages, design synthesis exercises and student teams.",AERO,free,adv,
+Diamond Aircraft,https://www.diamondaircraft.com/,diamondaircraft.com,Diesel-engine training aircraft and flight schools.,AERO,paid,int,
+DLR,https://www.dlr.de/,dlr.de,"German aerospace centre research on aircraft, robotics and energy.",AERO,free,adv,
+EASA,https://www.easa.europa.eu/,easa.europa.eu,European aviation safety agency,AERO,open,adv,
+Embraer,https://www.embraer.com/,embraer.com,Regional and executive jet manufacturer,AERO,paid,adv,
+ESA,https://www.esa.int/,esa.int,European Space Agency missions and engineering,AERO,open,all,
+ESA Education,https://www.esa.int/Education,esa.int,Space resources and challenges for students,AERO,open,all,
+ESA Space Debris Office,https://www.esa.int/Safety_Security/Space_Debris,esa.int,Conjunction data and debris mitigation standards.,AERO,free,adv,
+FAA,https://www.faa.gov/,faa.gov,US aviation regulator,AERO,open,all,
+FAA Airmen Certification,https://www.faa.gov/licenses_certificates/,faa.gov,Pilot and mechanic certification guidance and handbooks.,AERO,free,int,
+FAA Safety Team,https://www.faasafety.gov/,faasafety.gov,Pilot education and safety programme,AERO,free,all,
+FlightAware,https://flightaware.com/,flightaware.com,"Live flight tracking, historical data and ADS-B receivers.",AERO,freemium,all,
+FlightGlobal,https://www.flightglobal.com/,flightglobal.com,Aviation data and news,AERO,freemium,adv,
+Flightradar24,https://www.flightradar24.com/,flightradar24.com,Global flight tracking map used by enthusiasts and professionals.,AERO,freemium,all,
+GE Aerospace,https://www.geaerospace.com/,geaerospace.com,"Jet engines, avionics and additive manufacturing for propulsion.",AERO,paid,adv,yes
+General Atomics Aeronautical,https://www.ga-asi.com/,ga-asi.com,Predator and Reaper unmanned aircraft systems.,AERO,paid,adv,yes
+Microsoft Flight Simulator,https://www.flightsimulator.com/,flightsimulator.com,Photorealistic simulator with live weather and aircraft systems.,AERO,paid,all,yes
+NASA OpenMDAO,https://openmdao.org/,openmdao.org,Python framework for multidisciplinary design optimisation.,AERO,free,adv,yes
+ABS,https://www.eagle.org/,eagle.org,American Bureau of Shipping rules and marine technology papers.,MARINE,paid,adv,
+AIS Hub,https://www.ais-hub.com/,ais-hub.com,Community AIS data feed for vessel tracking projects.,MARINE,freemium,adv,
+Bureau Veritas Marine,https://marine-offshore.bureauveritas.com/,marine-offshore.bureauveritas.com,Classification and certification for ships and offshore units.,MARINE,paid,adv,
+ExactEarth,https://www.exactearth.com/,exactearth.com,Satellite AIS service for global vessel surveillance.,MARINE,paid,adv,
+IACS,https://iacs.org.uk/,iacs.org.uk,International Association of Classification Societies and unified rules.,MARINE,free,adv,
+IMO,https://www.imo.org/,imo.org,"UN maritime agency setting safety, security and emissions rules.",MARINE,free,adv,
+ITTC,https://ittc.info/,ittc.info,International Towing Tank Conference recommended procedures.,MARINE,free,adv,
+Kongsberg Maritime,https://www.kongsberg.com/maritime/,kongsberg.com,"Bridge systems, dynamic positioning and autonomy.",MARINE,paid,adv,yes
+Lloyd's Register,https://www.lr.org/,lr.org,"Rules, type approval and maritime decarbonisation guidance.",MARINE,paid,adv,
+MAN Energy Solutions,https://man-es.com/,man-es.com,Two-stroke marine engines and turbocharger technology.,MARINE,paid,adv,
+Marin,https://www.marin.nl/,marin.nl,Netherlands marine research institute with basins and CFD.,MARINE,paid,adv,yes
+MarineTraffic,https://www.marinetraffic.com/,marinetraffic.com,"Live ship positions, port calls and vessel database.",MARINE,freemium,all,
+Navionics,https://www.navionics.com/,navionics.com,Charts and routing for recreational and professional boating.,MARINE,paid,int,
+Ocean Engineering Journal,https://www.sciencedirect.com/journal/ocean-engineering,sciencedirect.com,Peer-reviewed research on offshore and underwater systems.,MARINE,paid,adv,
+OpenCPN,https://opencpn.org/,opencpn.org,Open electronic chart plotter and navigation software.,MARINE,free,adv,
+RINA,https://www.rina.org/,rina.org,Italian classification society with yacht and offshore expertise.,MARINE,paid,adv,
+RINA London: Royal Institution,https://www.rina.org.uk/,rina.org.uk,"Naval architecture institution, events and technical publications.",MARINE,paid,adv,
+Rolls-Royce Marine,https://www.rolls-royce.com/products-and-services/marine.aspx,rolls-royce.com,"Propulsion, automation and Azipod podded drives.",MARINE,paid,adv,
+Scripps Institution,https://scripps.ucsd.edu/,scripps.ucsd.edu,"Ship operations, Argo floats and ocean observing systems.",MARINE,free,adv,
+Sea Cadet,https://www.seacadets.org/,seacadets.org,Youth maritime programme with engineering and seamanship tracks.,MARINE,freemium,all,
+SNAME,https://www.sname.org/,sname.org,Society of Naval Architects and Marine Engineers papers and standards.,MARINE,paid,adv,
+VesselFinder,https://www.vesselfinder.com/,vesselfinder.com,Alternative AIS map with fleet and port statistics.,MARINE,freemium,all,
+WHOI,https://www.whoi.edu/,whoi.edu,"Submersibles, buoys and ocean engineering at Woods Hole.",MARINE,free,adv,
+Wärtsilä,https://www.wartsila.com/,wartsila.com,"Engines, propulsion and ship intelligence systems.",MARINE,paid,adv,yes
+Wärtsilä Simulation,https://www.wartsila.com/learning,wartsila.com,Training simulators for engine rooms and bridge teams.,MARINE,paid,adv,
+AASHTO,https://www.transportation.org/,transportation.org,Highway bridge and road standards body for US states.,CIVIL,paid,adv,
+Agisoft Metashape,https://www.agisoft.com/,agisoft.com,Photogrammetric 3D reconstruction from photos.,CIVIL,paid,adv,
+AISC,https://www.aisc.org/,aisc.org,"Steel design specifications, connections and design aids.",CIVIL,freemium,adv,
+American Concrete Institute,https://www.concrete.org/,concrete.org,Concrete standards and technical resources,CIVIL,paid,adv,
+ASCE,https://www.asce.org/,asce.org,American Society of Civil Engineers,CIVIL,paid,adv,
+ASCE 7 Hazard Tool,https://asce7hazardtool.online/,asce7hazardtool.online,"Official wind, seismic and snow load maps by location.",CIVIL,free,adv,
+ASCE Library,https://ascelibrary.org/,ascelibrary.org,Civil engineering journals and standards,CIVIL,paid,adv,
+AutoCAD Map 3D,https://www.autodesk.com/products/autocad-map-3d/overview,autodesk.com,GIS and CAD integration for civil asset mapping.,CIVIL,paid,adv,
+Autodesk Advance Steel,https://www.autodesk.com/products/advance-steel/overview,autodesk.com,Steel detailing and fabrication models,CIVIL,paid,adv,
+Autodesk Build,https://www.autodesk.com/products/autodesk-build/overview,autodesk.com,Construction collaboration and field management.,CIVIL,paid,adv,
+Autodesk InfraWorks,https://www.autodesk.com/products/infraworks/overview,autodesk.com,Conceptual infrastructure design in real-world context,CIVIL,paid,adv,
+Autodesk Robot Structural Analysis,https://www.autodesk.com/products/robot-structural-analysis/overview,autodesk.com,Finite element analysis for building structures,CIVIL,paid,adv,
+Bentley ContextCapture,https://www.bentley.com/software/contextcapture/,bentley.com,Reality modelling from drone and laser scan imagery.,CIVIL,paid,adv,yes
+Bentley MicroStation,https://www.bentley.com/en/products/microstation,bentley.com,CAD platform for infrastructure design and modelling,CIVIL,paid,adv,
+Bentley OpenBridge,https://www.bentley.com/en/products/openbridge,bentley.com,"Bridge modelling, analysis and detailing",CIVIL,paid,adv,
+Bentley OpenBuildings,https://www.bentley.com/software/openbuildings-designer/,bentley.com,BIM for building design and energy-aware analysis.,CIVIL,paid,adv,
+Bentley OpenFlows,https://www.bentley.com/en/products/openflows,bentley.com,"Water distribution, sewer and stormwater modelling",CIVIL,paid,adv,
+Bentley OpenFlows SewerGEMS,https://www.bentley.com/software/sewergems/,bentley.com,Sanitary and storm sewer network simulation.,CIVIL,paid,adv,
+Bentley OpenFlows WaterGEMS,https://www.bentley.com/software/watergems/,bentley.com,Water distribution network modelling and optimisation.,CIVIL,paid,adv,
+Bentley OpenRail,https://www.bentley.com/en/products/openrail,bentley.com,Rail corridor and track design,CIVIL,paid,adv,
+Bentley OpenRoads,https://www.bentley.com/en/products/openroads,bentley.com,Corridor and highway design with context modelling,CIVIL,paid,adv,
+Bentley RAM Structural System,https://www.bentley.com/software/ram-structural-system/,bentley.com,Integrated concrete and steel building design workflow.,CIVIL,paid,adv,
+Bentley STAAD,https://www.bentley.com/software/staad/,bentley.com,Worldwide structural analysis and design with 100-plus codes.,CIVIL,paid,adv,
+Bentley Systems,https://www.bentley.com/,bentley.com,"Infrastructure engineering software for roads, bridges, rail and water",CIVIL,paid,adv,
+Bluebeam Revu,https://bluebeam.com/,bluebeam.com,PDF markup and takeoff standard for construction teams.,CIVIL,paid,adv,yes
+BRE,https://www.bregroup.com/,bregroup.com,Built environment research and certification,CIVIL,paid,adv,
+Bridge Design Videos,https://www.sciencedirect.com/,sciencedirect.com,Journal back catalogue for bridge and structural research.,CIVIL,paid,adv,
+Building Research Council,https://www.wbdg.org/,wbdg.org,Whole Building Design Guide,CIVIL,free,adv,
+Civil 3D,https://www.autodesk.com/products/civil-3d/overview,autodesk.com,"BIM for civil design: surfaces, corridors and grading",CIVIL,paid,adv,
+CloudCompare,https://www.cloudcompare.org/,cloudcompare.org,Open point cloud comparison and processing for scan-to-BIM.,CIVIL,free,adv,
+CSiBridge,https://www.csiamerica.com/products/csibridge,csiamerica.com,Bridge analysis and design workflows,CIVIL,paid,adv,
+DesignBuilder,https://designbuilder.co.uk/,designbuilder.co.uk,User-friendly interface to EnergyPlus with CFD and BIM import.,CIVIL,paid,adv,
+DesignSafe,https://www.designsafe-ci.org/,designsafe-ci.org,Data depot and cyberinfrastructure for natural hazards,CIVIL,free,adv,
+Pix4Dmatic,https://www.pix4d.com/product/pix4dmatic,pix4d.com,Photogrammetry for long infrastructure corridors.,CIVIL,paid,adv,yes
+Procore,https://www.procore.com/,procore.com,"Construction management platform for projects, quality and safety.",CIVIL,paid,adv,yes
+RIB iTWO,https://www.rib-software.com/,rib-software.com,"5D BIM for cost, schedule and quantity takeoff.",CIVIL,paid,adv,yes
+Sefaira,https://www.sefaira.com/,sefaira.com,Early-stage building performance analysis for architects.,CIVIL,paid,adv,yes
+Trimble Business Center,https://www.trimble.com/construction,trimble.com,"Survey, machine control and construction data preparation.",CIVIL,paid,adv,yes
+ArcGIS for Schools,https://www.esri.com/en-us/industries/education/schools/k-12/overview,esri.com,Free Esri software for US schools,GEO,free,all,
+ArcGIS Online,https://www.arcgis.com/,arcgis.com,"Cloud GIS for maps, apps and analysis",GEO,paid,all,
+ArcGIS Pro,https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview,esri.com,Desktop GIS for professional analysis,GEO,paid,adv,
+Cesium,https://cesium.com/,cesium.com,3D geospatial platform for globes and digital twins.,GEO,freemium,adv,yes
+Copernicus Data Space,https://dataspace.copernicus.eu/,dataspace.copernicus.eu,Free Sentinel satellite data and processing,GEO,free,adv,
+D3.js,https://d3js.org/,d3js.org,Data-driven documents library for custom visualisation.,GEO,free,int,
+Esri,https://www.esri.com/,esri.com,Maker of ArcGIS and the GIS industry leader,GEO,paid,all,
+GDAL,https://gdal.org/,gdal.org,Geospatial data translation library and CLI,GEO,open,adv,
+GeoPandas,https://geopandas.org/,geopandas.org,Spatial data frames combining pandas and geometry.,GEO,free,int,
+GeoServer,https://geoserver.org/,geoserver.org,Open server for sharing geospatial data as OGC services,GEO,open,adv,
+Humanitarian OpenStreetMap,https://www.hotosm.org/,hotosm.org,Community mapping for crises,GEO,open,all,
+Kepler.gl,https://kepler.gl/,kepler.gl,WebGL mapping for large location datasets.,GEO,free,int,
+Leaflet,https://leafletjs.com/,leafletjs.com,Lightweight interactive map library,GEO,open,int,
+Mapbox,https://www.mapbox.com/,mapbox.com,Mapping and location platform with custom styles,GEO,freemium,int,
+MapLibre,https://maplibre.org/,maplibre.org,Open fork of Mapbox GL for vector maps,GEO,open,int,
+MapServer,https://www.mapserver.org/,mapserver.org,Open web mapping engine,GEO,open,adv,
+NASA Earthdata,https://www.earthdata.nasa.gov/,earthdata.nasa.gov,NASA Earth observation data search,GEO,free,adv,
+OpenAerialMap,https://openaerialmap.org/,openaerialmap.org,Open drone imagery for disaster response,GEO,free,int,
+OpenLayers,https://openlayers.org/,openlayers.org,JavaScript library for web maps,GEO,open,int,
+OpenStreetMap,https://www.openstreetmap.org/,openstreetmap.org,The collaborative editable world map,GEO,open,all,
+OpenTopography,https://www.opentopography.org/,opentopography.org,High-resolution elevation data and tools,GEO,free,adv,
+OSGeo,https://www.osgeo.org/,osgeo.org,Foundation for open geospatial projects,GEO,open,adv,
+PDAL,https://pdal.io/,pdal.io,Point cloud processing and conversion pipeline.,GEO,free,adv,
+QGIS,https://www.qgis.org/,qgis.org,Leading open-source GIS for mapping and analysis,GEO,open,all,
+QGIS Documentation,https://docs.qgis.org/,docs.qgis.org,Official training and user manuals for QGIS,GEO,open,all,
+Rasterio,https://rasterio.readthedocs.io/,rasterio.readthedocs.io,Python reading and writing of geospatial rasters.,GEO,free,adv,
+Shapely,https://shapely.readthedocs.io/,shapely.readthedocs.io,Python geometry operations built on GEOS.,GEO,free,int,
+USGS EarthExplorer,https://earthexplorer.usgs.gov/,earthexplorer.usgs.gov,Landsat and other satellite imagery archive,GEO,free,adv,
+ASME Turbo Expo,https://www.asme.org/events/turbo-expo,asme.org,Turbomachinery conference and technical papers.,ENERGY,paid,adv,
+Battery Archive,https://www.batteryarchive.org/,batteryarchive.org,Open cycling data for lithium-ion cells under many conditions.,ENERGY,free,adv,
+BREEAM,https://breeam.com/,breeam.com,Building sustainability assessment method,ENERGY,paid,adv,
+CALCE,https://calce.umd.edu/,calce.umd.edu,University of Maryland battery life prediction group and data.,ENERGY,paid,adv,
+CASL / MPACT,https://www.casl.gov/,casl.gov,Consortium for advanced simulation of light water reactors.,ENERGY,free,adv,
+ClimateStudio,https://www.solemma.com/,solemma.com,Daylight and energy analysis for architects,ENERGY,paid,adv,
+DIgSILENT PowerFactory,https://www.digsilent.de/en/powerfactory.html,digsilent.de,"Industry standard for grid studies, stability and protection.",ENERGY,paid,adv,
+DOE Hydrogen Program,https://www.energy.gov/eere/fuelcells/hydrogen-and-fuel-cell-technologies-office,energy.gov,Fuel cell and hydrogen R&D portfolio and data.,ENERGY,free,adv,
+DOE Office of Nuclear Energy,https://www.energy.gov/ne/,energy.gov,US nuclear R&D programmes including advanced reactors.,ENERGY,free,adv,
+Eaton CYME,https://www.eaton.com/us/en-us/products/electrical-circuit-protection/cyme.html,eaton.com,Distribution analysis and reliability assessment software.,ENERGY,paid,adv,
+EnergyPlus,https://energyplus.net/,energyplus.net,Building energy simulation engine,ENERGY,open,adv,
+EPA,https://www.epa.gov/,epa.gov,Environmental protection regulations and data,ENERGY,open,all,
+Equinor,https://www.equinor.com/,equinor.com,Norwegian energy company with open offshore wind datasets.,ENERGY,paid,adv,
+ETAP,https://etap.com/,etap.com,"Electrical digital twin platform for generation, grid and industry.",ENERGY,paid,adv,yes
+European Commission JRC,https://joint-research-centre.ec.europa.eu/,joint-research-centre.ec.europa.eu,Scientific reference for EU energy and materials policy.,ENERGY,free,adv,
+GL Garrad Hassan,https://www.dnv.com/,dnv.com,Wind energy consultancy and certification under DNV.,ENERGY,paid,adv,
+Global Solar Atlas,https://globalsolaratlas.info/,globalsolaratlas.info,WorldBank and Solargis solar potential maps free to use.,ENERGY,free,all,
+Global Wind Atlas,https://globalwindatlas.info/,globalwindatlas.info,Wind resource maps and data by turbine height.,ENERGY,free,all,
+Hydrogen Council,https://hydrogencouncil.com/,hydrogencouncil.com,Global hydrogen industry roadmap and project tracker.,ENERGY,free,adv,
+IEA PVPS,https://iea-pvps.org/,iea-pvps.org,Photovoltaic power systems programme with country reports.,ENERGY,free,adv,
+JANIS,https://www.oecd-nea.org/janis/,oecd-nea.org,Java-based nuclear information software for browsing data.,ENERGY,free,adv,
+Ladybug Tools,https://www.ladybug.tools/,ladybug.tools,Environmental analysis plugins for Rhino and Revit,ENERGY,open,adv,
+LEED / USGBC,https://www.usgbc.org/,usgbc.org,Green building certification system,ENERGY,paid,adv,
+MATPOWER,https://matpower.org/,matpower.org,Steady-state power flow and optimal dispatch in MATLAB and Octave.,ENERGY,free,adv,
+MCNP,https://mcnp.lanl.gov/,mcnp.lanl.gov,Monte Carlo radiation transport code from Los Alamos.,ENERGY,paid,adv,
+NJOY,https://www.njoy21.io/,njoy21.io,Nuclear data processing system turning evaluated data into libraries.,ENERGY,free,adv,
+NREL PVWatts,https://www.nrel.gov/gis/pvwatts.html,nrel.gov,Fast solar production estimates for any US address and beyond.,ENERGY,free,all,
+NREL REopt,https://www.nrel.gov/analysis/reopt.html,nrel.gov,Optimises microgrid and storage sizing against utility tariffs.,ENERGY,free,adv,yes
+NREL Solar Advisor,https://www.nrel.gov/gis/solar.html,nrel.gov,Solar resource maps and datasets for project developers.,ENERGY,free,adv,
+NREL WIND Toolkit,https://www.nrel.gov/gis/wind.html,nrel.gov,Meteorological data for wind plant siting and simulation.,ENERGY,free,adv,
+Nuclear Data Services,https://www-nds.iaea.org/,www-nds.iaea.org,IAEA evaluated nuclear data libraries and tools.,ENERGY,free,adv,
+OECD NEA,https://www.oecd-nea.org/,oecd-nea.org,Nuclear energy agency data bank and reactor safety reports.,ENERGY,paid,adv,
+Schneider Electric ETAP,https://www.se.com/,se.com,Energy management and automation across buildings and industry.,ENERGY,paid,adv,yes
+Siemens PSS/E,https://www.siemens.com/en/products/pss-software/,siemens.com,Bulk transmission planning and dynamic simulation suite.,ENERGY,paid,adv,yes
+Baker Hughes,https://www.bakerhughes.com/,bakerhughes.com,Oilfield technology and industrial AI,PWR,paid,adv,
+DOE Office of Electricity,https://www.energy.gov/oe/office-electricity,energy.gov,US grid and electricity research,PWR,open,adv,
+ENTSO-E,https://www.entsoe.eu/,entsoe.eu,European transmission system operators network,PWR,open,adv,
+EPRI,https://www.epri.com/,epri.com,Electric Power Research Institute,PWR,paid,adv,
+GridLAB-D,https://www.gridlabd.org/,gridlabd.org,Distribution grid simulation,PWR,open,adv,
+Halliburton,https://www.halliburton.com/,halliburton.com,Energy services and reservoir modelling,PWR,paid,adv,
+IAEA,https://www.iaea.org/,iaea.org,UN nuclear energy and safety agency,PWR,open,all,
+IEA,https://www.iea.org/,iea.org,Global energy data and policy analysis,PWR,freemium,all,
+IRENA,https://www.irena.org/,irena.org,International renewable energy agency,PWR,open,adv,
+National Renewable Energy Laboratory,https://www.nrel.gov/research/index.html,nrel.gov,Renewable energy and grid research,PWR,open,adv,
+NETL,https://www.netl.doe.gov/,netl.doe.gov,National energy technology laboratory,PWR,open,adv,
+NREL Sam,https://www.nrel.gov/analysis/sam.html,nrel.gov,System Advisor Model for renewable project economics,PWR,free,adv,
+Nuclear Regulatory Commission,https://www.nrc.gov/,nrc.gov,US nuclear safety regulation,PWR,open,all,
+OpenDSS,https://www.epri.com/en/products/energy-solutions/opendss,epri.com,Open distribution system simulator,PWR,open,adv,
+Schlumberger / SLB,https://www.slb.com/,slb.com,Oilfield services and reservoir engineering,PWR,paid,adv,
+Society of Petroleum Engineers,https://www.spe.org/,spe.org,Petroleum engineering society,PWR,paid,adv,
+US Energy Information Administration,https://www.eia.gov/,eia.gov,US energy statistics and forecasts,PWR,open,all,
+Advantest,https://www.advantest.com/,advantest.com,Semiconductor test equipment and data analytics,EDA,paid,adv,
+ALLPCB,https://www.allpcb.com/,allpcb.com,PCB fabrication service with an online DFM checker.,EDA,paid,int,
+Altium 365,https://www.altium.com/platform/altium-365/,altium.com,Cloud platform adding MCAD co-design and versioning to Altium,EDA,paid,adv,
+Altium Designer,https://www.altium.com/altium-designer/,altium.com,Windows PCB design tool with unified 3D and rules-driven layout,EDA,paid,int,
+AMD Vitis,https://www.xilinx.com/products/design-tools/vitis.html,xilinx.com,C and C++ compilation to FPGA accelerators.,EDA,freemium,adv,yes
+AMD Xilinx,https://www.xilinx.com/,xilinx.com,"Adaptive computing: FPGAs, Versal SoCs and Vitis tools",EDA,paid,adv,
+Antmicro,https://antmicro.com/,antmicro.com,Open-source FPGA and ASIC tooling and design services,EDA,paid,adv,
+Apache NuttX RTOS,https://nuttx.apache.org/,nuttx.apache.org,POSIX-style real-time OS for deeply embedded systems.,EDA,free,adv,
+Applied Materials,https://www.appliedmaterials.com/,appliedmaterials.com,Semiconductor and display manufacturing equipment,EDA,paid,adv,
+Arduino CLI,https://arduino.github.io/arduino-cli/,arduino.github.io,Command-line compile and upload for CI pipelines.,EDA,free,adv,
+Arduino Cloud,https://www.arduino.cc/professional/arduino-cloud/,arduino.cc,IoT device management and dashboards for Arduino hardware.,EDA,freemium,int,
+Arduino IDE 2,https://www.arduino.cc/en/software,arduino.cc,"Official editor with board manager, debugger and serial plotter.",EDA,free,all,
+ASML,https://www.asml.com/,asml.com,Lithography systems enabling advanced chip nodes,EDA,paid,adv,
+Cadence,https://www.cadence.com/,cadence.com,"EDA and system analysis for silicon, PCBs and electronics",EDA,paid,adv,
+Cadence Allegro PCB,https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis.html,cadence.com,Constraint-driven PCB layout for high-speed boards.,EDA,paid,adv,
+Cadence Allegro X,https://www.cadence.com/products/allegro_x.html,cadence.com,PCB design and signal-integrity analysis platform,EDA,paid,adv,
+Cadence AWR,https://www.cadence.com/en_US/home/tools/system-analysis-and-verification/rf-microwave-design.html,cadence.com,RF and microwave circuit and system design.,EDA,paid,adv,
+Cadence Clarity,https://www.cadence.com/en_US/home/tools/system-analysis-and-verification/clarity-3d-solver.html,cadence.com,3D electromagnetic solver for packages and connectors.,EDA,paid,adv,
+Cadence OrCAD,https://www.orcad.com/,orcad.com,Affordable schematic and PCB capture for small teams.,EDA,paid,int,
+Cadence OrCAD X,https://www.cadence.com/products/orcad_x.html,cadence.com,PCB schematic and layout for small and mid-size teams,EDA,paid,int,
+Cadence Sigrity,https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/sigrity.html,cadence.com,Signal and power integrity analysis for packages and boards.,EDA,paid,adv,
+Cadence Virtuoso,https://www.cadence.com/products/virtuoso.html,cadence.com,"Analog, mixed-signal and custom IC design environment",EDA,paid,adv,
+Cadence Xcelium,https://www.cadence.com/products/xcelium.html,cadence.com,Logic simulation family for chip verification,EDA,paid,adv,
+ChipFoundry / Zero ASIC,https://www.zeroasic.com/,zeroasic.com,Chiplet-based silicon and open hardware tooling,EDA,paid,adv,
+Chipyard,https://chipyard.readthedocs.io/,chipyard.readthedocs.io,Chisel-based SoC generator for RISC-V research chips.,EDA,free,adv,yes
+Chisel,https://www.chisel-lang.org/,chisel-lang.org,Scala hardware construction language used at Berkeley and beyond.,EDA,free,adv,
+CircuitLab,https://www.circuitlab.com/,circuitlab.com,Online schematic capture and SPICE simulation.,EDA,freemium,int,
+CircuitMaker,https://circuitmaker.com/,circuitmaker.com,Free community PCB editor from Altium for makers,EDA,free,all,
+Component Search Engine,https://componentsearchengine.com/,componentsearchengine.com,Free CAD models for ECAD and MCAD,EDA,free,int,
+DFRobot,https://www.dfrobot.com/,dfrobot.com,Education robotics and maker electronics worldwide.,EDA,paid,all,
+EAGLE,https://www.autodesk.com/products/eagle/overview,autodesk.com,Long-running PCB editor now owned by Autodesk.,EDA,freemium,int,
+EasyEDA,https://easyeda.com/,easyeda.com,Browser schematic and PCB editor tied to JLCPCB fabrication,EDA,freemium,all,
+EasyEDA Pro,https://pro.easyeda.com/,pro.easyeda.com,Professional EasyEDA with team libraries and advanced routing,EDA,freemium,int,
+Eclipse ThreadX,https://github.com/eclipse-threadx/threadx,github.com,"Azure RTOS contributed to open source, with filex and usbx.",EDA,free,adv,
+EDA Playground,https://www.edaplayground.com/,edaplayground.com,Browser HDL editing and simulation across many tools.,EDA,freemium,all,
+Espressif ESP-IDF,https://docs.espressif.com/projects/esp-idf/en/latest/esp32/,docs.espressif.com,Official framework for ESP32 Wi-Fi and Bluetooth products.,EDA,free,adv,
+EveryCircuit,https://everycircuit.com/,everycircuit.com,Animated circuit simulator for phones and classrooms.,EDA,freemium,all,
+Falstad Circuit Simulator,https://www.falstad.com/circuit/,falstad.com,Java apples-style interactive circuits that still just run.,EDA,free,all,
+FPGA Cores / OpenHW,https://www.openhwgroup.org/,openhwgroup.org,Open-source RISC-V cores and FPGA IP,EDA,open,adv,
+Fritzing,https://fritzing.org/,fritzing.org,Breadboard-view editor that eases the schematic-to-build gap.,EDA,freemium,all,
+GHDL,https://ghdl.github.io/ghdl/,ghdl.github.io,Open VHDL analyzer and simulator,EDA,open,adv,
+Gowin EDA,https://www.gowinsemi.com/en/product/detail/2/,gowinsemi.com,Free suite for Gowin FPGAs popular in low-cost boards.,EDA,free,int,
+Hackaday.io,https://hackaday.io/,hackaday.io,"Project logs, schematics and builds from the hardware hacking community.",EDA,free,all,
+Icarus Verilog,https://github.com/steveicarus/iverilog,github.com,Open Verilog compiler and simulator,EDA,open,adv,
+Instructables Electronics,https://www.instructables.com/electronics/,instructables.com,Step-by-step builds with photos and parts lists.,EDA,freemium,all,
+Intel FPGA / Quartus,https://www.intel.com/content/www/us/en/products/programmable.html,intel.com,FPGA devices with Quartus Prime design software,EDA,paid,adv,
+Intel Quartus Prime,https://www.intel.com/content/www/us/en/products/software/quartus-prime.html,intel.com,"FPGA design for Intel, former Altera, devices.",EDA,freemium,adv,
+JTAG and SWD with OpenOCD,https://openocd.org/,openocd.org,Open on-chip debugging and flashing for ARM and RISC-V.,EDA,free,adv,
+KiCad,https://www.kicad.org/,kicad.org,"Open-source PCB suite: schematic, layout, 3D and routing",EDA,open,all,
+STM32CubeMX,https://www.st.com/en/development-tools/stm32cubemx.html,st.com,"Pin, clock and middleware configurator for STM32 microcontrollers.",EDA,free,adv,yes
+Wokwi,https://wokwi.com/,wokwi.com,"Browser Arduino, ESP32 and Raspberry Pi Pico simulation.",EDA,freemium,all,yes
+Xilinx Vivado,https://www.xilinx.com/products/design-tools/vivado.html,xilinx.com,Design suite for Xilinx FPGAs and adaptive SoCs.,EDA,freemium,adv,yes
+Arduino,https://www.arduino.cc/,arduino.cc,Open-source microcontroller boards and IDE,EMB,freemium,all,
+BeagleBoard,https://beagleboard.org/,beagleboard.org,Open hardware single-board computers for makers,EMB,open,all,
+Bosch Sensortec,https://www.bosch-sensortec.com/,bosch-sensortec.com,"MEMS accelerometers, gyroscopes and environmental sensors",EMB,paid,int,
+Contiki-NG,https://www.contiki-ng.org/,contiki-ng.org,IoT operating system for 6LoWPAN networks,EMB,open,adv,
+Espressif,https://www.espressif.com/,espressif.com,ESP32 chips and the ESP-IDF framework,EMB,open,all,
+FreeRTOS,https://www.freertos.org/,freertos.org,Widely deployed real-time kernel for microcontrollers,EMB,open,int,
+Infineon,https://www.infineon.com/,infineon.com,"Power semiconductors, MCUs and security controllers",EMB,paid,adv,
+LoRa Alliance,https://lora-alliance.org/,lora-alliance.org,Long-range low-power wide-area networking,EMB,paid,adv,
+Mbed,https://www.mbed.com/,mbed.com,Arm IoT platform with device management,EMB,open,int,
+Microchip Technology,https://www.microchip.com/,microchip.com,"PIC, AVR MCUs and development tools",EMB,paid,all,
+MQTT,https://mqtt.org/,mqtt.org,Lightweight publish/subscribe protocol for telemetry,EMB,open,int,
+NXP,https://www.nxp.com/,nxp.com,"MCUs, automotive chips and secure elements",EMB,paid,adv,
+Particle,https://www.particle.io/,particle.io,IoT modules plus a device cloud and ota updates,EMB,paid,int,
+PlatformIO,https://platformio.org/,platformio.org,Professional embedded build system and library manager,EMB,open,all,
+Raspberry Pi,https://www.raspberrypi.com/,raspberrypi.com,Low-cost single-board computers and Pico MCUs,EMB,paid,all,
+Renesas,https://www.renesas.com/,renesas.com,"RA, RX and RZ microcontroller families",EMB,paid,adv,
+RIOT OS,https://www.riot-os.org/,riot-os.org,OS for low-power IoT and constrained devices,EMB,open,adv,
+STMicroelectronics,https://www.st.com/,st.com,STM32 microcontrollers and the Cube ecosystem,EMB,paid,int,
+Texas Instruments,https://www.ti.com/,ti.com,"MSP430, C2000, Sitara and reference designs",EMB,paid,all,
+Thread Group,https://threadgroup.org/,threadgroup.org,Low-power mesh networking standard for IoT,EMB,paid,adv,
+Zephyr Project,https://www.zephyrproject.org/,zephyrproject.org,Scalable real-time OS for connected embedded devices,EMB,open,adv,
+Zigbee Alliance,https://csa-iot.org/,csa-iot.org,Short-range mesh standard for smart devices,EMB,paid,int,
+B&K Precision,https://www.bkprecision.com/,bkprecision.com,"Power supplies, electronic loads and component testers.",TESTLAB,paid,int,
+BitScope,https://www.bitscope.com/,bitscope.com,Mixed-signal oscilloscopes for engineers and hobbyists,TESTLAB,paid,all,
+Brüel & Kjær,https://www.bksv.com/,bksv.com,Sound and vibration measurement systems and standards.,TESTLAB,paid,adv,
+Coherent / II-VI,https://www.coherent.com/,coherent.com,Photonics and laser components,TESTLAB,paid,adv,
+Digilent,https://digilent.com/,digilent.com,Test gear and FPGA boards for education,TESTLAB,paid,all,
+Edmund Optics,https://www.edmundoptics.com/,edmundoptics.com,"Lenses, imaging and machine vision components",TESTLAB,paid,int,
+EEVBlog Forum,https://www.eevblog.com/forum/,eevblog.com,Community troubleshooting and teardown discussion.,TESTLAB,free,all,
+FLIR,https://www.flir.com/,flir.com,Thermal cameras and machine vision sensors,TESTLAB,paid,int,
+Fluke,https://www.fluke.com/,fluke.com,"Rugged multimeters, thermal cameras and calibrators.",TESTLAB,paid,all,
+Greisinger,https://www.greisinger.de/,greisinger.de,Industrial measuring instruments for temperature and pressure.,TESTLAB,paid,adv,
+Hamamatsu Photonics,https://www.hamamatsu.com/,hamamatsu.com,"Photodetectors, cameras and light sources",TESTLAB,paid,adv,
+Keyence,https://www.keyence.com/,keyence.com,"Sensors, vision systems and measuring instruments for factories",TESTLAB,paid,adv,
+Keysight,https://www.keysight.com/,keysight.com,Electronic test and measurement instruments,TESTLAB,paid,adv,
+LabVIEW,https://www.ni.com/en-us/shop/labview.html,ni.com,Graphical programming for measurement and control,TESTLAB,paid,int,
+NI,https://www.ni.com/,ni.com,"LabVIEW, DAQ and PXI test hardware and software",TESTLAB,paid,int,
+Polytec,https://www.polytec.com/,polytec.com,Laser vibrometers for non-contact vibration measurement.,TESTLAB,paid,adv,
+Rigol,https://www.rigol.com/,rigol.com,Affordable oscilloscopes and power supplies,TESTLAB,paid,all,
+Rohde & Schwarz,https://www.rohde-schwarz.com/,rohde-schwarz.com,"RF, wireless and oscilloscope test equipment",TESTLAB,paid,adv,
+Saleae,https://www.saleae.com/,saleae.com,Logic analyzers with intuitive protocol decoding,TESTLAB,paid,all,
+Siglent,https://www.siglent.com/,siglent.com,Test and measurement instruments for labs,TESTLAB,paid,all,
+Taylor Hobson,https://www.taylor-hobson.com/,taylor-hobson.com,Surface roughness and form measurement instruments.,TESTLAB,paid,adv,
+Tektronix,https://www.tek.com/,tek.com,Oscilloscopes and logic analyzers,TESTLAB,paid,int,
+Teledyne,https://www.teledyne.com/,teledyne.com,Imaging and instrumentation for science and defence,TESTLAB,paid,adv,
+Testo,https://www.testo.com/,testo.com,Portable measuring instruments for HVAC and process.,TESTLAB,paid,int,
+Thorlabs,https://www.thorlabs.com/,thorlabs.com,"Optomechanics, lasers and photonics catalogue",TESTLAB,paid,adv,
+AFLOW,https://aflow.org/,aflow.org,High-throughput materials discovery framework,MAT,open,adv,
+Ansys Granta Materials Intelligence,https://www.ansys.com/products/materials/ansys-granta-materials-intelligence,ansys.com,Materials selection databases,MAT,paid,adv,
+ASM International,https://www.asminternational.org/,asminternational.org,Materials information society,MAT,paid,adv,
+AZoM,https://www.azom.com/,azom.com,Materials science news and guides,MAT,free,all,
+Goodfellow,https://www.goodfellow.com/,goodfellow.com,Materials supplier with property data,MAT,paid,adv,
+Materials Project,https://next-gen.materialsproject.org/,next-gen.materialsproject.org,Computed properties for inorganic compounds,MAT,open,adv,
+MatWeb,https://www.matweb.com/,matweb.com,Free searchable material property database,MAT,freemium,all,
+NIST Materials Data,https://materialsdata.nist.gov/,materialsdata.nist.gov,Open materials property datasets,MAT,open,adv,
+Open Quantum Materials Database,https://oqmd.org/,oqmd.org,Quantum computed materials database,MAT,open,adv,
+Polymer Property Database,https://polymerdatabase.com/,polymerdatabase.com,Polymer engineering properties,MAT,free,int,
+Total Materia,https://www.totalmateria.com/,totalmateria.com,Materials property and standards database,MAT,paid,adv,
+.NET,https://dotnet.microsoft.com/,dotnet.microsoft.com,Microsoft cross-platform runtime and libraries,COD,open,all,
+AddressSanitizer,https://github.com/google/sanitizers,github.com,Compiler instrumentation catching memory bugs at runtime.,COD,free,adv,
+Android Studio,https://developer.android.com/studio,developer.android.com,Official IDE for Android apps and Jetpack Compose,COD,free,all,
+Angular,https://angular.dev/,angular.dev,Full TypeScript framework for large web apps,COD,open,int,
+Apache Airflow,https://airflow.apache.org/,airflow.apache.org,Workflow orchestration with Python DAGs,COD,open,int,
+Apache Flink,https://flink.apache.org/,flink.apache.org,Stream processing with event-time semantics,COD,open,adv,
+Apache Kafka,https://kafka.apache.org/,kafka.apache.org,Distributed event streaming log,COD,open,adv,
+Apache Spark,https://spark.apache.org/,spark.apache.org,Cluster computing for large-scale data,COD,open,adv,
+Arrow,https://arrow.apache.org/,arrow.apache.org,Columnar memory format for zero-copy data exchange.,COD,free,adv,
+Babylon.js,https://www.babylonjs.com/,babylonjs.com,WebGL/ WebGPU engine for 3D web apps,COD,open,int,
+Bazel,https://bazel.build/,bazel.build,"Hermetic, reproducible build system for monorepos.",COD,free,adv,
+Bitbucket,https://bitbucket.org/,bitbucket.org,Atlassian git hosting with pipelines,COD,freemium,int,
+Bun,https://bun.sh/,bun.sh,"Fast all-in-one JS runtime, bundler and test runner",COD,open,int,
+C,https://www.open-std.org/,open-std.org,Foundational systems language still driving hardware-near code.,COD,free,adv,
+C++ / ISO C++,https://isocpp.org/,isocpp.org,Standards body and resources for C++,COD,open,all,
+Clang,https://clang.llvm.org/,clang.llvm.org,C-family front end with fast diagnostics and tooling,COD,open,adv,
+CLion,https://www.jetbrains.com/clion/,jetbrains.com,Cross-platform C and C++ IDE with CMake and debugger,COD,paid,int,
+CMake,https://cmake.org/,cmake.org,Cross-platform build system generator for C/C++,COD,open,all,
+CMake Presets,https://cmake.org/cmake/help/latest/manual/cmake-presets.7.html,cmake.org,Standardised build configuration for portable C++ projects.,COD,free,adv,
+Codeberg,https://codeberg.org/,codeberg.org,Non-profit forge running Forgejo for free projects,COD,open,all,
+CodeSandbox,https://codesandbox.io/,codesandbox.io,Cloud sandboxes for frontend and full-stack prototypes,COD,freemium,all,
+Conan,https://conan.io/,conan.io,C and C++ package manager,COD,open,int,
+Conda,https://conda.io/,conda.io,Cross-language package and environment manager for science.,COD,free,int,
+Conda / Anaconda,https://www.anaconda.com/,anaconda.com,Package and environment manager for scientific Python,COD,freemium,all,
+conda-forge,https://conda-forge.org/,conda-forge.org,Community conda channel with CI-built packages,COD,open,int,
+Crates.io,https://crates.io/,crates.io,Rust package registry,COD,open,all,
+CryEngine,https://www.cryengine.com/,cryengine.com,Graphics-focused game engine,COD,paid,int,
+curl,https://curl.se/,curl.se,Command-line transfer tool present on every engineering machine.,COD,free,int,
+Dagster,https://dagster.io/,dagster.io,Asset-oriented data orchestration,COD,open,int,
+Dart / Flutter,https://flutter.dev/,flutter.dev,"Cross-platform UI toolkit for mobile, web and desktop",COD,open,all,
+dbt,https://www.getdbt.com/,getdbt.com,SQL transformation workflows for analytics,COD,freemium,int,
+Deno,https://deno.com/,deno.com,Secure modern JavaScript and TypeScript runtime,COD,open,int,
+Django,https://www.djangoproject.com/,djangoproject.com,Batteries-included Python web framework.,COD,free,int,
+DuckDB,https://duckdb.org/,duckdb.org,In-process analytical database for fast local queries.,COD,free,int,
+Eclipse Foundation,https://eclipse.org/,eclipse.org,"Home of open IoT, embedded and Java tooling",COD,open,adv,
+Eclipse IDE,https://eclipseide.org/,eclipseide.org,Extensible IDE anchored in Java with CDT for C/C++,COD,open,int,
+FastAPI,https://fastapi.tiangolo.com/,fastapi.tiangolo.com,Modern Python API framework with automatic OpenAPI docs.,COD,free,int,
+Flask,https://flask.palletsprojects.com/,flask.palletsprojects.com,Minimal Python web framework for APIs and prototypes.,COD,free,int,
+Forgejo,https://forgejo.org/,forgejo.org,Community fork of Gitea for self-hosting,COD,open,int,
+Fortran,https://fortran-lang.org/,fortran-lang.org,Numerical language that still runs the heaviest science codes.,COD,free,adv,
+GCC,https://gcc.gnu.org/,gcc.gnu.org,"GNU compiler collection for C, C++, Fortran and Ada",COD,open,adv,
+GDB,https://www.sourceware.org/gdb/,sourceware.org,The standard source-level debugger for native code.,COD,free,adv,
+Gitea,https://gitea.io/,gitea.io,Lightweight self-hosted git service,COD,open,int,
+Gitee,https://gitee.com/,gitee.com,China-based git hosting and collaboration platform,COD,freemium,int,
+GitHub,https://github.com/,github.com,The largest host of git repositories and open-source collaboration,COD,freemium,all,
+GitHub Actions,https://github.com/features/actions,github.com,CI/CD workflows defined in-repo,COD,freemium,int,
+AI Engineering with LLMs,https://www.deeplearning.ai/,deeplearning.ai,Courses from Andrew Ng on building with foundation models.,AIENG,freemium,all,yes
+AI21 Labs,https://www.ai21.com/,ai21.com,Hebrew-capable language models and document AI.,AIENG,paid,adv,yes
+Anthropic,https://www.anthropic.com/,anthropic.com,Claude models and the Agent SDK for engineering workflows.,AIENG,paid,adv,yes
+Apache Software Foundation,https://www.apache.org/,apache.org,"Steward of Kafka, Spark, Airflow and 350-plus open projects.",AIENG,free,adv,
+arXiv AI,https://arxiv.org/list/cs.AI/recent,arxiv.org,Daily stream of artificial intelligence preprints.,AIENG,free,adv,
+AssemblyAI,https://www.assemblyai.com/,assemblyai.com,Speech-to-text API with entity and sentiment extraction.,AIENG,freemium,adv,yes
+Bolt.new,https://bolt.new/,bolt.new,Prompt-to-web-app builder running entirely in the browser.,AIENG,freemium,all,yes
+Claude Code,https://www.anthropic.com/claude-code,anthropic.com,"Terminal agent that reads the repo, edits and runs tests.",AIENG,paid,adv,yes
+CNCF,https://www.cncf.io/,cncf.io,Cloud Native Computing Foundation landscape and training.,AIENG,free,adv,
+CodeRabbit,https://www.coderabbit.ai/,coderabbit.ai,Pull request reviewer that comments on diffs automatically.,AIENG,freemium,adv,yes
+Cohere,https://cohere.com/,cohere.com,Enterprise language models with retrieval and rerank APIs.,AIENG,paid,adv,yes
+ComfyUI,https://www.comfy.org/,comfy.org,Node-based interface for image and video generation pipelines.,AIENG,free,adv,yes
+Copilot Workspace,https://githubnext.com/projects/copilot-workspace,githubnext.com,Issue-to-pull-request agent working across a whole repository.,AIENG,paid,adv,yes
+cuDNN,https://developer.nvidia.com/cudnn,developer.nvidia.com,GPU primitives for deep neural network operations.,AIENG,free,adv,
+Dependabot,https://github.com/dependabot,github.com,Automated dependency updates and vulnerability alerts.,AIENG,free,adv,yes
+ElevenLabs,https://elevenlabs.io/,elevenlabs.io,Voice synthesis and dubbing used in product interfaces.,AIENG,freemium,all,yes
+Fast.ai,https://www.fast.ai/,fast.ai,Practical deep learning courses and a friendly training library.,AIENG,free,int,yes
+Gemini CLI,https://github.com/google-gemini/gemini-cli,github.com,Open-source terminal assistant connected to Gemini models.,AIENG,free,adv,yes
+Git,https://git-scm.com/,git-scm.com,Distributed version control that underpins modern engineering.,AIENG,free,all,
+Google AI Studio,https://aistudio.google.com/,aistudio.google.com,Fastest path to prototype with Gemini models and prompts.,AIENG,free,all,yes
+Google DeepMind,https://deepmind.google/,deepmind.google,"Frontier research lab behind AlphaFold, AlphaCode and Gemini.",AIENG,free,adv,yes
+Helicone,https://www.helicone.ai/,helicone.ai,"Open-source LLM gateway for logging, caching and budgets.",AIENG,freemium,adv,yes
+Hugging Face Transformers,https://huggingface.co/docs/transformers,huggingface.co,"Library of pretrained models for text, vision and audio.",AIENG,free,adv,yes
+Intel oneAPI AI Tools,https://www.intel.com/content/www/us/en/developer/tools/oneapi/ai-analytics-toolkit.html,intel.com,Optimised AI analytics for Intel hardware.,AIENG,free,adv,yes
+Kaggle,https://www.kaggle.com/,kaggle.com,"Competitions, datasets and notebooks for hands-on practice.",AIENG,free,all,yes
+Kite,https://github.com/features/copilot,github.com,"Veteran Python completion service, largely sunset but referenced widely.",AIENG,free,int,yes
+LangSmith,https://www.langsmith.com/,langsmith.com,Observability and evaluation for LLM applications.,AIENG,freemium,adv,yes
+LightGBM,https://lightgbm.readthedocs.io/,lightgbm.readthedocs.io,Microsoft gradient boosting with fast histogram training.,AIENG,free,adv,
+Linux Foundation,https://www.linuxfoundation.org/,linuxfoundation.org,"Neutral home for Kubernetes, Linux and hundreds of open projects.",AIENG,free,adv,
+Lovable,https://lovable.dev/,lovable.dev,Natural-language full-stack app generation with hosting.,AIENG,freemium,all,yes
+Mistral AI,https://mistral.ai/,mistral.ai,Open-weight European models with a cloud and Le Chat.,AIENG,freemium,adv,yes
+n8n,https://n8n.io/,n8n.io,Fair-code workflow automation with AI agent nodes.,AIENG,freemium,adv,yes
+Notion AI,https://www.notion.so/product/ai,notion.so,Writing and summarising assistant inside a workspace tool.,AIENG,paid,all,yes
+NVIDIA NeMo,https://developer.nvidia.com/nemo-framework,developer.nvidia.com,Framework for training and customising large language models.,AIENG,free,adv,yes
+OpenAI API Platform,https://platform.openai.com/,platform.openai.com,"Models, fine-tuning and tools for building AI features.",AIENG,paid,adv,yes
+OpenAI Codex,https://openai.com/codex/,openai.com,Cloud coding agent that works in isolated environments.,AIENG,paid,adv,yes
+Papers with Code,https://paperswithcode.com/,paperswithcode.com,Research papers linked to their official implementations.,AIENG,free,adv,yes
+Perplexity,https://www.perplexity.ai/,perplexity.ai,Answer engine that searches and cites sources as it reasons.,AIENG,freemium,all,yes
+Playwright,https://playwright.dev/,playwright.dev,Modern end-to-end testing with tracing and AI helpers.,AIENG,free,adv,yes
+Robot Framework,https://robotframework.org/,robotframework.org,Keyword-driven test automation extended by AI plugins.,AIENG,free,adv,
+Runway,https://runwayml.com/,runwayml.com,Video generation and editing tools for creative engineering.,AIENG,paid,all,yes
+Selenium,https://www.selenium.dev/,selenium.dev,Browser automation standard for web application testing.,AIENG,free,adv,
+Snyk,https://snyk.io/,snyk.io,Developer security platform scanning dependencies and containers.,AIENG,freemium,adv,yes
+SonarQube,https://www.sonarsource.com/products/sonarqube/,sonarsource.com,"Static analysis for bugs, vulnerabilities and technical debt.",AIENG,freemium,adv,yes
+Sourcery,https://sourcery.ai/,sourcery.ai,Python refactoring suggestions and AI review.,AIENG,freemium,int,yes
+Stability AI,https://stability.ai/,stability.ai,"Open image, audio and 3D generation models.",AIENG,paid,adv,yes
+Triton Language,https://triton-lang.org/,triton-lang.org,Open GPU kernel language for writing custom operators.,AIENG,free,adv,
+v0,https://v0.dev/,v0.dev,Vercel's UI generator turning prompts into React components.,AIENG,freemium,all,yes
+xgboost,https://xgboost.readthedocs.io/,xgboost.readthedocs.io,Gradient boosting library that wins many tabular benchmarks.,AIENG,free,adv,
+Zapier AI,https://zapier.com/ai,zapier.com,Automation platform with natural-language workflow building.,AIENG,freemium,all,yes
+Aider,https://aider.chat/,aider.chat,Terminal AI pair programming tightly integrated with git,SAI,open,int,
+Altair AI / PhysicsAI,https://altair.com/artificial-intelligence,altair.com,Downloads and documentation for Altair AI tools.,SAI,free,adv,yes
+Altair RapidMiner,https://altair.com/rapidminer,altair.com,Visual data science and AutoML workbench for engineering data,SAI,paid,int,
+Ansys AI+,https://www.ansys.com/products/artificial-intelligence,ansys.com,"AI portfolio spanning surrogates, GenAI and materials.",SAI,paid,adv,yes
+Ansys SimAI Cloud,https://simai.ansys.com/,simai.ansys.com,Web app training and running AI simulation surrogates.,SAI,paid,adv,yes
+Augment Code,https://www.augmentcode.com/,augmentcode.com,Context engine and agent for large enterprise codebases.,SAI,paid,adv,yes
+Baseten,https://www.baseten.co/,baseten.co,Production inference for fine-tuned and open models.,SAI,paid,adv,yes
+ChatGPT,https://chatgpt.com/,chatgpt.com,"General assistant for explanation, code and documentation.",SAI,freemium,all,yes
+Claude,https://claude.ai/,claude.ai,Long-context assistant strong on code and documents.,SAI,freemium,all,yes
+Dassault Systèmes xGen,https://www.3ds.com/,3ds.com,Family including Generative Shape Design for concept exploration.,SAI,paid,adv,yes
+DeepMind AlphaDev,https://deepmind.google/discover/blog/alphadev-discovers-faster-sorting-algorithms/,deepmind.google,AI that found faster sorting routines now in standard libraries.,SAI,free,adv,yes
+DeepMind AlphaFold,https://deepmind.google/technologies/alphafold/,deepmind.google,Structure prediction that reshaped biochemistry and materials.,SAI,free,adv,yes
+DeepMind AlphaGeometry,https://deepmind.google/discover/blog/alphageometry/,deepmind.google,AI proving geometry theorems at olympiad level.,SAI,free,adv,yes
+DeepMind GNoME,https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/,deepmind.google,Graph networks proposing millions of stable crystal structures.,SAI,free,adv,yes
+Excalidraw,https://excalidraw.com/,excalidraw.com,Hand-drawn-style whiteboard for architecture sketches.,SAI,free,all,yes
+Gamma,https://gamma.app/,gamma.app,AI-generated presentations and technical briefs.,SAI,freemium,all,yes
+Gemini,https://gemini.google.com/,gemini.google.com,Multimodal assistant integrated with Google tooling.,SAI,freemium,all,yes
+Graphcore,https://www.graphcore.ai/,graphcore.ai,Intelligence Processing Unit and Poplar software stack.,SAI,paid,adv,yes
+Grok / xAI,https://x.ai/,x.ai,Real-time model with an API and a coding CLI.,SAI,paid,all,yes
+Hugging Face Datasets,https://huggingface.co/datasets,huggingface.co,Catalogue of datasets with viewer and versioning.,SAI,free,adv,yes
+Hugging Face Spaces,https://huggingface.co/spaces,huggingface.co,Hosted demos and apps for open models.,SAI,free,all,yes
+Insilico Medicine,https://insilico.com/,insilico.com,"Generative AI for discovery, now with clinical stage candidates.",SAI,paid,adv,yes
+Kiro,https://kiro.dev/,kiro.dev,Agentic IDE from AWS turning specs into code and tests.,SAI,freemium,all,yes
+Mermaid,https://mermaid-js.github.io/mermaid/,mermaid-js.github.io,Text-based diagrams rendered in Markdown and docs.,SAI,free,all,yes
+Microsoft Copilot,https://www.microsoft.com/en-us/microsoft-copilot,microsoft.com,"Assistant embedded in Office, Windows and developer tools.",SAI,paid,all,yes
+Neovim,https://neovim.io/,neovim.io,Extensible editor with a thriving Lua plugin ecosystem.,SAI,free,adv,yes
+Nevergrad,https://facebookresearch.github.io/nevergrad/,facebookresearch.github.io,Derivative-free optimisation for black-box tuning.,SAI,free,adv,yes
+NotebookLM,https://notebooklm.google.com/,notebooklm.google.com,Grounded Q&A and audio overviews from your own documents.,SAI,free,all,yes
+NVIDIA AI Enterprise,https://www.nvidia.com/en-us/ai/enterprise/,nvidia.com,Supported software stack for production AI deployment.,SAI,paid,adv,yes
+NVIDIA Cosmos,https://www.nvidia.com/en-us/ai/cosmos/,nvidia.com,World foundation models for physical AI and robotics.,SAI,paid,adv,yes
+NVIDIA PhysicsNeMo Sym,https://developer.nvidia.com/physicsnemo-sym,developer.nvidia.com,Symbolic toolkit for PDEs and physics priors.,SAI,free,adv,yes
+OpenAI,https://openai.com/,openai.com,Frontier models and APIs used across engineering workflows.,SAI,paid,all,yes
+OpenClaw,https://openclaw.ai/,openclaw.ai,Open personal AI agent framework connecting models to tools.,SAI,free,adv,yes
+Optuna,https://optuna.org/,optuna.org,Hyperparameter and configuration optimisation framework.,SAI,free,adv,yes
+Siemens Industrial Copilot Studio,https://www.siemens.com/en/products/industrial-copilot/studio/,siemens.com,Build custom copilots for engineering and shop-floor tasks.,SAI,paid,adv,yes
+Sourcegraph Cody,https://sourcegraph.com/cody,sourcegraph.com,Codebase-aware assistant with cross-repository search.,SAI,freemium,adv,yes
+Tabnine Enterprise,https://www.tabnine.com/enterprise/,tabnine.com,Self-hosted code assistant with governance controls.,SAI,paid,adv,yes
+Tenstorrent,https://tenstorrent.com/,tenstorrent.com,RISC-V AI accelerator chips with open software.,SAI,paid,adv,yes
+Verseon,https://www.verseon.com/,verseon.com,Physics-based computational chemistry for drug and material design.,SAI,paid,adv,yes
+Zed,https://zed.dev/,zed.dev,High-performance collaborative editor with AI built in.,SAI,free,adv,yes
+Akamai,https://www.akamai.com/,akamai.com,Content delivery and security at global scale,CLOUD,paid,adv,
+Alibaba Cloud,https://www.alibabacloud.com/,alibabacloud.com,Leading Asian cloud with global regions,CLOUD,paid,adv,
+Amazon Web Services,https://aws.amazon.com/,aws.amazon.com,"Broadest cloud with compute, AI, IoT and edge services",CLOUD,paid,all,
+Ansible,https://www.ansible.com/,ansible.com,Agentless automation and configuration management,CLOUD,open,int,
+Argo CD,https://argo-cd.readthedocs.io/,argo-cd.readthedocs.io,GitOps continuous delivery for Kubernetes clusters.,CLOUD,free,adv,
+Argo Workflows,https://argoproj.github.io/workflows/,argoproj.github.io,Kubernetes-native workflow engine for pipelines.,CLOUD,free,adv,
+AWS Educate,https://aws.amazon.com/education/awseducate/,aws.amazon.com,Free cloud learning path for students and educators,CLOUD,free,all,
+AWS Well-Architected,https://aws.amazon.com/architecture/well-architected/,aws.amazon.com,Framework and tooling for reviewing cloud architectures.,CLOUD,free,adv,
+Azure Architecture Center,https://learn.microsoft.com/azure/architecture/,learn.microsoft.com,Reference architectures and design guidance.,CLOUD,free,adv,
+Backstage,https://backstage.io/,backstage.io,Spotify's developer portal for service catalogues and docs.,CLOUD,free,adv,
+Buildkite,https://buildkite.com/,buildkite.com,Hybrid CI running agents on your own infrastructure.,CLOUD,paid,adv,
+Buildpacks,https://buildpacks.io/,buildpacks.io,Turn source code into OCI images without Dockerfiles.,CLOUD,free,adv,
+cert-manager,https://cert-manager.io/,cert-manager.io,Automates TLS certificates inside Kubernetes.,CLOUD,free,adv,
+Chef,https://www.chef.io/,chef.io,Policy-based infrastructure automation,CLOUD,paid,adv,
+Cilium,https://cilium.io/,cilium.io,eBPF-powered networking and security for clusters.,CLOUD,free,adv,
+CircleCI,https://circleci.com/,circleci.com,Cloud continuous integration with caching and parallelism.,CLOUD,freemium,adv,
+Cloudflare,https://www.cloudflare.com/,cloudflare.com,"Edge network for DNS, CDN, workers and security",CLOUD,freemium,all,
+Confluent,https://www.confluent.io/,confluent.io,Managed Kafka with connectors and stream governance.,CLOUD,paid,adv,
+Consul,https://www.hashicorp.com/products/consul,hashicorp.com,Service discovery and mesh networking for microservices.,CLOUD,freemium,adv,
+containerd,https://containerd.io/,containerd.io,Industry-standard container runtime,CLOUD,open,adv,
+CoreWeave,https://www.coreweave.com/,coreweave.com,GPU-native cloud for large model training,CLOUD,paid,adv,
+Crusoe,https://www.crusoe.ai/,crusoe.ai,Carbon-aware GPU cloud built on stranded energy,CLOUD,paid,adv,
+Databricks,https://www.databricks.com/,databricks.com,Lakehouse platform for data engineering and machine learning.,CLOUD,paid,adv,yes
+Dell Technologies,https://www.dell.com/,dell.com,"Servers, storage and client devices",CLOUD,paid,all,
+DigitalOcean,https://www.digitalocean.com/,digitalocean.com,Developer-friendly VPS and managed databases,CLOUD,paid,all,
+Docker,https://www.docker.com/,docker.com,Container platform that standardised app packaging,CLOUD,freemium,all,
+Docker Hub,https://hub.docker.com/,hub.docker.com,Registry of public and private container images,CLOUD,freemium,all,
+Fastly,https://www.fastly.com/,fastly.com,Edge cloud for delivery and compute,CLOUD,paid,adv,
+Firebase,https://firebase.google.com/,firebase.google.com,"Google app backend with auth, DB and hosting",CLOUD,freemium,all,
+Flux,https://fluxcd.io/,fluxcd.io,GitOps toolkit keeping clusters in sync with Git.,CLOUD,free,adv,
+Fly.io,https://fly.io/,fly.io,Run containers close to users on a global mesh,CLOUD,freemium,int,
+Google Cloud,https://cloud.google.com/,cloud.google.com,"Cloud platform known for data, Kubernetes and TPUs",CLOUD,paid,all,
+AMD,https://www.amd.com/,amd.com,"CPUs, GPUs and adaptive computing",SYS,paid,all,
+Apptainer,https://apptainer.org/,apptainer.org,Containers for HPC and science,SYS,open,adv,
+Arch Linux,https://archlinux.org/,archlinux.org,Rolling-release distribution with excellent docs,SYS,open,int,
+Argonne National Laboratory,https://www.anl.gov/,anl.gov,Argonne leadership computing and batteries,SYS,open,adv,
+Arm,https://www.arm.com/,arm.com,Energy-efficient processor architectures,SYS,paid,adv,
+ARPA-E,https://arpa-e.energy.gov/,arpa-e.energy.gov,US energy advanced research projects,SYS,open,adv,
+ARPA-H,https://arpa-h.gov/,arpa-h.gov,Biomedical advanced research projects agency,SYS,open,adv,
+Brookhaven National Laboratory,https://www.bnl.gov/,bnl.gov,Particle accelerator and energy research,SYS,open,adv,
+Ceph,https://ceph.io/,ceph.io,"Distributed object, block and file storage",SYS,open,adv,
+CERN,https://home.cern/,home.cern,Particle physics and the World Wide Web birthplace,SYS,open,all,
+CERN openlab,https://openlab.cern/,openlab.cern,Industry collaboration on computing,SYS,open,adv,
+CORDIS,https://cordis.europa.eu/,cordis.europa.eu,EU research results and funding database,SYS,open,adv,
+CUDA,https://developer.nvidia.com/cuda-toolkit,developer.nvidia.com,GPU programming platform,SYS,free,adv,
+Debian,https://www.debian.org/,debian.org,Community distribution behind Ubuntu,SYS,open,all,
+DOE Office of Science,https://www.energy.gov/science,energy.gov,US research portfolio and scientific user facilities,SYS,open,adv,
+DOE SC user facilities,https://science.osti.gov/User-Facilities,science.osti.gov,Scientific facilities catalogue,SYS,open,adv,
+EasyBuild,https://easybuild.io/,easybuild.io,Software build and installation for HPC,SYS,open,adv,
+European Commission Research,https://research-and-innovation.ec.europa.eu/,research-and-innovation.ec.europa.eu,EU Horizon research funding,SYS,open,adv,
+Fedora,https://fedoraproject.org/,fedoraproject.org,Fast-moving community distribution,SYS,open,int,
+Fermilab,https://www.fnal.gov/,fnal.gov,Particle physics and accelerator engineering,SYS,open,adv,
+FreeBSD,https://www.freebsd.org/,freebsd.org,Unix-like system known for networking and ZFS,SYS,open,adv,
+Green500,https://www.top500.org/green500/,top500.org,Energy efficiency ranking of supercomputers,SYS,free,adv,
+HPCG,https://www.hpcg-benchmark.org/,hpcg-benchmark.org,High-performance conjugate gradient benchmark,SYS,open,adv,
+illumos,https://illumos.org/,illumos.org,Open continuation of OpenSolaris,SYS,open,adv,
+Intel,https://www.intel.com/,intel.com,"Processors, FPGAs and oneAPI tooling",SYS,paid,all,
+ISC High Performance,https://www.isc-hpc.com/,isc-hpc.com,European supercomputing conference and Gordon Bell coverage.,SYS,paid,adv,
+Job Scheduler Slurm,https://slurm.schedmd.com/,slurm.schedmd.com,Cluster workload manager,SYS,open,adv,
+KAUST,https://www.kaust.edu.sa/,kaust.edu.sa,Research university with strong engineering,SYS,open,adv,
+Lawrence Berkeley National Laboratory,https://www.lbl.gov/,lbl.gov,Advanced light source and computing,SYS,open,adv,
+Lawrence Livermore National Laboratory,https://www.llnl.gov/,llnl.gov,Laser fusion and supercomputing,SYS,open,adv,
+Libfabric,https://ofiwg.github.io/libfabric/,ofiwg.github.io,Open fabrics interface,SYS,open,adv,
+Linux,https://www.kernel.org/,kernel.org,"Kernel at the base of servers, phones and embedded gear",SYS,open,all,
+Los Alamos National Laboratory,https://www.lanl.gov/,lanl.gov,National security and materials science,SYS,open,adv,
+MinIO,https://min.io/,min.io,High-performance S3-compatible object store,SYS,open,adv,
+APNIC,https://www.apnic.net/,apnic.net,Asia-Pacific internet registry,NET,paid,adv,
+ARIN,https://www.arin.net/,arin.net,North American internet registry,NET,paid,adv,
+Arista Networks,https://www.arista.com/,arista.com,Data centre networking,NET,paid,adv,
+Broadcom,https://www.broadcom.com/,broadcom.com,Networking and wireless semiconductors plus software.,NET,paid,adv,
+Censys,https://censys.io/,censys.io,Internet-wide host and certificate data,NET,freemium,adv,
+Cisco,https://www.cisco.com/,cisco.com,Networking hardware and software,NET,paid,all,
+Cloudflare Radar,https://radar.cloudflare.com/,radar.cloudflare.com,Global internet traffic insights,NET,free,all,
+DD-WRT,https://dd-wrt.com/,dd-wrt.com,Linux firmware extending consumer router capabilities.,NET,free,int,
+ECMA International,https://ecma-international.org/,ecma-international.org,Standards for JavaScript and C#,NET,paid,adv,
+Ericsson,https://www.ericsson.com/,ericsson.com,5G radio and core network equipment and research.,NET,paid,adv,
+FRRouting,https://frrouting.org/,frrouting.org,Open routing protocol suite for Linux based routers.,NET,free,adv,
+Huawei Carrier,https://carrier.huawei.com/,carrier.huawei.com,Telecom equipment and 5G infrastructure.,NET,paid,adv,
+ICANN,https://www.icann.org/,icann.org,Domain name and IP allocation coordination,NET,open,all,
+IETF,https://www.ietf.org/,ietf.org,Internet standards body behind RFCs,NET,open,adv,
+Juniper Networks,https://www.juniper.net/,juniper.net,"Routers, switches and security",NET,paid,adv,
+Marvell,https://www.marvell.com/,marvell.com,Data infrastructure silicon for storage and networking.,NET,paid,adv,
+MediaTek,https://www.mediatek.com/,mediatek.com,High-volume SoC and connectivity chip designer.,NET,paid,adv,
+Nmap,https://nmap.org/,nmap.org,Network discovery and security scanner,NET,open,int,
+Nokia Networks,https://www.nokia.com/networks/,nokia.com,"Mobile, fixed and optical networking from a telecom veteran.",NET,paid,adv,
+OpenWrt,https://openwrt.org/,openwrt.org,Open router operating system powering embedded networking.,NET,free,int,
+OPNsense,https://opnsense.org/,opnsense.org,Open-source firewall with a clean web interface.,NET,free,adv,
+pfSense,https://www.pfsense.org/,pfsense.org,Open firewall and router platform for edge security.,NET,free,adv,
+RIPE NCC,https://www.ripe.net/,ripe.net,European regional internet registry,NET,paid,adv,
+Shodan,https://www.shodan.io/,shodan.io,Search engine for internet-connected devices,NET,paid,int,
+W3C,https://www.w3.org/,w3.org,Web standards including HTML and WCAG,NET,open,all,
+WEKA,https://weka.io/,weka.io,High-performance parallel file system for AI workloads.,NET,paid,adv,
+Wi-Fi Alliance,https://www.wi-fi.org/,wi-fi.org,Wi-Fi certification and the WPA security standards.,NET,free,all,
+Wireshark,https://www.wireshark.org/,wireshark.org,Network protocol analyser,NET,open,all,
+ZTE,https://www.zte.com.cn/,zte.com.cn,Telecom and mobile network equipment supplier.,NET,paid,adv,
+Burp Suite,https://portswigger.net/burp,portswigger.net,Professional web application testing proxy and scanner.,SEC,freemium,adv,
+Check Point,https://www.checkpoint.com/,checkpoint.com,Cyber security gateways,SEC,paid,adv,
+CIS,https://www.cisecurity.org/,cisecurity.org,CIS hardening benchmarks,SEC,open,adv,
+CISA,https://www.cisa.gov/,cisa.gov,US cybersecurity and infrastructure security agency,SEC,open,all,
+CompTIA,https://www.comptia.org/,comptia.org,IT technician certifications,SEC,paid,all,
+CVE,https://www.cve.org/,cve.org,Common vulnerabilities and exposures program,SEC,open,all,
+CWE,https://cwe.mitre.org/,cwe.mitre.org,Common weakness enumeration,SEC,open,adv,
+Dependabot Alerts,https://docs.github.com/en/code-security/dependabot,docs.github.com,Vulnerability alerts and automated dependency updates.,SEC,free,adv,yes
+EC-Council,https://www.eccouncil.org/,eccouncil.org,Ethical hacking certifications,SEC,paid,adv,
+ENISA,https://www.enisa.europa.eu/,enisa.europa.eu,EU cybersecurity agency,SEC,open,adv,
+FIRST,https://www.first.org/,first.org,Forum of incident response and security teams,SEC,paid,adv,
+Fortinet,https://www.fortinet.com/,fortinet.com,Firewalls and secure networking,SEC,paid,adv,
+Grype,https://github.com/anchore/grype,github.com,Vulnerability scanner for container images and SBOMs.,SEC,free,adv,
+ISC2,https://www.isc2.org/,isc2.org,CISSP certification body,SEC,paid,adv,
+OpenSSF Scorecard,https://securityscorecards.dev/,securityscorecards.dev,Automated security health checks for open source projects.,SEC,free,adv,yes
+Wazuh,https://wazuh.com/,wazuh.com,"Open security monitoring, detection and response platform.",SEC,free,adv,yes
+Checkmk,https://checkmk.com/,checkmk.com,Auto-discovering infrastructure monitoring,OBS,freemium,int,
+Datadog,https://www.datadoghq.com/,datadoghq.com,"SaaS observability across metrics, logs and traces",OBS,paid,adv,
+Dynatrace,https://www.dynatrace.com/,dynatrace.com,AI-driven full-stack monitoring with causal analysis.,OBS,paid,adv,yes
+Elastic Stack,https://www.elastic.co/elastic-stack,elastic.co,"Search and analytics suite for logs, metrics and traces.",OBS,freemium,adv,
+Elasticsearch,https://www.elastic.co/elasticsearch,elastic.co,Search and analytics engine for logs and data,OBS,freemium,adv,
+Grafana,https://grafana.com/,grafana.com,Dashboards and alerting over many data sources,OBS,freemium,all,
+Grafana Mimir Cloud,https://grafana.com/products/cloud/,grafana.com,Managed observability stack from the Grafana team.,OBS,paid,adv,
+Honeycomb,https://www.honeycomb.io/,honeycomb.io,High-cardinality observability for debugging production.,OBS,paid,adv,yes
+Jaeger,https://www.jaegertracing.io/,jaegertracing.io,Distributed tracing backend,OBS,open,adv,
+Loki,https://grafana.com/oss/loki/,grafana.com,Log aggregation designed to be cheap and label-based.,OBS,free,adv,
+Mimir,https://grafana.com/oss/mimir/,grafana.com,Horizontally scalable long-term storage for Prometheus.,OBS,free,adv,
+Nagios,https://www.nagios.org/,nagios.org,Classic host and service monitoring,OBS,open,int,
+New Relic,https://newrelic.com/,newrelic.com,Application performance monitoring,OBS,paid,adv,
+OpenSearch,https://opensearch.org/,opensearch.org,Open-source search and analytics fork of Elasticsearch.,OBS,free,adv,
+OpenTelemetry,https://opentelemetry.io/,opentelemetry.io,"Open standard for traces, metrics and logs",OBS,open,adv,
+Opsgenie,https://www.atlassian.com/software/opsgenie,atlassian.com,Alert management and escalation policies for teams.,OBS,paid,adv,
+PagerDuty,https://www.pagerduty.com/,pagerduty.com,Incident response and on-call scheduling platform.,OBS,paid,adv,yes
+Prometheus,https://prometheus.io/,prometheus.io,Time-series monitoring with a pull model,OBS,open,int,
+Sentry,https://sentry.io/,sentry.io,Error tracking and performance monitoring for applications.,OBS,freemium,all,
+Splunk,https://www.splunk.com/,splunk.com,Log analytics and security information management,OBS,paid,adv,
+Statuspage,https://www.atlassian.com/software/statuspage,atlassian.com,Public status pages communicating incidents to users.,OBS,paid,adv,
+Tempo,https://grafana.com/oss/tempo/,grafana.com,High-volume distributed tracing backend.,OBS,free,adv,
+Zabbix,https://www.zabbix.com/,zabbix.com,Enterprise open monitoring for networks and hosts,OBS,open,int,
+ABET,https://www.abet.org/,abet.org,Accreditation body for engineering and computing degree programmes.,SOC,free,adv,
+ACM,https://www.acm.org/,acm.org,Association for computing machinery,SOC,paid,all,
+ACM Digital Library,https://dl.acm.org/,dl.acm.org,Computing papers and conference proceedings,SOC,paid,adv,
+ACM Student Chapters,https://www.acm.org/chapters/student-chapter,acm.org,Student computing communities,SOC,free,all,
+ACS Publications,https://pubs.acs.org/,pubs.acs.org,Pan-European academy and industry forum.,SOC,paid,adv,
+American Nuclear Society,https://www.ans.org/,ans.org,Nuclear science and engineering society with standards and meetings.,SOC,paid,adv,
+ANSI,https://www.ansi.org/,ansi.org,US standards coordination and accreditation body.,SOC,paid,adv,
+ASEE,https://www.asee.org/,asee.org,"Engineering education research, conferences and Prism magazine.",SOC,paid,adv,
+ASME,https://www.asme.org/,asme.org,Mechanical engineering society,SOC,paid,all,
+ASME Boiler and Pressure Vessel Code,https://www.asme.org/codes-standards,asme.org,Pressure system design codes,SOC,paid,adv,
+ASME Digital Collection,https://asmedigitalcollection.asme.org/,asmedigitalcollection.asme.org,ASME journals and conference papers,SOC,paid,adv,
+BSI Standards,https://www.bsigroup.com/,bsigroup.com,British Standards Institution shop and compliance services.,SOC,paid,adv,
+CAETS,https://www.caets.org/,caets.org,International council of engineering academies,SOC,open,adv,
+Canadian Academy of Engineering,https://cae-acg.ca/,cae-acg.ca,Fellowship and advice on Canadian engineering policy.,SOC,free,adv,
+CNRS,https://www.cnrs.fr/,cnrs.fr,French national research centre with broad engineering labs.,SOC,free,adv,
+Engineering UK,https://www.engb.org/,engb.org,Engineering management and leadership body,SOC,paid,adv,
+Engineers Australia,https://www.engineersaustralia.org.au/,engineersaustralia.org.au,"Accreditation, chartered status and CPD for Australian engineers.",SOC,paid,adv,
+Engineers for a Sustainable World,https://www.esw.org/,esw.org,Sustainability projects for engineers,SOC,free,all,
+Engineers Without Borders,https://ewb-international.org/,ewb-international.org,Development engineering worldwide,SOC,free,all,
+ETH Zurich,https://ethz.ch/,ethz.ch,Leading technical university with open research publications.,SOC,free,adv,
+Fraunhofer,https://www.fraunhofer.de/,fraunhofer.de,Applied research organisation spanning 75 institutes.,SOC,free,adv,
+IEC 61508,https://webstore.iec.ch/en/publication/5979,webstore.iec.ch,Functional safety standard for electrical and electronic systems.,SOC,paid,adv,
+IEEE,https://www.ieee.org/,ieee.org,World's largest technical professional organisation,SOC,paid,all,
+IEEE Spectrum,https://ieeespectrum.substack.com/,ieeespectrum.substack.com,Technology news and engineering careers,SOC,freemium,all,
+IEEE Standards Association,https://standards.ieee.org/,standards.ieee.org,Standards including 802.11 and 754,SOC,paid,adv,
+IEEE Xplore,https://ieeexplore.ieee.org/,ieeexplore.ieee.org,IEEE papers and standards library,SOC,paid,adv,
+IET,https://www.theiet.org/,theiet.org,Institution of Engineering and Technology,SOC,paid,all,
+Indian Institute of Technology,https://www.iitb.ac.in/,iitb.ac.in,IIT Bombay and the wider IIT system's engineering teaching.,SOC,free,adv,
+Innovate UK,https://www.ukri.org/councils/innovate-uk/,ukri.org,Grants and competitions for technology businesses.,SOC,free,adv,
+Institution of Mechanical Engineers,https://www.imeche.org/,imeche.org,UK mechanical engineering body,SOC,paid,all,
+ISO 9001 Quality,https://www.iso.org/iso-9001-quality-management.html,iso.org,Quality management standard explained with implementation guidance.,SOC,paid,adv,
+IStructE,https://www.istructe.org/,istructe.org,Institution of Structural Engineers,SOC,paid,adv,
+Mathematica,https://www.wolfram.com/mathematica/,wolfram.com,Symbolic and numerical computation with a vast function library.,SOC,paid,adv,yes
+MATLAB,https://www.mathworks.com/products/matlab.html,mathworks.com,Matrix language at the centre of engineering analysis and control.,SOC,paid,adv,yes
+3GPP,https://www.3gpp.org/,3gpp.org,Standards for cellular systems from 3G to 6G,COMM,open,adv,
+All About Circuits,https://www.allaboutcircuits.com/,allaboutcircuits.com,"Free electronics textbook, worksheets and a very active forum.",COMM,free,all,
+arXiv Electrical Engineering,https://arxiv.org/list/eess.EE/recent,arxiv.org,"Daily preprints on circuits, signal processing and control.",COMM,free,adv,
+arXiv Robotics,https://arxiv.org/list/cs.RO/recent,arxiv.org,Robotics preprints appearing before conferences.,COMM,free,adv,yes
+ASHRAE,https://www.ashrae.org/,ashrae.org,HVAC standards and design handbooks,COMM,paid,adv,
+ASTM International,https://www.astm.org/,astm.org,Materials and test method standards,COMM,paid,adv,
+Brown EECE 1010,https://engineering.brown.edu/,engineering.brown.edu,Motivational design course notes and labs from Brown University.,COMM,free,int,
+DFMA Institute,https://www.dfma.com/,dfma.com,Design for manufacture and assembly principles with worked examples.,COMM,freemium,adv,
+Electromaker,https://www.electromaker.io/,electromaker.io,"Maker projects, reviews and a community forum.",COMM,free,all,
+Electronics Tutorials,https://www.electronics-tutorials.ws/,electronics-tutorials.ws,"Clear lessons on transistors, op-amps, filters and digital logic.",COMM,free,int,
+Engineering LibreTexts Statics,https://eng.libretexts.org/Bookshelves/Civil_Engineering/Book%3A_Engineering_Statics,eng.libretexts.org,Free statics text with interactive H5P problems.,COMM,free,int,
+Engineering Toolbox,https://www.engineeringtoolbox.com/,engineeringtoolbox.com,"Huge tables of fluid, thermal, pipe, material and electrical data.",COMM,freemium,adv,
+Engineering.com,https://www.engineering.com/,engineering.com,"Engineering.com technical articles, webinars and product comparisons.",COMM,free,adv,
+EPO,https://www.epo.org/,epo.org,European Patent Office search and classification tools.,COMM,free,adv,
+ETSI,https://www.etsi.org/,etsi.org,European standards for telecom and cybersecurity,COMM,open,adv,
+Google Patents,https://patents.google.com/,patents.google.com,Full-text patent search with prior art and machine translation.,COMM,free,all,yes
+GSMA,https://www.gsma.com/,gsma.com,Mobile industry body behind 5G and eSIM specs,COMM,paid,adv,
+Hackster.io,https://www.hackster.io/,hackster.io,"Hardware project tutorials, contests and product launches.",COMM,freemium,all,
+HAL Engineering,https://hal.science/,hal.science,French open archive for theses and engineering papers.,COMM,free,adv,
+Hypertextbook Physics,https://hyperphysics.phy-astr.gsu.edu/hbase/,hyperphysics.phy-astr.gsu.edu,"Georgia State concept maps linking equations, diagrams and explanations.",COMM,free,int,
+IEA Technology Perspectives,https://www.iea.org/reports/energy-technology-perspectives,iea.org,Scenario analysis of clean energy technology pathways.,COMM,free,adv,
+IEC,https://www.iec.ch/,iec.ch,"Standards for electrical, electronic and safety engineering",COMM,paid,adv,
+IEC Webstore,https://webstore.iec.ch/,webstore.iec.ch,"International electrotechnical standards for power, electronics and safety.",COMM,paid,adv,
+IEEE Access,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6523266,ieeexplore.ieee.org,Fully open multidisciplinary IEEE journal.,COMM,free,adv,
+IEEE Spectrum Robotics,https://spectrum.ieee.org/robotics,spectrum.ieee.org,Robotics news and the yearly robotics coverage roundup.,COMM,free,all,
+ISO,https://www.iso.org/,iso.org,International standards including ISO 9001 and 26262,COMM,paid,adv,
+ISO Standards Catalogue,https://www.iso.org/standards.html,iso.org,"Browse ISO 9001, 14001, 26262 and 10,000 other engineering standards.",COMM,paid,adv,
+Lens.org Patents,https://www.lens.org/,lens.org,Patent and scholarly search with citation mapping.,COMM,freemium,adv,yes
+Apprenticeship.gov,https://www.apprenticeship.gov/,apprenticeship.gov,US registered apprenticeship finder including advanced manufacturing.,CAREER,free,all,
+Arduino Forum,https://forum.arduino.cc/,forum.arduino.cc,Peer support and project discussion for the Arduino community.,CAREER,free,all,
+Ars Technica,https://arstechnica.com/,arstechnica.com,"Deep technical reporting on computing, space and policy.",CAREER,freemium,all,
+ASQ,https://www.asq.org/,asq.org,Quality engineering certification and the Journal of Quality Technology.,CAREER,paid,adv,
+BLS Engineering Outlook,https://www.bls.gov/ooh/architecture-and-engineering/,bls.gov,Employment projections and pay data by engineering discipline.,CAREER,free,all,
+CERN Open Hardware Licence,https://ohwr.org/,ohwr.org,Licences developed for electronics and hardware designs.,CAREER,free,adv,
+Consensus,https://consensus.app/,consensus.app,Search engine answering technical questions from paper evidence.,CAREER,freemium,all,yes
+Control Engineering,https://www.controleng.com/,controleng.com,"Automation, control and instrumentation product and project news.",CAREER,free,adv,
+Coursera Project Management,https://www.coursera.org/professional-certificates/google-project-management,coursera.org,Entry-level certificate bridging engineering and delivery.,CAREER,paid,int,
+Design Engineering,https://www.design-engineering.com/,design-engineering.com,Mechanical design and simulation industry coverage.,CAREER,free,adv,
+Elicit,https://elicit.com/,elicit.com,AI research assistant that extracts data from papers into tables.,CAREER,freemium,adv,yes
+Engineer's Creed,https://www.nspe.org/resources/ethics/engineers-creed,nspe.org,Professional ethics statement every engineer should know.,CAREER,free,all,
+Engineering Ethics: Online Ethics Center,https://onlineethics.org/,onlineethics.org,Case studies and teaching materials on engineering ethics.,CAREER,free,all,
+Engineering Jobs,https://www.ziprecruiter.com/,ziprecruiter.com,Job search with salary estimates for engineering roles.,CAREER,free,adv,
+EngineeringUK,https://engineeringuk.com/,engineeringuk.com,Reports on the engineering workforce and apprenticeship pipeline.,CAREER,free,all,
+Engineers Against Poverty,https://www.engineersagainstpoverty.org/,engineersagainstpoverty.org,Volunteering and training linking engineers to development needs.,CAREER,free,adv,
+Engineers Without Borders Careers,https://www.ewb-usa.org/careers,ewb-usa.org,Volunteer and staff roles in development engineering.,CAREER,free,all,
+EU Careers,https://eu-careers.europa.eu/,eu-careers.europa.eu,Engineering and policy posts within the European institutions.,CAREER,free,adv,
+Fab Lab Network,https://fabfoundation.org/,fabfoundation.org,Global network of digital fabrication laboratories.,CAREER,freemium,all,
+Figshare,https://figshare.com/,figshare.com,Research output hosting used by many engineering departments.,CAREER,freemium,adv,
+GitHub Sponsors,https://github.com/sponsors,github.com,Funding for maintainers of engineering-critical open source.,CAREER,free,adv,
+Google Scholar,https://scholar.google.com/,scholar.google.com,Citation search across all engineering literature.,CAREER,free,adv,
+Hackaday,https://hackaday.com/,hackaday.com,"Daily hardware projects, teardowns and contest coverage.",CAREER,free,int,
+Hackerspaces List,https://wiki.hackerspaces.org/,wiki.hackerspaces.org,Directory of community workshops with tools and mentorship.,CAREER,free,all,
+IEEE Transactions Directory,https://www.ieee.org/publications/transactions,ieee.org,Index of IEEE journals by technical society.,CAREER,paid,adv,
+IEEE WIE,https://wie.ieee.org/,wie.ieee.org,Women in engineering affinity group with travel grants.,CAREER,free,all,
+INCOSE,https://www.incose.org/,incose.org,"Systems engineering certification, handbook and events.",CAREER,paid,adv,
+Jobs in Engineering,https://www.indeed.com/q-engineering-jobs.html,indeed.com,Aggregated engineering vacancies searchable by discipline.,CAREER,free,adv,
+Make Magazine,https://makezine.com/,makezine.com,Long-running magazine of DIY technology and projects.,CAREER,freemium,all,
+Makerspace Directory,https://www.makerspace.com/,makerspace.com,Searchable list of community workshops and equipment.,CAREER,free,all,
+MIT Technology Review,https://www.technologyreview.com/,technologyreview.com,Technology analysis and the 10 Breakthrough Technologies list.,CAREER,freemium,all,
+NASA Internships,https://intern.nasa.gov/,intern.nasa.gov,Paid student placements across NASA centres and contractors.,CAREER,free,int,
+Scite,https://scite.ai/,scite.ai,Citation statements showing whether papers support or contradict.,CAREER,freemium,adv,yes
+Semantic Scholar,https://www.semanticscholar.org/,semanticscholar.org,AI-assisted paper search with citation graphs and TLDRs.,CAREER,free,adv,yes
